@@ -81,6 +81,13 @@ validation_generator = train_datagen.flow_from_directory(
     shuffle = shuffle,
     subset = 'validation')
 
+test_generator = train_datagen.flow_from_directory(
+    data_directory,
+    target_size = (img_width,img_height),
+    class_mode = None,
+    color_mode = color_mode,
+    shuffle=shuffle)
+
 model = Sequential()
 # conv_layer = layers.Conv2D(
 #     filters=12,
@@ -109,12 +116,15 @@ model.add(layers.Flatten())
 num_classes = train_generator.num_classes
 model.add(layers.Dense(num_classes, activation='softmax'))
 
-model.compile(loss='mean_squared_error', optimizer='adam')
+model.compile(loss='mean_squared_error', optimizer='adam', metrics = ['accuracy'])
 
-nb_epochs = 10
+nb_epochs = 5
 model.fit_generator(
     train_generator,
     steps_per_epoch = train_generator.samples // batch_size,
     validation_data = validation_generator, 
     validation_steps = validation_generator.samples // batch_size,
     epochs = nb_epochs)
+
+
+probabilities = model.predict_generator(test_generator, 20)

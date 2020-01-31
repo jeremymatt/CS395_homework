@@ -1,0 +1,120 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jan 30 13:34:10 2020
+
+@author: jmatt
+"""
+
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from keras.preprocessing.image import ImageDataGenerator as IDG
+from keras import Sequential 
+from keras import layers
+from keras import optimizers
+
+
+
+on_windows = True
+if on_windows:
+    data_directory = 'D:\\Data\\Sketches\\png'
+    path_delim = '\\'
+else:
+    data_directory = '~scratch/Data/Sketches/png'
+    path_delim = '/'
+
+data_list = 'filelist.txt'
+
+filename = '{}{}{}'.format(data_directory,path_delim,data_list)
+
+image_list = pd.read_csv(filename,names=['files'])
+
+
+image_list = [(fn.split('/')[0],fn.split('/')[1]) for fn in image_list['files']]
+
+
+import matplotlib.image as mpimg
+
+file_tpl = image_list[100]
+fn = '{}{}{}{}{}'.format(data_directory,path_delim,file_tpl[0],path_delim,file_tpl[1])
+
+fn = f'{data_directory}{path_delim}{file_tpl[0]}{path_delim}{file_tpl[1]}'
+
+img=mpimg.imread(fn)
+imgplot = plt.imshow(img)
+plt.show()
+
+
+
+# From https://stackoverflow.com/questions/46717742/split-data-directory-into-training-and-test-directory-with-sub-directory-structu
+#image dimensions
+img_height = 100
+img_width = 100
+
+
+train_datagen = IDG(
+    samplewise_std_normalization=False,
+    horizontal_flip = True,
+    validation_split = 0.2)
+
+batch_size = 32
+class_mode = 'categorical'
+color_mode = 'grayscale'
+shuffle = True
+
+train_generator = train_datagen.flow_from_directory(
+    data_directory,
+    target_size = (img_width,img_height),
+    batch_size = batch_size,
+    class_mode = class_mode,
+    color_mode = color_mode,
+    shuffle = shuffle,
+    subset = 'training')
+
+validation_generator = train_datagen.flow_from_directory(
+    data_directory,
+    target_size = (img_width,img_height),
+    batch_size = batch_size,
+    class_mode = class_mode,
+    color_mode = color_mode,
+    shuffle = shuffle,
+    subset = 'validation')
+
+model = Sequential()
+# conv_layer = layers.Conv2D(
+#     filters=12,
+#     kernel_size = (3,3),
+#     strides = (1,1),
+#     padding = 'valid',
+#     activation = None)
+# conv_layer_relu = layers.Conv2D(
+#     filters=12,
+#     kernel_size = (3,3),
+#     strides = (1,1),
+#     padding = 'valid',
+#     activation = 'relu')
+
+model.add(layers.Conv2D(64, kernel_size=3, activation='relu', input_shape=(100,100,1)))
+model.add(layers.Conv2D(32, kernel_size=1, activation='relu'))
+model.add(layers.Conv2D(64, kernel_size=3, activation='relu'))
+model.add(layers.Conv2D(32, kernel_size=1, activation='relu'))
+model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
+model.add(layers.Conv2D(64, kernel_size=3, activation='relu'))
+model.add(layers.Conv2D(32, kernel_size=1, activation='relu'))
+model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
+
+model.add(layers.Flatten())
+
+num_classes = train_generator.num_classes
+model.add(layers.Dense(num_classes, activation='softmax'))
+
+model.compile(loss='mean_squared_error', optimizer='adam')
+
+nb_epochs = 10
+model.fit_generator(
+    train_generator,
+    steps_per_epoch = train_generator.samples // batch_size,
+    validation_data = validation_generator, 
+    validation_steps = validation_generator.samples // batch_size,
+    epochs = nb_epochs)

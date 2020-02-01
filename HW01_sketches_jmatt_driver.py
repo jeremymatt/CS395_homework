@@ -17,7 +17,7 @@ from keras import optimizers
 
 
 
-on_windows = False
+on_windows = True
 if on_windows:
     data_directory = 'D:\\Data\\Sketches\\png'
     path_delim = '\\'
@@ -96,6 +96,7 @@ model = Sequential()
 
 
 model.add(layers.Conv2D(64, kernel_size=3, activation='relu', input_shape=(img_height,img_width,1)))
+model.add(layers.Conv2D(64, kernel_size=1, activation='relu'))
 model.add(layers.Conv2D(64, kernel_size=3, activation='relu'))
 model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
 model.add(layers.Conv2D(128, kernel_size=3, activation='relu'))
@@ -106,7 +107,6 @@ model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
 model.add(layers.Flatten())
 
 model.add(layers.Dense(500, activation='relu'))
-model.add(layers.Dense(500, activation='relu'))
 model.add(Dropout(0.5))
 
 num_classes = train_generator.num_classes
@@ -114,7 +114,7 @@ model.add(layers.Dense(num_classes, activation='softmax'))
 
 model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics = ['accuracy'])
 
-nb_epochs = 10
+nb_epochs = 50
 model.fit_generator(
     train_generator,
     steps_per_epoch = train_generator.samples // batch_size,
@@ -148,12 +148,12 @@ model.fit_generator(
 
 
 
-model.fit_generator(
-        train_generator,
-        steps_per_epoch=train_generator.samples // batch_size,
-        epochs=50,
-        validation_data=validation_generator,
-        validation_steps=validation_generator.samples // batch_size)
+# model.fit_generator(
+#         train_generator,
+#         steps_per_epoch=train_generator.samples // batch_size,
+#         epochs=50,
+#         validation_data=validation_generator,
+#         validation_steps=validation_generator.samples // batch_size)
 
 
 

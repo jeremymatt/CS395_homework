@@ -22,7 +22,7 @@ if on_windows:
     data_directory = 'D:\\Data\\Sketches\\png'
     path_delim = '\\'
 else:
-    data_directory = '~scratch/Data/Sketches/png'
+    data_directory = '~scratch/data/Sketches/png'
     path_delim = '/'
 
 # data_list = 'filelist.txt'

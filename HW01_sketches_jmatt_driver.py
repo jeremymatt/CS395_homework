@@ -17,7 +17,7 @@ from keras import optimizers
 
 
 
-on_windows = True
+on_windows = False
 if on_windows:
     data_directory = 'D:\\Data\\Sketches\\png'
     path_delim = '\\'
@@ -162,5 +162,7 @@ model.save_weights('first_try.h5')
 
 
 acc = model.evaluate_generator(validation_generator, steps=2,verbose=1)
+
+print(acc)
 
 probs = model.predict_generator(validation_generator)

@@ -7,7 +7,6 @@ Created on Thu Jan 30 13:34:10 2020
 
 
 import numpy as np
-import pandas as pd
 import matplotlib.pyplot as plt
 from keras.preprocessing.image import ImageDataGenerator as IDG
 from keras import Sequential 
@@ -18,7 +17,7 @@ from keras import optimizers
 
 
 
-on_windows = True
+on_windows = False
 if on_windows:
     data_directory = 'D:\\Data\\Sketches\\png'
     path_delim = '\\'

@@ -96,7 +96,31 @@ test_generator = train_datagen.flow_from_directory(
     batch_size = 32,
     subset = 'validation')
 
-model = load_model('../output/first_try.h5')
+
+
+model = Sequential()
+
+
+model.add(layers.Conv2D(64, kernel_size=3, activation='relu', input_shape=(img_height,img_width,1)))
+model.add(layers.Conv2D(64, kernel_size=1, activation='relu'))
+model.add(layers.Conv2D(64, kernel_size=3, activation='relu'))
+model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
+model.add(layers.Conv2D(128, kernel_size=3, activation='relu'))
+model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
+model.add(layers.Conv2D(256, kernel_size=3, activation='relu'))
+model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
+
+model.add(layers.Flatten())
+
+model.add(layers.Dense(500, activation='relu'))
+model.add(Dropout(0.5))
+
+num_classes = train_generator.num_classes
+model.add(layers.Dense(num_classes, activation='softmax'))
+
+model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics = ['accuracy'])
+
+model.load_weights('../output/first_try.h5')
 
 
 acc = model.evaluate_generator(validation_generator, steps=2,verbose=1)

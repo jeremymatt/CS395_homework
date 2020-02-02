@@ -44,7 +44,7 @@ train_datagen = IDG(
 
 batch_size = 32
 class_mode = 'categorical'
-color_mode = 'rbg'
+color_mode = 'rgb'
 shuffle = True
 
 train_generator = train_datagen.flow_from_directory(

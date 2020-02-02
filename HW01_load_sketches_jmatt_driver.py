@@ -96,7 +96,7 @@ test_generator = train_datagen.flow_from_directory(
     batch_size = 32,
     subset = 'validation')
 
-model = load_model('first_try.h5')
+model = load_model('~/scratch/DeepLearning/github/CS395_homework/first_try.h5')
 
 
 acc = model.evaluate_generator(validation_generator, steps=2,verbose=1)

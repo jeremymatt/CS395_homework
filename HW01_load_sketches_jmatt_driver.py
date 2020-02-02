@@ -125,6 +125,6 @@ model.load_weights('../output/first_try.h5')
 model.save('../output/jmatt_best_sketches.h5')
 
 
-acc = model.evaluate_generator(test_generator, steps=np.floor(test_generator.n/batch_size),verbose=1)
+acc = model.evaluate_generator(validation_generator, steps=np.floor(validation_generator.n/batch_size),verbose=1)
 
 print(acc)

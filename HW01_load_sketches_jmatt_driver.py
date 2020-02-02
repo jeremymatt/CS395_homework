@@ -93,7 +93,7 @@ test_generator = train_datagen.flow_from_directory(
     target_size = (img_width,img_height),
     class_mode = None,
     color_mode = color_mode,
-    batch_size = 1,
+    batch_size = batch_size,
     subset = 'validation')
 
 
@@ -125,6 +125,6 @@ model.load_weights('../output/first_try.h5')
 model.save('../output/jmatt_best_sketches.h5')
 
 
-acc = model.evaluate_generator(test_generator, steps=test_generator.n,verbose=1)
+acc = model.evaluate_generator(test_generator, steps=np.floor(test_generator.n/batch_size),verbose=1)
 
 print(acc)

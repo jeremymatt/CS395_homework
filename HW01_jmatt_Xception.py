@@ -67,23 +67,25 @@ validation_generator = train_datagen.flow_from_directory(
 
 
 
-
-model = applications.xception.Xception(
+xception = applications.xception.Xception(
     include_top=False, 
     weights='imagenet', 
-    input_tensor=None, 
-    input_shape=None, 
-    pooling=None, 
-    classes=1000)
+    input_shape=(299,299,3), 
+    pooling='avg')
+
+
+
+model = Sequential()
+model.add(xception)
 
 for layer in model.layers:
     layer.trainable = False
     
     
-model.add(layers.Flatten())
+# model.add(layers.Flatten())
 
-model.add(layers.Dense(500, activation='relu'))
-model.add(Dropout(0.5))
+# model.add(layers.Dense(1000, activation='relu'))
+# model.add(Dropout(0.5))
 
 num_classes = train_generator.num_classes
 model.add(layers.Dense(num_classes, activation='softmax'))

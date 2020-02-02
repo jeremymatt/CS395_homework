@@ -99,6 +99,6 @@ test_generator = train_datagen.flow_from_directory(
 model = load_model('first_try.h5')
 
 
-acc = model.evaluate_generator(validation_generator, verbose=1)
+acc = model.evaluate_generator(validation_generator, steps=2,verbose=1)
 
 print(acc)

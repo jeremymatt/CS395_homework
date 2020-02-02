@@ -93,7 +93,7 @@ test_generator = train_datagen.flow_from_directory(
     target_size = (img_width,img_height),
     class_mode = None,
     color_mode = color_mode,
-    batch_size = 32,
+    batch_size = 1,
     subset = 'validation')
 
 
@@ -122,7 +122,9 @@ model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics = ['
 
 model.load_weights('../output/first_try.h5')
 
+model.save('../output/jmatt_best_sketches.h5')
 
-acc = model.evaluate_generator(validation_generator, verbose=1)
+
+acc = model.evaluate_generator(test_generator, steps=test_generator.n,verbose=1)
 
 print(acc)

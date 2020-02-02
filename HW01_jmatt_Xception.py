@@ -36,7 +36,7 @@ img_width = 299
 
 
 train_datagen = IDG(
-    samplewise_std_normalization=True,
+    rescale = 1.0/255.0,
     shear_range = 0.2,
     zoom_range = 0.2,
     horizontal_flip = True,
@@ -105,7 +105,7 @@ model.fit_generator(
 model.save('../output/Xception_FE_model.h5')
 
 
-acc = model.evaluate_generator(validation_generator, steps=2,verbose=1)
+acc = model.evaluate_generator(validation_generator, steps=np.floor(validation_generator.n/batch_size),verbose=1)
 
 model.summary()
 

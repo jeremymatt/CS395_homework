@@ -123,6 +123,6 @@ model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics = ['
 model.load_weights('../output/first_try.h5')
 
 
-acc = model.evaluate_generator(validation_generator, steps=2,verbose=1)
+acc = model.evaluate_generator(validation_generator, verbose=1)
 
 print(acc)

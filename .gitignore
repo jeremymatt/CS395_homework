@@ -1,5 +1,6 @@
-# Excluded Directories #
-data/
+# keras weight files #
+######################
+*.h5
 
 # Temp #
 ########

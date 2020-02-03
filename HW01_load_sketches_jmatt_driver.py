@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan 30 13:34:10 2020
+Created on Sat Feb  1 21:06:39 2020
 
 @author: jmatt
 """
+
+
 
 
 import numpy as np
@@ -14,6 +16,8 @@ from keras.layers import Conv2D, MaxPooling2D
 from keras.layers import Activation, Dropout, Flatten, Dense
 from keras import layers
 from keras import optimizers
+from keras.models import load_model
+
 
 
 
@@ -55,7 +59,7 @@ img_width = 150
 
 
 train_datagen = IDG(
-    rescale = 1.0/255.0,
+    samplewise_std_normalization=True,
     shear_range = 0.2,
     zoom_range = 0.2,
     horizontal_flip = True,
@@ -89,8 +93,10 @@ test_generator = train_datagen.flow_from_directory(
     target_size = (img_width,img_height),
     class_mode = None,
     color_mode = color_mode,
-    batch_size = 32,
+    batch_size = batch_size,
     subset = 'validation')
+
+
 
 model = Sequential()
 
@@ -114,58 +120,11 @@ model.add(layers.Dense(num_classes, activation='softmax'))
 
 model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics = ['accuracy'])
 
-nb_epochs = 50
-model.fit_generator(
-    train_generator,
-    steps_per_epoch = train_generator.samples // batch_size,
-    validation_data = validation_generator, 
-    validation_steps = validation_generator.samples // batch_size,
-    epochs = nb_epochs)
+model.load_weights('../output/first_try.h5')
 
-# model = Sequential()
-# model.add(Conv2D(32, (3, 3), input_shape=(img_height,img_width,1)))
-# model.add(Activation('relu'))
-# model.add(MaxPooling2D(pool_size=(2, 2)))
-
-# model.add(Conv2D(32, (3, 3)))
-# model.add(Activation('relu'))
-# model.add(MaxPooling2D(pool_size=(2, 2)))
-
-# model.add(Conv2D(64, (3, 3)))
-# model.add(Activation('relu'))
-# model.add(MaxPooling2D(pool_size=(2, 2)))
-
-# model.add(Flatten())  # this converts our 3D feature maps to 1D feature vectors
-# model.add(Dense(64))
-# model.add(Activation('relu'))
-# model.add(Dropout(0.5))
-# model.add(Dense(1))
-# model.add(Activation('sigmoid'))
-
-# model.compile(loss='categorical_crossentropy',
-#               optimizer='rmsprop',
-#               metrics=['accuracy'])
+model.save('../output/jmatt_best_sketches.h5')
 
 
-
-# model.fit_generator(
-#         train_generator,
-#         steps_per_epoch=train_generator.samples // batch_size,
-#         epochs=50,
-#         validation_data=validation_generator,
-#         validation_steps=validation_generator.samples // batch_size)
-
-
-
-
-model.save_weights('../output/jmatt_sketches_curtry.h5')
-
-
-acc = model.evaluate_generator(
-    validation_generator, 
-    steps=np.floor(validation_generator.n/batch_size),
-    verbose=1)
+acc = model.evaluate_generator(validation_generator, steps=np.floor(validation_generator.n/batch_size),verbose=1)
 
 print(acc)
-
-probs = model.predict_generator(validation_generator)

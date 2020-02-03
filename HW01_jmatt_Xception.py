@@ -120,7 +120,7 @@ plt.savefig(f'../output/{name}.png')
 
 acc = model.evaluate_generator(
     validation_generator, 
-    steps=20),
+    steps=20,
     verbose=1)
 
 model.summary()

@@ -37,9 +37,9 @@ img_width = 299
 
 train_datagen = IDG(
     samplewise_std_normalization=True,
-    shear_range = 0.2,
-    zoom_range = 0.2,
-    horizontal_flip = True,
+    # shear_range = 0.2,
+    # zoom_range = 0.2,
+    # horizontal_flip = True,
     validation_split = 0.2)
 
 batch_size = 100
@@ -93,7 +93,7 @@ model.add(layers.Dense(num_classes, activation='softmax'))
 model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics = ['accuracy'])
 
 
-nb_epochs = 2
+nb_epochs = 1
 history = model.fit_generator(
     train_generator,
     steps_per_epoch = train_generator.samples // batch_size,

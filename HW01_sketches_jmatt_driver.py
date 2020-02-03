@@ -61,7 +61,7 @@ train_datagen = IDG(
     horizontal_flip = True,
     validation_split = 0.2)
 
-batch_size = 32
+batch_size = 100
 class_mode = 'categorical'
 color_mode = 'grayscale'
 shuffle = True

@@ -55,7 +55,7 @@ img_width = 150
 
 
 train_datagen = IDG(
-    samplewise_std_normalization=True,
+    rescale = 1.0/255.0,
     shear_range = 0.2,
     zoom_range = 0.2,
     horizontal_flip = True,
@@ -158,10 +158,13 @@ model.fit_generator(
 
 
 
-model.save_weights('first_try.h5')
+model.save_weights('../output/jmatt_sketches_curtry.h5')
 
 
-acc = model.evaluate_generator(validation_generator, steps=2,verbose=1)
+acc = model.evaluate_generator(
+    validation_generator, 
+    steps=np.floor(validation_generator.n/batch_size),
+    verbose=1)
 
 print(acc)
 

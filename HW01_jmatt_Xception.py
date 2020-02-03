@@ -20,7 +20,7 @@ from keras import applications
 
 
 
-on_windows = True
+on_windows = False
 if on_windows:
     data_directory = 'D:\\Data\\Sketches\\png'
     path_delim = '\\'

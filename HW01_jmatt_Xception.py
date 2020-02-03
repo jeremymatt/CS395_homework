@@ -20,7 +20,7 @@ from keras import applications
 
 
 
-on_windows = False
+on_windows = True
 if on_windows:
     data_directory = 'D:\\Data\\Sketches\\png'
     path_delim = '\\'
@@ -85,7 +85,7 @@ for layer in model.layers:
 # model.add(layers.Flatten())
 
 # model.add(layers.Dense(1000, activation='relu'))
-# model.add(Dropout(0.5))
+model.add(Dropout(0.5))
 
 num_classes = train_generator.num_classes
 model.add(layers.Dense(num_classes, activation='softmax'))
@@ -93,7 +93,7 @@ model.add(layers.Dense(num_classes, activation='softmax'))
 model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics = ['accuracy'])
 
 
-nb_epochs = 50
+nb_epochs = 20
 model.fit_generator(
     train_generator,
     steps_per_epoch = train_generator.samples // batch_size,
@@ -105,7 +105,10 @@ model.fit_generator(
 model.save('../output/Xception_FE_model.h5')
 
 
-acc = model.evaluate_generator(validation_generator, steps=np.floor(validation_generator.n/batch_size),verbose=1)
+acc = model.evaluate_generator(
+    validation_generator, 
+    steps=np.floor(validation_generator.n/batch_size),
+    verbose=1)
 
 model.summary()
 

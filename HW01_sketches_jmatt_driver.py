@@ -96,7 +96,7 @@ model = Sequential()
 
 
 model.add(layers.Conv2D(64, kernel_size=3, activation='relu', input_shape=(img_height,img_width,1)))
-model.add(layers.Conv2D(64, kernel_size=1, activation='relu'))
+model.add(layers.Conv2D(32, kernel_size=1, activation='relu'))
 model.add(layers.Conv2D(64, kernel_size=3, activation='relu'))
 model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
 model.add(layers.Conv2D(128, kernel_size=3, activation='relu'))
@@ -121,6 +121,14 @@ history = model.fit_generator(
     validation_data = validation_generator, 
     validation_steps = validation_generator.samples // batch_size,
     epochs = nb_epochs)
+
+# Plot training & validation accuracy values
+plt.plot(history.history['acc'])
+plt.plot(history.history['val_acc'])
+plt.title('Model accuracy')
+plt.ylabel('Accuracy')
+plt.xlabel('Epoch')
+plt.legend(['Train', 'Test'], loc='upper left')
 
 # model = Sequential()
 # model.add(Conv2D(32, (3, 3), input_shape=(img_height,img_width,1)))
@@ -157,8 +165,10 @@ history = model.fit_generator(
 
 
 
+name = 'jmatt_arch_sketches'
+model.save(f'../output/{name}.h5')
+plt.savefig(f'../output/{name}.png')
 
-model.save_weights('../output/jmatt_sketches_curtry.h5')
 
 
 acc = model.evaluate_generator(

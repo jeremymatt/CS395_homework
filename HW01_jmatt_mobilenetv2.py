@@ -25,7 +25,7 @@ if on_windows:
     data_directory = 'D:\\Data\\Sketches\\png'
     path_delim = '\\'
 else:
-    data_directory = '../data/Sketches/png'
+    data_directory = '../data/Places'
     path_delim = '/'
     
     
@@ -37,12 +37,12 @@ img_width = 224
 
 train_datagen = IDG(
     samplewise_std_normalization=True,
-    shear_range = 0.2,
-    zoom_range = 0.2,
-    horizontal_flip = True,
+    # shear_range = 0.2,
+    # zoom_range = 0.2,
+    # horizontal_flip = True,
     validation_split = 0.2)
 
-batch_size = 32
+batch_size = 100
 class_mode = 'categorical'
 color_mode = 'rgb'
 shuffle = True
@@ -93,7 +93,7 @@ model.add(layers.Dense(num_classes, activation='softmax'))
 model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics = ['accuracy'])
 
 
-nb_epochs = 20
+nb_epochs = 1
 history = model.fit_generator(
     train_generator,
     steps_per_epoch = train_generator.samples // batch_size,
@@ -102,7 +102,18 @@ history = model.fit_generator(
     epochs = nb_epochs)
 
 
-model.save('../output/mobilenet_FE_model.h5')
+# Plot training & validation accuracy values
+plt.plot(history.history['acc'])
+plt.plot(history.history['val_acc'])
+plt.title('Model accuracy')
+plt.ylabel('Accuracy')
+plt.xlabel('Epoch')
+plt.legend(['Train', 'Test'], loc='upper left')
+
+
+name = 'mobilenetV2_places'
+model.save(f'../output/{name}.h5')
+plt.savefig(f'../output/{name}.png')
 
 
 acc = model.evaluate_generator(

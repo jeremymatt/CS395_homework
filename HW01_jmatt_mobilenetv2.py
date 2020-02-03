@@ -94,7 +94,7 @@ model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics = ['
 
 
 nb_epochs = 20
-model.fit_generator(
+history = model.fit_generator(
     train_generator,
     steps_per_epoch = train_generator.samples // batch_size,
     validation_data = validation_generator, 

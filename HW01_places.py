@@ -14,17 +14,20 @@ from keras.layers import Conv2D, MaxPooling2D
 from keras.layers import Activation, Dropout, Flatten, Dense
 from keras import layers
 from keras import optimizers
+from get_labels_from_dir import get_labels_from_dir as get_labels
 
 
 
-on_windows = False
+on_windows = True
 if on_windows:
-    data_directory = 'D:\\Data\\Sketches\\png'
+    data_directory = 'D:\\Data\\Test'
     path_delim = '\\'
 else:
     data_directory = '../data/Places'
     path_delim = '/'
 
+
+label_df = get_labels(data_directory,path_delim)
 
 # From https://stackoverflow.com/questions/46717742/split-data-directory-into-training-and-test-directory-with-sub-directory-structu
 #image dimensions
@@ -44,6 +47,8 @@ class_mode = 'categorical'
 color_mode = 'grayscale'
 shuffle = True
 
+
+
 train_generator = train_datagen.flow_from_directory(
     data_directory,
     target_size = (img_width,img_height),
@@ -52,6 +57,17 @@ train_generator = train_datagen.flow_from_directory(
     color_mode = color_mode,
     shuffle = shuffle,
     subset = 'training')
+
+train_generator = train_datagen.flow_from_dataframe(
+    dataframe=label_df,
+    directory = data_directory,
+    x_col = 'files',
+    y_col = 'labels',
+    target_size = (img_width,img_height),
+    batch_size = batch_size,
+    class_mode = class_mode,
+    color_mode = color_mode,
+    shuffle = shuffle)
 
 # validation_generator = train_datagen.flow_from_directory(
 #     data_directory,

@@ -40,7 +40,7 @@ train_datagen = IDG(
     # shear_range = 0.2,
     # zoom_range = 0.2,
     # horizontal_flip = True,
-    validation_split = 0.2)
+    validation_split = 0.99)
 
 batch_size = 100
 class_mode = 'categorical'
@@ -93,7 +93,7 @@ model.add(layers.Dense(num_classes, activation='softmax'))
 model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics = ['accuracy'])
 
 
-nb_epochs = 1
+nb_epochs = 20
 history = model.fit_generator(
     train_generator,
     steps_per_epoch = train_generator.samples // batch_size,

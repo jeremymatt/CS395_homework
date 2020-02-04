@@ -17,7 +17,7 @@ from keras import optimizers
 
 
 
-on_windows = False
+on_windows = True
 if on_windows:
     data_directory = 'D:\\Data\\Sketches\\png'
     path_delim = '\\'
@@ -50,8 +50,8 @@ else:
 
 # From https://stackoverflow.com/questions/46717742/split-data-directory-into-training-and-test-directory-with-sub-directory-structu
 #image dimensions
-img_height = 150
-img_width = 150
+img_height = 224
+img_width = 224
 
 
 train_datagen = IDG(
@@ -61,7 +61,7 @@ train_datagen = IDG(
     horizontal_flip = True,
     validation_split = 0.2)
 
-batch_size = 32
+batch_size = 100
 class_mode = 'categorical'
 color_mode = 'grayscale'
 shuffle = True
@@ -114,7 +114,7 @@ model.add(layers.Dense(num_classes, activation='softmax'))
 
 model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics = ['accuracy'])
 
-nb_epochs = 50
+nb_epochs = 25
 history = model.fit_generator(
     train_generator,
     steps_per_epoch = train_generator.samples // batch_size,

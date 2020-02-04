@@ -25,7 +25,7 @@ if on_windows:
     data_directory = 'D:\\Data\\Sketches\\png'
     path_delim = '\\'
 else:
-    data_directory = '../data/Places'
+    data_directory = '../data/Places_sub'
     path_delim = '/'
     
     
@@ -93,7 +93,7 @@ model.add(layers.Dense(num_classes, activation='softmax'))
 model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics = ['accuracy'])
 
 
-nb_epochs = 1
+nb_epochs = 10
 history = model.fit_generator(
     train_generator,
     steps_per_epoch = train_generator.samples // batch_size,

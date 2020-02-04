@@ -129,7 +129,7 @@ print(acc)
 
 
 for layer in model.layers:
-    layer.trainable = False
+    layer.trainable = True
     
     
 nb_epochs = 5

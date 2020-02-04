@@ -84,7 +84,7 @@ for layer in model.layers:
     
 # model.add(layers.Flatten())
 
-# model.add(layers.Dense(1000, activation='relu'))
+model.add(layers.Dense(1000, activation='relu'))
 model.add(Dropout(0.5))
 
 num_classes = train_generator.num_classes
@@ -111,7 +111,40 @@ plt.xlabel('Epoch')
 plt.legend(['Train', 'Test'], loc='upper left')
 
 
-name = 'mobilenetV2_places'
+name = 'mobilenetV2_places_extralayer'
+model.save(f'../output/{name}.h5')
+plt.savefig(f'../output/{name}.png')
+
+
+acc = model.evaluate_generator(
+    validation_generator, 
+    steps=np.floor(validation_generator.n/batch_size),
+    verbose=1)
+
+model.summary()
+
+print(acc)
+
+
+nb_epochs = 10
+history = model.fit_generator(
+    train_generator,
+    steps_per_epoch = train_generator.samples // batch_size,
+    validation_data = validation_generator, 
+    validation_steps = validation_generator.samples // batch_size,
+    epochs = nb_epochs)
+
+
+# Plot training & validation accuracy values
+plt.plot(history.history['acc'])
+plt.plot(history.history['val_acc'])
+plt.title('Model accuracy')
+plt.ylabel('Accuracy')
+plt.xlabel('Epoch')
+plt.legend(['Train', 'Test'], loc='upper left')
+
+
+name = 'mobilenetV2_places_extralayer_finetune'
 model.save(f'../output/{name}.h5')
 plt.savefig(f'../output/{name}.png')
 

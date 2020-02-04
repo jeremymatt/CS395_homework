@@ -126,6 +126,10 @@ model.summary()
 print(acc)
 
 
+for layer in model.layers:
+    layer.trainable = True
+
+
 nb_epochs = 10
 history = model.fit_generator(
     train_generator,

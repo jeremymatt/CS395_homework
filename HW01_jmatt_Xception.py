@@ -40,7 +40,7 @@ train_datagen = IDG(
     # shear_range = 0.2,
     # zoom_range = 0.2,
     # horizontal_flip = True,
-    validation_split = 0.995)
+    validation_split = 0.2)
 
 batch_size = 100
 class_mode = 'categorical'

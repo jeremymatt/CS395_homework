@@ -42,7 +42,7 @@ train_datagen = IDG(
     # horizontal_flip = True,
     validation_split = 0.2)
 
-batch_size = 100
+batch_size = 32
 class_mode = 'categorical'
 color_mode = 'rgb'
 shuffle = True

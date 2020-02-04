@@ -112,7 +112,46 @@ plt.xlabel('Epoch')
 plt.legend(['Train', 'Test'], loc='upper left')
 
 
-name = 'Xception_places_995'
+name = 'Xception_places_995_FE'
+model.save(f'../output/{name}.h5')
+plt.savefig(f'../output/{name}.png')
+
+
+
+acc = model.evaluate_generator(
+    validation_generator, 
+    steps=20,
+    verbose=1)
+
+model.summary()
+
+print(acc)
+
+
+for layer in model.layers:
+    layer.trainable = False
+    
+    
+nb_epochs = 5
+history = model.fit_generator(
+    train_generator,
+    steps_per_epoch = train_generator.samples // batch_size,
+    validation_data = validation_generator, 
+    validation_steps = validation_generator.samples // batch_size,
+    epochs = nb_epochs)
+
+
+
+# Plot training & validation accuracy values
+plt.plot(history.history['acc'])
+plt.plot(history.history['val_acc'])
+plt.title('Model accuracy')
+plt.ylabel('Accuracy')
+plt.xlabel('Epoch')
+plt.legend(['Train', 'Test'], loc='upper left')
+
+
+name = 'Xception_places_995_finetune'
 model.save(f'../output/{name}.h5')
 plt.savefig(f'../output/{name}.png')
 

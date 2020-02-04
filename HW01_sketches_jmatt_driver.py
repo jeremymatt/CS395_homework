@@ -17,7 +17,7 @@ from keras import optimizers
 
 
 
-on_windows = True
+on_windows = False
 if on_windows:
     data_directory = 'D:\\Data\\Sketches\\png'
     path_delim = '\\'
@@ -129,40 +129,6 @@ plt.title('Model accuracy')
 plt.ylabel('Accuracy')
 plt.xlabel('Epoch')
 plt.legend(['Train', 'Test'], loc='upper left')
-
-# model = Sequential()
-# model.add(Conv2D(32, (3, 3), input_shape=(img_height,img_width,1)))
-# model.add(Activation('relu'))
-# model.add(MaxPooling2D(pool_size=(2, 2)))
-
-# model.add(Conv2D(32, (3, 3)))
-# model.add(Activation('relu'))
-# model.add(MaxPooling2D(pool_size=(2, 2)))
-
-# model.add(Conv2D(64, (3, 3)))
-# model.add(Activation('relu'))
-# model.add(MaxPooling2D(pool_size=(2, 2)))
-
-# model.add(Flatten())  # this converts our 3D feature maps to 1D feature vectors
-# model.add(Dense(64))
-# model.add(Activation('relu'))
-# model.add(Dropout(0.5))
-# model.add(Dense(1))
-# model.add(Activation('sigmoid'))
-
-# model.compile(loss='categorical_crossentropy',
-#               optimizer='rmsprop',
-#               metrics=['accuracy'])
-
-
-
-# model.fit_generator(
-#         train_generator,
-#         steps_per_epoch=train_generator.samples // batch_size,
-#         epochs=50,
-#         validation_data=validation_generator,
-#         validation_steps=validation_generator.samples // batch_size)
-
 
 
 name = 'jmatt_arch_sketches'

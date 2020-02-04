@@ -37,9 +37,9 @@ img_width = 224
 
 train_datagen = IDG(
     samplewise_std_normalization=True,
-    # shear_range = 0.2,
-    # zoom_range = 0.2,
-    # horizontal_flip = True,
+    shear_range = 0.2,
+    zoom_range = 0.2,
+    horizontal_flip = True,
     validation_split = 0.2)
 
 batch_size = 100
@@ -111,7 +111,7 @@ plt.xlabel('Epoch')
 plt.legend(['Train', 'Test'], loc='upper left')
 
 
-name = 'mobilenetV2_places_extralayer'
+name = 'mobilenetV2_places_enhance_extralayer'
 model.save(f'../output/{name}.h5')
 plt.savefig(f'../output/{name}.png')
 
@@ -148,7 +148,7 @@ plt.xlabel('Epoch')
 plt.legend(['Train', 'Test'], loc='upper left')
 
 
-name = 'mobilenetV2_places_extralayer_finetune'
+name = 'mobilenetV2_places_enhance_extralayer_finetune'
 model.save(f'../output/{name}.h5')
 plt.savefig(f'../output/{name}.png')
 

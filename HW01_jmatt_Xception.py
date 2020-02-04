@@ -40,7 +40,7 @@ train_datagen = IDG(
     # shear_range = 0.2,
     # zoom_range = 0.2,
     # horizontal_flip = True,
-    validation_split = 0.99)
+    validation_split = 0.995)
 
 batch_size = 100
 class_mode = 'categorical'
@@ -112,7 +112,7 @@ plt.xlabel('Epoch')
 plt.legend(['Train', 'Test'], loc='upper left')
 
 
-name = 'Xception_places'
+name = 'Xception_places_995'
 model.save(f'../output/{name}.h5')
 plt.savefig(f'../output/{name}.png')
 

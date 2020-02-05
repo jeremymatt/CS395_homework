@@ -144,6 +144,7 @@ history = model.fit_generator(
 
 
 # Plot training & validation accuracy values
+plt.figure()
 plt.plot(history.history['acc'])
 plt.plot(history.history['val_acc'])
 plt.title('Model accuracy')

@@ -113,7 +113,7 @@ plt.xlabel('Epoch')
 plt.legend(['Train', 'Test'], loc='upper left')
 
 
-name = 'Xception_places_995_FE'
+name = 'Xception__bigout_places_995_FE'
 model.save(f'../output/{name}.h5')
 plt.savefig(f'../output/{name}.png')
 
@@ -152,7 +152,7 @@ plt.xlabel('Epoch')
 plt.legend(['Train', 'Test'], loc='upper left')
 
 
-name = 'Xception_places_995_finetune'
+name = 'Xception_bigout_places_995_finetune'
 model.save(f'../output/{name}.h5')
 plt.savefig(f'../output/{name}.png')
 

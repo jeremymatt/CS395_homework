@@ -84,7 +84,8 @@ for layer in model.layers:
     
 # model.add(layers.Flatten())
 
-# model.add(layers.Dense(1000, activation='relu'))
+model.add(layers.Dense(1000, activation='relu'))
+model.add(layers.Dense(1000, activation='relu'))
 # model.add(Dropout(0.5))
 
 num_classes = train_generator.num_classes

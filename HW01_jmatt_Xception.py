@@ -25,7 +25,7 @@ if on_windows:
     data_directory = 'D:\\Data\\Sketches\\png'
     path_delim = '\\'
 else:
-    data_directory = '~/places_200'
+    data_directory = '../data/places_200'
     path_delim = '/'
     
     

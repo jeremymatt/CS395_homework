@@ -25,7 +25,7 @@ if on_windows:
     data_directory = 'D:\\Data\\Sketches\\png'
     path_delim = '\\'
 else:
-    data_directory = '../data/Places_sub'
+    data_directory = '~/places_200'
     path_delim = '/'
     
     
@@ -37,12 +37,12 @@ img_width = 299
 
 train_datagen = IDG(
     samplewise_std_normalization=True,
-    # shear_range = 0.2,
-    # zoom_range = 0.2,
-    # horizontal_flip = True,
+    shear_range = 0.2,
+    zoom_range = 0.2,
+    horizontal_flip = True,
     validation_split = 0.2)
 
-batch_size = 32
+batch_size = 100
 class_mode = 'categorical'
 color_mode = 'rgb'
 shuffle = True
@@ -81,41 +81,46 @@ model.add(xception)
 for layer in model.layers:
     layer.trainable = False
     
-    
-# model.add(layers.Flatten())
 
-model.add(layers.Dense(1000, activation='relu'))
-model.add(layers.Dense(1000, activation='relu'))
+# model.add(layers.Dense(1000, activation='relu'))
+# model.add(layers.Dense(1000, activation='relu'))
 # model.add(Dropout(0.5))
 
 num_classes = train_generator.num_classes
 model.add(layers.Dense(num_classes, activation='softmax'))
 
-model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics = ['accuracy'])
+model.compile(
+    loss='categorical_crossentropy', 
+    optimizer='adam', 
+    metrics = ['accuracy'])
 
 
-nb_epochs = 5
-history = model.fit_generator(
-    train_generator,
-    steps_per_epoch = train_generator.samples // batch_size,
-    validation_data = validation_generator, 
-    validation_steps = validation_generator.samples // batch_size,
-    epochs = nb_epochs)
+loops = 5
+for i in range(loops):
+    print ('\n\nEPOCH SET {}'.format(i))
+    nb_epochs = 2
+    history = model.fit_generator(
+        train_generator,
+        steps_per_epoch = train_generator.samples // batch_size,
+        validation_data = validation_generator, 
+        validation_steps = validation_generator.samples // batch_size,
+        epochs = nb_epochs)
+    name = 'Xception_places_200_FE'
+    model.save(f'../output/{name}.h5')
 
 
 
-# Plot training & validation accuracy values
-plt.plot(history.history['acc'])
-plt.plot(history.history['val_acc'])
-plt.title('Model accuracy')
-plt.ylabel('Accuracy')
-plt.xlabel('Epoch')
-plt.legend(['Train', 'Test'], loc='upper left')
+# # Plot training & validation accuracy values
+# plt.plot(history.history['acc'])
+# plt.plot(history.history['val_acc'])
+# plt.title('Model accuracy')
+# plt.ylabel('Accuracy')
+# plt.xlabel('Epoch')
+# plt.legend(['Train', 'Test'], loc='upper left')
 
 
-name = 'Xception__bigout_places_995_FE'
-model.save(f'../output/{name}.h5')
-plt.savefig(f'../output/{name}.png')
+
+# plt.savefig(f'../output/{name}.png')
 
 
 
@@ -133,29 +138,35 @@ for layer in model.layers:
     layer.trainable = True
     
     
-nb_epochs = 5
-history = model.fit_generator(
-    train_generator,
-    steps_per_epoch = train_generator.samples // batch_size,
-    validation_data = validation_generator, 
-    validation_steps = validation_generator.samples // batch_size,
-    epochs = nb_epochs)
+
+loops = 5
+for i in range(loops):
+    print ('\n\nEPOCH SET {}'.format(i))
+    nb_epochs = 2
+    history = model.fit_generator(
+        train_generator,
+        steps_per_epoch = train_generator.samples // batch_size,
+        validation_data = validation_generator, 
+        validation_steps = validation_generator.samples // batch_size,
+        epochs = nb_epochs)
+    name = 'Xception_places_200_FE'
+    model.save(f'../output/{name}.h5')
 
 
 
-# Plot training & validation accuracy values
-plt.figure()
-plt.plot(history.history['acc'])
-plt.plot(history.history['val_acc'])
-plt.title('Model accuracy')
-plt.ylabel('Accuracy')
-plt.xlabel('Epoch')
-plt.legend(['Train', 'Test'], loc='upper left')
+# # Plot training & validation accuracy values
+# plt.figure()
+# plt.plot(history.history['acc'])
+# plt.plot(history.history['val_acc'])
+# plt.title('Model accuracy')
+# plt.ylabel('Accuracy')
+# plt.xlabel('Epoch')
+# plt.legend(['Train', 'Test'], loc='upper left')
 
 
 name = 'Xception_bigout_places_995_finetune'
 model.save(f'../output/{name}.h5')
-plt.savefig(f'../output/{name}.png')
+# plt.savefig(f'../output/{name}.png')
 
 
 

@@ -100,12 +100,16 @@ model.add(layers.Conv2D(32, kernel_size=1, activation='relu'))
 model.add(layers.Conv2D(64, kernel_size=3, activation='relu'))
 model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
 model.add(layers.Conv2D(128, kernel_size=3, activation='relu'))
+model.add(layers.Conv2D(64, kernel_size=1, activation='relu')) #
+model.add(layers.Conv2D(128, kernel_size=3, activation='relu')) #
 model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
 model.add(layers.Conv2D(256, kernel_size=3, activation='relu'))
+model.add(layers.Conv2D(128, kernel_size=1, activation='relu')) #
+model.add(layers.Conv2D(256, kernel_size=3, activation='relu')) #
 model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
 
 model.add(layers.Flatten())
-
+model.add(layers.Dense(1000, activation='relu'))
 model.add(layers.Dense(500, activation='relu'))
 model.add(Dropout(0.5))
 

@@ -16,6 +16,7 @@ from keras.layers import Activation, Dropout, Flatten, Dense
 from keras import layers
 from keras import optimizers
 from keras import applications
+from keras import Model
 
 
 
@@ -73,21 +74,27 @@ xception = applications.xception.Xception(
     input_shape=(299,299,3), 
     pooling='avg')
 
-
-
-model = Sequential()
-model.add(xception)
-
-for layer in model.layers:
+for layer in xception.layers:
     layer.trainable = False
+
+num_classes = train_generator.num_classes
+
+fc = layers.Dense(num_classes,activation='softmax')(xception.output)
+
+model = Model(inputs = xception.input,outputs=fc)
+
+model.summary()
+
+# model = Sequential()
+# model.add(xception)
+
     
 
 # model.add(layers.Dense(1000, activation='relu'))
 # model.add(layers.Dense(1000, activation='relu'))
 # model.add(Dropout(0.5))
 
-num_classes = train_generator.num_classes
-model.add(layers.Dense(num_classes, activation='softmax'))
+# model.add(layers.Dense(num_classes, activation='softmax'))
 
 model.compile(
     loss='categorical_crossentropy', 
@@ -95,7 +102,7 @@ model.compile(
     metrics = ['accuracy'])
 
 
-loops = 5
+loops = 1
 for i in range(loops):
     print ('\n\nEPOCH SET {}'.format(i))
     nb_epochs = 2
@@ -105,76 +112,101 @@ for i in range(loops):
         validation_data = validation_generator, 
         validation_steps = validation_generator.samples // batch_size,
         epochs = nb_epochs)
-    name = 'Xception_places_200_FE'
-    model.save(f'../output/{name}.h5')
-
-
-
-# # Plot training & validation accuracy values
-# plt.plot(history.history['acc'])
-# plt.plot(history.history['val_acc'])
-# plt.title('Model accuracy')
-# plt.ylabel('Accuracy')
-# plt.xlabel('Epoch')
-# plt.legend(['Train', 'Test'], loc='upper left')
-
-
-
-# plt.savefig(f'../output/{name}.png')
-
-
-
-acc = model.evaluate_generator(
-    validation_generator, 
-    steps=20,
-    verbose=1)
-
-model.summary()
-
-print(acc)
-
-
-for layer in model.layers:
-    layer.trainable = True
     
-    
-
-loops = 5
-for i in range(loops):
-    print ('\n\nEPOCH SET {}'.format(i))
-    nb_epochs = 2
-    history = model.fit_generator(
-        train_generator,
-        steps_per_epoch = train_generator.samples // batch_size,
-        validation_data = validation_generator, 
-        validation_steps = validation_generator.samples // batch_size,
-        epochs = nb_epochs)
-    name = 'Xception_places_200_FE'
-    model.save(f'../output/{name}.h5')
-
-
-
-# # Plot training & validation accuracy values
-# plt.figure()
-# plt.plot(history.history['acc'])
-# plt.plot(history.history['val_acc'])
-# plt.title('Model accuracy')
-# plt.ylabel('Accuracy')
-# plt.xlabel('Epoch')
-# plt.legend(['Train', 'Test'], loc='upper left')
-
-
-name = 'Xception_bigout_places_995_finetune'
+name = 'Xception_places_200_FE'
 model.save(f'../output/{name}.h5')
+
+#number of layers counting from the end that will be trainable
+num_trainable = [11, 32, int(len(model.layers())/2), len(model.layers())]
+for ind,nt in enumerate(num_trainable):
+    for layer in model.layers[-1*num_trainable:]:
+        layer.trainable = True
+    
+    model.summary()
+    
+    loops = [1,1,2,3]
+    for i in range(loops)[ind]:
+        print ('\n\n{} Trainable Layers: EPOCH SET {}'.format(nt,i))
+        nb_epochs = 2
+        history = model.fit_generator(
+            train_generator,
+            steps_per_epoch = train_generator.samples // batch_size,
+            validation_data = validation_generator, 
+            validation_steps = validation_generator.samples // batch_size,
+            epochs = nb_epochs)
+        
+    name = 'Xception_places_200_FT_NT{}'.format(nt)
+    model.save(f'../output/{name}.h5')
+
+
+
+
+
+# # Plot training & validation accuracy values
+# plt.plot(history.history['acc'])
+# plt.plot(history.history['val_acc'])
+# plt.title('Model accuracy')
+# plt.ylabel('Accuracy')
+# plt.xlabel('Epoch')
+# plt.legend(['Train', 'Test'], loc='upper left')
+
+
+
 # plt.savefig(f'../output/{name}.png')
 
 
 
-acc = model.evaluate_generator(
-    validation_generator, 
-    steps=20,
-    verbose=1)
+# acc = model.evaluate_generator(
+#     validation_generator, 
+#     steps=20,
+#     verbose=1)
 
-model.summary()
+# model.summary()
 
-print(acc)
+# print(acc)
+
+
+# for layer in model.layers:
+#     layer.trainable = True
+    
+    
+
+# loops = 5
+# for i in range(loops):
+#     print ('\n\nEPOCH SET {}'.format(i))
+#     nb_epochs = 2
+#     history = model.fit_generator(
+#         train_generator,
+#         steps_per_epoch = train_generator.samples // batch_size,
+#         validation_data = validation_generator, 
+#         validation_steps = validation_generator.samples // batch_size,
+#         epochs = nb_epochs)
+#     name = 'Xception_places_200_FE'
+#     model.save(f'../output/{name}.h5')
+
+
+
+# # # Plot training & validation accuracy values
+# # plt.figure()
+# # plt.plot(history.history['acc'])
+# # plt.plot(history.history['val_acc'])
+# # plt.title('Model accuracy')
+# # plt.ylabel('Accuracy')
+# # plt.xlabel('Epoch')
+# # plt.legend(['Train', 'Test'], loc='upper left')
+
+
+# name = 'Xception_bigout_places_995_finetune'
+# model.save(f'../output/{name}.h5')
+# # plt.savefig(f'../output/{name}.png')
+
+
+
+# acc = model.evaluate_generator(
+#     validation_generator, 
+#     steps=20,
+#     verbose=1)
+
+# model.summary()
+
+# print(acc)

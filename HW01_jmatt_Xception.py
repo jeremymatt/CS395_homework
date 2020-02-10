@@ -143,7 +143,7 @@ for ind,nt in enumerate(num_trainable):
     model.summary()
     
     loops = [1,1,2,3]
-    for i in range(loops)[ind]:
+    for i in range(loops[ind]):
         print ('\n\n{} Trainable Layers: EPOCH SET {}'.format(nt,i))
         nb_epochs = 2
         history = model.fit_generator(

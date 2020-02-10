@@ -36,10 +36,12 @@ img_width = 224
 
 
 train_datagen = IDG(
-    samplewise_std_normalization=True,
-    shear_range = 0.2,
-    zoom_range = 0.2,
+    featurewise_std_normalization=True,
+    shear_range = 0.25,
+    zoom_range = 0.25,
+    rotation_range = 45,
     horizontal_flip = True,
+    vertical_flip = True,
     validation_split = 0.2)
 
 batch_size = 100

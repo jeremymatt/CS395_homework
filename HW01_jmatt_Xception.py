@@ -17,6 +17,7 @@ from keras import layers
 from keras import optimizers
 from keras import applications
 from keras import Model
+from keras.models import load_model
 
 
 
@@ -67,23 +68,32 @@ validation_generator = train_datagen.flow_from_directory(
     subset = 'validation')
 
 
-
-xception = applications.xception.Xception(
-    include_top=False, 
-    weights='imagenet', 
-    input_shape=(299,299,3), 
-    pooling='avg')
-
-for layer in xception.layers:
-    layer.trainable = False
-
 num_classes = train_generator.num_classes
 
-fc = layers.Dense(num_classes,activation='softmax')(xception.output)
+load_from_file = True
+if load_from_file:
+    model = load_model('../output/xception_places_200_fe.h5')
+    for layer in model.layers:
+        layer.trainable=False
+else:
 
-model = Model(inputs = xception.input,outputs=fc)
+    xception = applications.xception.Xception(
+        include_top=False, 
+        weights='imagenet', 
+        input_shape=(299,299,3), 
+        pooling='avg')
+    
+    for layer in xception.layers:
+        layer.trainable = False
+    
+    
+    
+    fc = layers.Dense(num_classes,activation='softmax')(xception.output)
+    
+    model = Model(inputs = xception.input,outputs=fc)
+    
 
-model.summary()
+    model.summary()
 
 # model = Sequential()
 # model.add(xception)
@@ -96,28 +106,30 @@ model.summary()
 
 # model.add(layers.Dense(num_classes, activation='softmax'))
 
-model.compile(
-    loss='categorical_crossentropy', 
-    optimizer='adam', 
-    metrics = ['accuracy'])
-
-
-loops = 1
-for i in range(loops):
-    print ('\n\nEPOCH SET {}'.format(i))
-    nb_epochs = 2
-    history = model.fit_generator(
-        train_generator,
-        steps_per_epoch = train_generator.samples // batch_size,
-        validation_data = validation_generator, 
-        validation_steps = validation_generator.samples // batch_size,
-        epochs = nb_epochs)
+    model.compile(
+        loss='categorical_crossentropy', 
+        optimizer='adam', 
+        metrics = ['accuracy'])
     
-name = 'Xception_places_200_FE'
-model.save(f'../output/{name}.h5')
+    
+    loops = 1
+    for i in range(loops):
+        print ('\n\nEPOCH SET {}'.format(i))
+        nb_epochs = 2
+        history = model.fit_generator(
+            train_generator,
+            steps_per_epoch = train_generator.samples // batch_size,
+            validation_data = validation_generator, 
+            validation_steps = validation_generator.samples // batch_size,
+            epochs = nb_epochs)
+        
+    name = 'Xception_places_200_FE'
+    model.save(f'../output/{name}.h5')
+
+
 
 #number of layers counting from the end that will be trainable
-num_trainable = [11, 32, int(len(model.layers())/2), len(model.layers())]
+num_trainable = [11, 32, int(len(model.layers)/2), int(len(model.layers)*3/4)]
 for ind,nt in enumerate(num_trainable):
     for layer in model.layers[-1*num_trainable:]:
         layer.trainable = True

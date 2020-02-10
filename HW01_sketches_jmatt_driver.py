@@ -14,6 +14,8 @@ from keras.layers import Conv2D, MaxPooling2D
 from keras.layers import Activation, Dropout, Flatten, Dense
 from keras import layers
 from keras import optimizers
+from keras.models import load_model
+
 
 
 
@@ -24,27 +26,6 @@ if on_windows:
 else:
     data_directory = '../data/Sketches/png'
     path_delim = '/'
-
-# data_list = 'filelist.txt'
-
-# filename = '{}{}{}'.format(data_directory,path_delim,data_list)
-
-# image_list = pd.read_csv(filename,names=['files'])
-
-
-# image_list = [(fn.split('/')[0],fn.split('/')[1]) for fn in image_list['files']]
-
-
-# import matplotlib.image as mpimg
-
-# file_tpl = image_list[100]
-# fn = '{}{}{}{}{}'.format(data_directory,path_delim,file_tpl[0],path_delim,file_tpl[1])
-
-# fn = f'{data_directory}{path_delim}{file_tpl[0]}{path_delim}{file_tpl[1]}'
-
-# img=mpimg.imread(fn)
-# imgplot = plt.imshow(img)
-# plt.show()
 
 
 
@@ -92,33 +73,39 @@ test_generator = train_datagen.flow_from_directory(
     batch_size = 32,
     subset = 'validation')
 
-model = Sequential()
 
+load_from_file = True
+if load_from_file:
+    model = load_model('../output/jmatt_arch_sketches_orig.h5')
+else:
+    
+    model = Sequential()
+    
+    
+    model.add(layers.Conv2D(64, kernel_size=3, activation='relu', input_shape=(img_height,img_width,1)))
+    model.add(layers.Conv2D(32, kernel_size=1, activation='relu'))
+    model.add(layers.Conv2D(64, kernel_size=3, activation='relu'))
+    model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
+    model.add(layers.Conv2D(128, kernel_size=3, activation='relu'))
+    # model.add(layers.Conv2D(64, kernel_size=1, activation='relu')) #
+    # model.add(layers.Conv2D(128, kernel_size=3, activation='relu')) #
+    model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
+    model.add(layers.Conv2D(256, kernel_size=3, activation='relu'))
+    # model.add(layers.Conv2D(128, kernel_size=1, activation='relu')) #
+    # model.add(layers.Conv2D(256, kernel_size=3, activation='relu')) #
+    model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
+    
+    model.add(layers.Flatten())
+    model.add(layers.Dense(1000, activation='relu'))
+    model.add(layers.Dense(500, activation='relu'))
+    model.add(Dropout(0.5))
+    
+    num_classes = train_generator.num_classes
+    model.add(layers.Dense(num_classes, activation='softmax'))
 
-model.add(layers.Conv2D(64, kernel_size=3, activation='relu', input_shape=(img_height,img_width,1)))
-model.add(layers.Conv2D(32, kernel_size=1, activation='relu'))
-model.add(layers.Conv2D(64, kernel_size=3, activation='relu'))
-model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
-model.add(layers.Conv2D(128, kernel_size=3, activation='relu'))
-# model.add(layers.Conv2D(64, kernel_size=1, activation='relu')) #
-# model.add(layers.Conv2D(128, kernel_size=3, activation='relu')) #
-model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
-model.add(layers.Conv2D(256, kernel_size=3, activation='relu'))
-# model.add(layers.Conv2D(128, kernel_size=1, activation='relu')) #
-# model.add(layers.Conv2D(256, kernel_size=3, activation='relu')) #
-model.add(layers.MaxPooling2D(pool_size=(2,2),strides = None))
+model.compile(loss='categorical_crossentropy', optimizer='adam', metrics = ['accuracy'])
 
-model.add(layers.Flatten())
-model.add(layers.Dense(1000, activation='relu'))
-model.add(layers.Dense(500, activation='relu'))
-model.add(Dropout(0.5))
-
-num_classes = train_generator.num_classes
-model.add(layers.Dense(num_classes, activation='softmax'))
-
-model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics = ['accuracy'])
-
-nb_epochs = 10
+nb_epochs = 2
 history = model.fit_generator(
     train_generator,
     steps_per_epoch = train_generator.samples // batch_size,
@@ -135,7 +122,7 @@ plt.xlabel('Epoch')
 plt.legend(['Train', 'Test'], loc='upper left')
 
 
-name = 'jmatt_arch_sketches_orig'
+name = 'jmatt_arch_sketches_orig_tune'
 model.save(f'../output/{name}.h5')
 plt.savefig(f'../output/{name}.png')
 

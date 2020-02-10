@@ -131,8 +131,14 @@ else:
 #number of layers counting from the end that will be trainable
 num_trainable = [11, 32, int(len(model.layers)/2), int(len(model.layers)*3/4)]
 for ind,nt in enumerate(num_trainable):
-    for layer in model.layers[-1*num_trainable:]:
+    for layer in model.layers[-1*nt:]:
         layer.trainable = True
+        
+        
+    model.compile(
+        loss='categorical_crossentropy', 
+        optimizer='adam', 
+        metrics = ['accuracy'])
     
     model.summary()
     

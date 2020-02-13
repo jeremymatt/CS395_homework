@@ -142,7 +142,7 @@ for ind,nt in enumerate(num_trainable):
     
     model.summary()
     
-    loops = [1,1,2,3]
+    loops = [5,1,2,3]
     for i in range(loops[ind]):
         print ('\n\n{} Trainable Layers: EPOCH SET {}'.format(nt,i))
         nb_epochs = 2
@@ -153,8 +153,8 @@ for ind,nt in enumerate(num_trainable):
             validation_steps = validation_generator.samples // batch_size,
             epochs = nb_epochs)
         
-    name = 'Xception_places_200_FT_NT{}_2'.format(nt)
-    model.save(f'../output/{name}.h5')
+        name = 'Xception_places_200_FT_NT{}_{}'.format(nt,i)
+        model.save(f'../output/{name}.h5')
 
 
 

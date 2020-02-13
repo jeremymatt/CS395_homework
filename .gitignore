@@ -1,3 +1,7 @@
+# Directories #
+###############
+data/
+
 # keras weight files #
 ######################
 *.h5

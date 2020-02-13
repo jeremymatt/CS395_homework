@@ -72,7 +72,7 @@ num_classes = train_generator.num_classes
 
 load_from_file = True
 if load_from_file:
-    model = load_model('../output/Xception_places_200_FE.h5')
+    model = load_model('../output/Xception_places_200_FT_NT11.h5')
     for layer in model.layers:
         layer.trainable=False
 else:

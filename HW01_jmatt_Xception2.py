@@ -39,9 +39,10 @@ img_width = 299
 
 train_datagen = IDG(
     samplewise_std_normalization=True,
-    shear_range = 0.2,
-    zoom_range = 0.2,
+    shear_range = 0.25,
+    zoom_range = 0.25,
     horizontal_flip = True,
+    vertical_flip = True,
     validation_split = 0.33)
 
 batch_size = 100
@@ -72,7 +73,7 @@ num_classes = train_generator.num_classes
 
 load_from_file = True
 if load_from_file:
-    model = load_model('../output/Xception_places_200_FT_NT11.h5')
+    model = load_model('../output/Xception_places_200_FT_NT11_0.h5')
     for layer in model.layers:
         layer.trainable=False
 else:
@@ -129,7 +130,7 @@ else:
 
 
 #number of layers counting from the end that will be trainable
-num_trainable = [11]
+num_trainable = [11,67]
 for ind,nt in enumerate(num_trainable):
     for layer in model.layers[-1*nt:]:
         layer.trainable = True
@@ -142,7 +143,7 @@ for ind,nt in enumerate(num_trainable):
     
     model.summary()
     
-    loops = [5,1,2,3]
+    loops = [1,1,2,3]
     for i in range(loops[ind]):
         print ('\n\n{} Trainable Layers: EPOCH SET {}'.format(nt,i))
         nb_epochs = 2
@@ -153,7 +154,7 @@ for ind,nt in enumerate(num_trainable):
             validation_steps = validation_generator.samples // batch_size,
             epochs = nb_epochs)
         
-        name = 'Xception_places_200_FT_NT{}_{}'.format(nt,i)
+        name = 'Xception_places_200_FT_b1_NT{}_{}'.format(nt,i)
         model.save(f'../output/{name}.h5')
 
 

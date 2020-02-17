@@ -27,14 +27,14 @@ if on_windows:
     data_directory = 'D:\\Data\\Sketches\\png'
     path_delim = '\\'
 else:
-    data_directory = '../data/places_200'
+    data_directory = '../data/places_300'
     path_delim = '/'
     
     
 # From https://stackoverflow.com/questions/46717742/split-data-directory-into-training-and-test-directory-with-sub-directory-structu
 #image dimensions
-img_height = 299
-img_width = 299
+img_height = 224
+img_width = 224
 
 
 train_datagen = IDG(
@@ -42,7 +42,7 @@ train_datagen = IDG(
     shear_range = 0.2,
     zoom_range = 0.2,
     horizontal_flip = True,
-    validation_split = 0.2)
+    validation_split = 0.333)
 
 batch_size = 100
 class_mode = 'categorical'
@@ -77,7 +77,7 @@ if load_from_file:
         layer.trainable=False
 else:
 
-    xception = applications.resnet.ResNet50(
+    xception = applications.resnet_v2.ResNet50V2(
         include_top=True, 
         weights='imagenet', 
         input_shape=(224,224,3), 
@@ -123,7 +123,7 @@ else:
             validation_steps = validation_generator.samples // batch_size,
             epochs = nb_epochs)
         
-    name = 'Xception_places_200_FE'
+    name = 'Resnet_places_300_FE'
     model.save(f'../output/{name}.h5')
 
 
@@ -142,7 +142,7 @@ for ind,nt in enumerate(num_trainable):
     
     model.summary()
     
-    loops = [1,1,2,3]
+    loops = [2,1]
     for i in range(loops[ind]):
         print ('\n\n{} Trainable Layers: EPOCH SET {}'.format(nt,i))
         nb_epochs = 2
@@ -153,7 +153,7 @@ for ind,nt in enumerate(num_trainable):
             validation_steps = validation_generator.samples // batch_size,
             epochs = nb_epochs)
         
-    name = 'Xception_places_200_FT_NT{}'.format(nt)
+    name = 'ResNet_places_300_FT_NT{}'.format(nt)
     model.save(f'../output/{name}.h5')
 
 

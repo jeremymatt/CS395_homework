@@ -1,0 +1,913 @@
+﻿
+The Johnson Company is pleased to present the Central Vermont Regional Planning Commission 
+(CVRPC) with this Phase I Environmental Site Assessment (ESA) of the Bonacorsi Property 
+located at 16 Prospect Street in Barre, Vermont (the Site).  The Site is comprised of an 
+approximately 0.45-acre parcel with an onsite building that is currently used as dry storage for 
+wholesale goods by Capitol Candy.  This ESA was conducted in accordance with the scope and 
+limitations of the American Society for Testing and Materials' (ASTM) Standard Practice for 
+Environmental Site Assessments E 1527-13 and in conformance with 40 CFR Part 312, 
+Standards and Practices for All Appropriate Inquiries. 
+ 
+ 
+ 
+We declare that, to the best of our professional knowledge and belief, we meet the definition of 
+Environmental Professional as defined in §312.10 of 40 CFR Part 312.    
+ 
+We have the specific qualifications based on education, training, and experience to assess a 
+property of the nature, history, and setting of the subject property.  We have developed and 
+performed the all appropriate inquiries in conformance with the standards and practices set forth 
+in 40 CFR Part 312.   
+ 
+ 
+EXECUTIVE SUMMARY 
+ 
+The Johnson Company Inc. (JCO) of Montpelier, Vermont was retained by the Central Vermont 
+Regional Planning Commission to conduct a Phase I Environmental Site Assessment (ESA) of 
+the Bonacorsi Property located at 16 Prospect Street in Barre, Vermont (the Site).  JCO 
+understands that the purpose of this Phase I ESA is to provide environmental due diligence in 
+support a potential property transaction.  
+ 
+The Site consists of an approximately 0.45-acre parcel with an onsite building that is comprised 
+of an amalgamation of multiple interconnected sub-buildings.  The age of the sub-buildings 
+range from the mid 1900’s through the early 2000’s.  The building is currently used for dry 
+storage of wholesale goods by Capitol Candy.  With the exception of a narrow grassy strip 
+between the building and the railroad tracks to the west, the entire Site is either covered with 
+asphalt parking areas or is beneath the footprint of the building.  The nearest body of surface 
+water is the Stevens Branch of the Winooski River, which is located approximately 100-feet to 
+the west. 
+ 
+A dry-cleaning facility was formerly located at the Site and began operations sometime between 
+1925 and 1948, and was still in operation as of 1973.  The building that was used for dry 
+cleaning was torn down in approximately 1984 and was formerly located in the northern portion 
+of the Site where the garage/loading dock and parking lot are currently situated.   Additionally, 
+according to a Heindel & Noyes investigation report from 2003, the Site has a “long history” of 
+automobile-related activities, including a storage garage and a filling station that was operational 
+from the 1930s to the 1960s.  However, it should be noted that based on JCO’s review of 
+Sanborn maps and City Directories, no reference of a “filling station” was identified.   
+ 
+Since 2002, a substantial amount of environmental investigation has been conducted at the Site 
+in response to chlorinated volatile organic compound (cVOC) contamination.  Reportedly, 
+chlorinated solvent containing waste may have been released to the ground surface or released 
+from leaking dry cleaning equipment and may also have been poured down drains and entered 
+the municipal sewer system.  Based on investigation reports prepared by Heindel & Noyes, two 
+different cVOC groundwater plumes have been identified, one which originated from on-site 
+releases of chlorinated solvents that likely occurred within or near the footprint of the former 
+drycleaner and a second which was determined to have been caused by leaks in the sewer line 
+beneath Prospect Street to the north of the Site.  The cVOC plume beneath the Site and a smaller 
+lobe of this plume which extends west towards the Stevens Branch of the Winooski River 
+reportedly originated from the on-site releases.  Most of the off-site portion of the cVOC 
+contamination extends to the north of the Site, following the former Stevens Branch river bed, 
+which was backfilled when the river was re-located into a new channel in the early 1900’s.  This 
+northern lobe of contamination consists of co-mingled plumes from the onsite release(s) near the 
+former dry cleaner and offsite sewer release points.  The investigations also identified petroleum 
+contamination in groundwater which appeared to originate from a former on-site underground 
+storage tank and/or from off-site source(s); unfortunately the available reports could not confirm 
+the source of petroleum.   
+ 
+To address the onsite contamination related to the cVOC groundwater plume, an active 
+remediation system consisting of air sparging and vapor extraction was installed that targeted the 
+contamination present beneath the footprint of the former dry cleaner.  This system was later 
+expanded to include portions of the cVOC plume that had migrated off-site to the north.  After 
+the air sparging/vapor extraction system reportedly addressed the easily accessible contamination 
+and was no longer effective, permanganate (to promote chemical oxidation) was injected both 
+on- and off-site in hopes of further reducing the cVOC concentrations in groundwater.  Based on 
+the most recent Heindel & Noyes reports, this remediation has successfully halted off-site 
+migration and the on-site and off-site cVOC concentrations in groundwater are stable or 
+declining.  However, groundwater cVOC concentrations remain in excess of Vermont 
+Groundwater Enforcement Standards (VGES).  This work also had the effect of reducing the 
+petroleum constituents in groundwater to concentrations below VGES. 
+ 
+Concurrent with investigation efforts to delineate the extent of the groundwater plume, efforts 
+were undertaken to determine the extent of the soil vapor plume.  In addition to delineation, the 
+soil vapor investigation work included assessment of the potential for vapor intrusion at the Site 
+and four neighboring properties, the Post Office, the City Hall, Gusto’s Bar, and Clark’s Feed 
+Store.  Based on the available data regarding cVOC concentrations in soil vapor and indoor air, it 
+was determined by Vermont Department of Environmental Conservation (VTDEC) that 
+installation of vapor intrusion mitigation systems at the Post Office (located east of the Site) and 
+the City Hall (located northeast of the Site) was warranted.  These systems were installed and 
+have been operating since 2013.  According to the Heindel & Noyes reports these systems are 
+adequately reducing the potential for vapor intrusion at these two locations.  The VTDEC did not 
+request installation of vapor intrusion mitigation systems at Gusto’s Bar or at Clark’s Feed Store, 
+both of which are located west of the Site. 
+ 
+This ESA was performed by personnel from JCO who meet the definition of Environmental 
+Professional as defined in 40 CFR Part 312.  This ESA included reviewing existing 
+documentation, available aerial photographs and topographic maps, determining the regulatory 
+status of the Site, contacting personnel regarding past and present uses of the Site, investigating 
+the potential for past releases of petroleum products and/or hazardous substances at the Site, and 
+conducting a site reconnaissance to visually inspect accessible portions of the Site to ascertain 
+the presence of recognized environmental conditions (RECs) in the form of present or potential 
+release(s) of hazardous substances or petroleum products. In addition, these sources were 
+investigated for the presence of historic recognized environmental conditions (HRECs) – a past 
+release of hazardous substance(s) that has been addressed to residential use standards or 
+unrestricted use criteria – and controlled recognized environmental conditions (CREC) – a past 
+release of hazardous substance(s) that has been addressed to non-residential use standards and is 
+subject to some type of control – at the Site.  As such, a HREC is not a REC when the remaining 
+JCO has performed this Phase I ESA in conformance with the scope and limitations of ASTM 
+Practice E-1527-13 of the Bonacorsi Property located at 16 Prospect Street in Barre, Vermont.  
+Any exception to, or deletions from, this practice are described in Section 8.1 of this report.  This 
+assessment has revealed no evidence of RECs, HRECs, or CRECs in connection with the 
+property except for the following:  
+ 
+RECS 
+Based on review of the available data, JCO has identified the following RECs at the Site: 
+ 
+• Chlorinated VOC Impacts to Groundwater: Previous analytical data for the Site 
+suggests the presence of cVOCs in groundwater that remain at concentrations in excess 
+of VGES, both onsite and north of the property.  Based on review of the investigation 
+reports provided by the VTDEC, the active remediation conducted in connection with 
+cVOC concentrations in groundwater has resulted in concentrations that appear to be 
+stable or declining.  It is the Environmental Professional’s opinion that the confirmed 
+presence of cVOCs in groundwater at concentrations above regulatory standards 
+constitutes a REC.  However, the groundwater at the Site and at nearby properties is not 
+used as a potable source of water, off-site migration has reportedly been halted, and no 
+sensitive receptors appear to be at imminent risk.  The VTDEC has requested continued 
+biennial groundwater sampling to assess the cVOC concentrations in groundwater both 
+on- and off-site. 
+ 
+• Chlorinated VOC Impacts to Soil Vapor: Soil vapor sampling conducted at the Site in 
+2002 and 2011 identified the presence of cVOCs both beneath the basement slab and in 
+indoor air at concentrations above vapor intrusion screening levels. However, it is 
+unknown if the cVOC soil vapor concentrations have decreased beneath the on-site 
+building since the 2011 sampling event and if the potential for vapor intrusion remains.  
+cVOCs from the Site have also resulted in soil vapor contamination above risk-based 
+screening levels in the City Hall and Post Office buildings.  Reportedly, the 
+depressurization systems installed beneath these buildings are effectively mitigating the 
+cVOCs exposure risk to indoor air, but long-term operation, monitoring, and maintenance 
+of these systems is required.  It is the Environmental Professional’s opinion that the 
+confirmed presence of cVOCs in soil vapor at the Site constitutes a REC.  If additional 
+information regarding the potential risk of vapor intrusion is desired, sub-slab soil vapor 
+sampling and/or indoor air sampling may be warranted. 
+ 
+• Chlorinated VOC Impacts to Soil: While the extent of cVOCs in groundwater and soil 
+vapor is well-defined at the Site, the assessments of soil conditions have been limited to 
+PID screening. While PIDs are a useful tool to identify the presence of gross 
+contamination, the data resulting from PID screening are variable and are not compoundspecific.
+ It is the Environmental Professional’s opinion that cVOCs may be present in 
+soil at concentrations above applicable soil screening levels. If additional information 
+regarding the potential for cVOC contamination in soil is desired, collection of soil 
+samples for laboratory analysis may be warranted.  This information will be especially 
+useful should any future redevelopment of the property include excavation and the 
+generation of excess soil that may require offsite management or disposal. 
+ 
+• Petroleum Impacts to Soil: While the petroleum contamination in groundwater has 
+reportedly been addressed based on the most recent groundwater monitoring reports, little 
+information is available about concentrations in soil.  To date, the assessments of soil 
+conditions at the Site have consisted of screening with a photoionization detector (PID), 
+rather than laboratory analysis of samples.  It is possible that petroleum constituents in 
+soil remain at concentrations above applicable soil screening levels.  It is the 
+Environmental Professional’s opinion that this constitutes a REC.  If additional 
+information regarding the potential for petroleum contamination in soil is desired, 
+collection of soil samples for laboratory analysis may be warranted. 
+ 
+• Potential Leak from Hydraulic Lift: A hydraulic lift was identified inside the building 
+and is used to carry materials between the basement and ground floor levels. Based on 
+visual inspection of the lift and on historical reports which state that the lift has a history 
+of leaking, it appears likely that the lift leaks hydraulic fluid.  It is the Environmental 
+Professional’s opinion that if cracks are present in the floor beneath the lift, oil leaking 
+from the lift may have impacted the sub-surface.  In addition, based on the apparent age 
+of the lift there is a possibility that at one time the lift utilized PCB-containing hydraulic 
+fluid and that this fluid could have potentially resulted in PCB-contamination of the 
+concrete floor and/or sub slab beneath the lift.  
+ 
+• Drum with Unknown Contents: An unlabeled 55-gallon drum of unknown contents is 
+located in the parking lot adjacent to the dumpster.  During the Site walkover, the drum 
+was estimated to be less than ¼ full of a solid material.  The drum is exposed to the 
+elements and appears to be starting to rust.  The drum is also at risk of being damaged by 
+delivery trucks that utilize this area.  It is the Environmental Professional’s opinion that 
+there is a moderate threat of release of whatever materials are contained within the drum.  
+ 
+CRECS  
+Based on review of the available data, JCO has not identified any CRECs at the Site. 
+ 
+HRECS  
+Based on review of the available data, JCO has not identified any HRECs at the Site. 
+
+ADDITIONAL CONSIDERATIONS 
+The following items are not considered formal RECs; however, these items should be 
+considered prior to any future construction and renovation activities: 
+• Hazardous Building Materials: The potential presence of asbestos-containing building 
+materials, lead-based paint, and/or PCB-containing building materials is beyond the 
+scope of ASTM 1527-13.  However, given the age and construction of the buildings, 
+these materials may be present in buildings on the Site.  In particular, floor tiles and 
+hardboard located in the basement are suspected of being asbestos-containing and peeling 
+paint was noted on surfaces throughout the older portions of the building.  The membrane 
+roof may be PCB and/or asbestos containing.  An asbestos, lead paint, and PCB-building 
+materials inspection by a licensed professional may be warranted if additional 
+information is desired about the potential presence of these materials.  This information 
+would be of particular importance should any renovation or reconstruction of the building 
+require disturbance and or disposal of these potential hazardous material containing 
+building materials. 
+ 
+• Location in Industrial Area: The Site is located in downtown Barre in a historically 
+industrialized area, adjacent to active railroad tracks.  Historically, a railroad spur was 
+present at the Site as late as 1964.  The atmospheric deposition of industrial exhaust 
+products may have resulted in surficial and/or deeper soil impacts at the Site.  If 
+additional information regarding soil quality is desired, then collection of analytical 
+samples may be warranted.  
+ 
+• Trench Drains: Trench drains were observed in the loading dock area of the building, 
+which was built following demolition of the former drycleaner.  Although, these drains 
+were reportedly not associated with the former dry cleaner, they may have accepted 
+potentially hazardous material from drips, spills, or leaks which may have occurred in the 
+loading dock.  According to the property owner, these drains discharge to the City Sewer 
+located to the north of the building.  It is possible that potentially impacted material from 
+the trench drains has migrated to the sub-surface through cracks in the piping or through 
+loose connections.  Therefore, it is the Environmental Professional’s opinion that there is 
+a moderate chance that contamination may be associated with these drains and the 
+associated piping.  If additional information regarding the drain contents and discharge 
+location is desired, collection of sediment samples for analysis and/or efforts to determine 
+condition of the drain piping may be warranted. 
+ 
+• Petroleum Impacted Groundwater: During an investigation conducted at the Site in 
+2002, petroleum constituents were identified in groundwater at concentrations in excess 
+of VGES.  After a series of remedial actions were implemented at the Site, the petroleum 
+concentrations in groundwater decreased, and as of 2008 the concentrations were 
+reportedly below VGES.  Considering the data presented in the Heindel & Noyes 
+Quarterly Reports suggest that the concentrations of petroleum constituents have 
+decreased to below VGES in the areas which were sampled by Heindel & Noyes, it is the 
+Environmental Professional’s opinion that this does not rise to the level of a REC.  
+However, there is a slight chance that petroleum contamination in groundwater may exist 
+in other portions of the Site (from the up-gradient Barre Shell site for example).  If 
+additional information regarding petroleum constituent concentrations in groundwater is 
+desired, collection of analytical groundwater samples may be warranted. 
+ 
+• Monitoring Wells in Poor Condition: At least two monitoring wells at the Site were 
+observed to be in extremely poor condition, with missing road box covers and no visible 
+well plugs.  Because these wells are potential vertical migration pathways, it is possible 
+that the wells are acting as a conduit for contaminated surficial material to impact the 
+subsurface.  While it is the Environmental Professional’s opinion that this condition does 
+not rise to the level of a REC, repair/rehabilitation/protection of damaged wells and/or 
+appropriate decommissioning of the destroyed or unnecessary wells may be warranted. 
+ 
+
+1.0  INTRODUCTION 
+The Johnson Company, Inc. (JCO), of Montpelier, Vermont was retained by the Central 
+Vermont Regional Planning Commission (CVRPC) to conduct a Phase I Environmental Site 
+Assessment (ESA) of the Bonacorsi Property located at 16 Prospect Street in Barre, Vermont 
+(the Site).  The location of the Site is depicted in Figure 1.  
+ 
+The purpose of this ESA was to identify Recognized Environmental Conditions (RECs) 
+associated with the Site that may suggest the presence or likely presence of hazardous substances 
+or petroleum products resulting from conditions associated with an existing release, past release, 
+or a material threat of a release at the property.  JCO understands that that this Phase I ESA is 
+intended to support a possible property transaction. 
+   
+This ESA included reviewing existing information made available and/or that was 
+reasonably ascertainable regarding current and past usage of the property, determining the Site’s 
+regulatory status, contacting appropriate personnel regarding current and past uses of the Site, 
+investigating past, present and/or the potential for releases of hazardous substances at the Site, 
+and conducting a reconnaissance to visually inspect the accessible portions of the Site.   
+ 
+This ESA was performed by personnel from JCO who meet the definition of 
+Environmental Professional as defined in 40 CFR Part 312, in conformance within the scope and 
+limitations of ASTM E 1527-13 and in compliance with 40 CFR Part 312, Standards and 
+Practices for All Appropriate Inquiries.   
+ 
+Credentials of JCO personnel involved with the preparation of this ESA are included as 
+Appendix 1. 
+2.0  SITE DESCRIPTION 
+The Site is located on the south side of the intersection of Merchants Row and Prospect 
+Street and is owned by the N&M Investments, LLC.  The Site consists of an approximately 0.45acre
+parcel with an onsite building that is comprised of an amalgamation of multiple 
+interconnected sub-buildings.  The age of the buildings range from the mid 1900’s through the 
+early 2000’s.  The building is currently used as dry storage for wholesale goods by Capitol 
+Candy.  Figure 2 shows the location of the Site relative to its surroundings.   
+2.1 SETTING AND SURROUNDING DEVELOPMENT 
+The host vicinity consists of residential properties (primarily to the west and south) and 
+commercial/municipal properties including restaurants, the City Hall, the Barre Post Office, a 
+gas station, a bank, and a dental surgery office.  The Site is abutted to the north by Prospect 
+Street, to the west by the M&B railroad, to the east by the Barre Post Office, and to the south by 
+the Barre Evangelical Free Church.  The northwest corner of the Barre Shell site (SMS #: 
+951841, currently a Champlain Farms filling station) abuts the southeast corner of the Site.  
+Topographically, the ground surface is relatively flat and is covered with asphalt parking areas or 
+is within the footprint of the building, except for a narrow grassy strip between the building and 
+the railroad tracks.  The Site and surrounding properties are depicted on Figure 2. 
+2.2 HEATING, WATER AND SEWER 
+The Site is currently served by Barre sewer and water utilities.  The building is heated 
+with forced hot air from oil furnaces located in the basement.  The fuel for these furnaces is 
+provided from two 275-gallon above ground storage tanks (ASTs), also located in the basement.  
+Electricity to the property is provided by Green Mountain Power via overhead lines.  No polemounted
+transformers were noted at the Site. 
+2.3 GEOLOGY AND HYDROGEOLOGY 
+The bedrock in the area is mapped as the Waits River formation, a phyllite metalimestone 
+described as “Dark-gray to silvery-gray, lustrous, carbonaceous muscovite-biotite-quartz (+/garnet)
+phyllite containing abundant beds of punky-brown-weathering, dark-bluish-gray 
+micaceous quartz-rich limestone in beds ranging from 10 cm to 10 m thick” (Ratcliffe, et al, 
+2011).  
+ 
+The Site is mapped as Udipsamments which is a well-drained, coarse-grained, poorly 
+sorted sand (EDR, 2017).  The Heindel & Noyes Corrective Action Plan (CAP) dated November 
+12, 2004 states that the surficial geology at the Site is “recent alluvium from the nearby Stevens 
+Branch and miscellaneous fill material”.  Heindel & Noyes indicated that angular stone 
+fragments indicative of glacial till were encountered “in the center of the property” and 
+concluded that this till serves as an impeding layer for the Site.  The Heindel & Noyes CAP does 
+not indicate an approximate depth to till, nor is depth to till readily apparent from the boring logs 
+provided in the 2004 CAP. 
+ 
+The direction of groundwater flow was not directly measured as part of this ESA.  
+However, prior groundwater investigations have been conducted in connection with the 
+chlorinated solvent contamination at the Site.  The results of these investigations found that the 
+depth to groundwater at the Site was reported to be approximately 12 feet below ground surface.   
+The investigations also found that the hydraulic gradient across the Site is generally to the 
+northwest.    However, in the early 1900s, the Stevens Branch of the Winooski River adjacent to 
+the Site was diverted into a manmade channel and the original river bed was backfilled.  The 
+nature of the backfill used created preferential pathway to the north along the former river 
+corridor. 
+ 
+2.4 THREATENED SPECIES AND WETLANDS 
+Vermont Agency of Natural Resources (VTANR) Natural Resources Atlas (NRA) does 
+not show any wetlands within approximately 0.25-miles of the Site.  The VTANR NRA shows 
+two Class 2 wetlands located between approximately 0.75-mile and 1-mile of the Site (VTDEC1, 
+2016).  These wetlands are located at substantially higher elevations relative to the Site. 
+The VTANR NRA does not list any rare, threatened, or endangered species within 1 mile 
+of the Site (VTDEC1, 2016). 
+3.0  SITE HISTORY AND REVIEW OF EXISTING INFORMATION 
+3.1 HISTORICAL REVIEW 
+3.1.1 Land Records 
+A search of the Land Records in the Barre City Clerk’s office was conducted on the day 
+of the Site walkover, May 8, 2017.  It should be noted that JCO staff are not title search 
+professionals; a formal land records review should be conducted by a qualified title search 
+attorney.  Details of historical ownership of the Site are summarized in Table 1.   
+3.1.2 U.S.G.S. Topographic Maps 
+The 1922, 1924, 1947, 1948, 1951, 1957, 1978, 1981, 1988, and 2012 United States 
+Geological Survey (USGS) topographic quadrangle maps for the target area were provided by 
+Environmental Data Resources, Inc. (EDR) and reviewed as part of this ESA (EDR, 2016).  Map 
+series were 15-minute (1922 through 1957), and 7.5 minute (1978 through 2012).  The maps are 
+included as Appendix 2.  The Site and immediate vicinity appear to be approximately the current 
+configuration (street locations, the railroad, etc.) in the 1922 through 1978 maps.  The 1988 map 
+shows Barre City has an urban area, but only shows significant municipal buildings (the post 
+office, city hall, schools, auditoriums, etc.).  The 2012 map shows streets and elevation contours 
+only – no structures are shown anywhere on this map. 
+3.1.3 Aerial Photographs 
+Aerial photographs from 1939, 1942, 1973, 1976, 1980, 1986, 1992, 1996, 2006, 2008, 
+2009, 2011, and 2012 were provided by EDR and reviewed as part of this ESA. The aerial 
+photos are included as Appendix 2. The 1939 photograph appears to show a structure at the Site, 
+but the quality is poor and no details can be clearly deciphered.  The 1942 through1980 
+photographs show a structure at the Site which appears to have a different footprint than the 
+current building, although portions of the structure may have been incorporated into the current 
+structure.  The structure appears to be consistent with the later Sanborn maps.  The 1986 and 
+subsequent photographs show the Site approximately in its current configuration. 
+3.1.4 Sanborn Fire Insurance Maps 
+Historical Sanborn Fire Insurance Maps for 1884, 1889, 1894, 1900, 1905, 1910, 1916, 
+1925, 1948, 1960, and 1964 were provided by EDR. The maps are included in Appendix 2.  The 
+1884 map shows two dwellings at the Site.  A blacksmith/wagon shop is shown on the abutting 
+property to the west.  The other abutting properties appear to be residential with the exception of 
+a dentist on the opposite side of Prospect Street (then called Bridge Street) from the Site and a 
+cobbler where City Hall are currently located.  The railroad tracks are not shown on the 1884 
+map. The 1889 through 1900 maps show the Site and abutting properties in approximately this 
+configuration with a livery at the south end of the Site appearing in the 1894 map and a portion 
+of the eastern dwelling being shown as a wagon shop in the 1900 map.  The railroad tracks, a 
+railroad spur onto the Site, and the City Hall first appear in the 1889 map and are present in all 
+subsequent maps.  The western dwelling at the Site is not shown in the 1905 or 1910 maps and a 
+grist mill appears to the south of the Site in the 1905 map.  In the 1916 map, the remaining 
+(eastern) dwelling has been converted to auto storage.  The 1925 shows the Site being used as 
+general storage and as “whol. gro.” (perhaps wholesale grocers, but not certain).  The 1948 
+through 1964 maps show a drycleaner adjacent to Prospect Street at the north end of the Site, a 
+“bottling beverages” structure at the south end of the Site, and the same “whol.gro.” structure 
+(although this structure is labeled “Recreation Center” in the 1964 map).  The blacksmith shop 
+on the abutting parcel to the west is shown on these maps as an auto repair shop and an auto sales 
+and service business appears to be operating on the property to the south. 
+ 
+3.1.5 City Directories 
+The Cole Information Services and Mannings Street Directories for the Site were 
+provided by EDR (see Appendix 2).  The 1961 Mannings Street Directory lists Malnati Dry 
+Cleaners and the Lighthouse Teen Center at the Site.  The Barre Auto Supply Co is listed on the 
+abutting property to the west.  The 1967 and 1973 Mannings Street Directories list Malnati Dry 
+Cleaners and a wholesale grocer at the Site.  The Barre Auto Supply Co is listed in the 1967 but 
+not the 1973 directory.  The 1992 Cole Information Services directory lists “Bonacorsi & Sons 
+Inc. Groc” at the Site.  The site is not listed in the 1999 through 2013 Cole Information Services 
+directory.   
+3.1.6 Environmental Questionnaire 
+JCO’s standard Environmental Questionnaire was provided to Mr. Dominic Bonacorsi 
+and was received by JCO on March 20, 2017.  A copy of the completed questionnaire is included 
+in Appendix 3. 
+3.2 INTERVIEWS 
+3.2.1 Current Owner 
+Mr. Dominic Bonacorsi was interviewed by Mr. Jeremy Matt of JCO on March 20, 2017.  
+Mr. Bonacorsi indicated that, other than the conditions documented in the numerous 
+investigations conducted at the Site, he was not aware of any spills, releases of hazardous 
+materials, or other issues of environmental concern at the Site. 
+3.2.2 Past Owner/Occupant 
+The Site has been owned by the Bonacorsi family since approximately 1977, and the 
+previous owner (Mr. John Santini) is deceased.   
+3.2.3 State/Local Officials 
+Deputy Fire Chief Joseph Aldsworth of the Barre Fire Department was interviewed by 
+telephone by Mr. Jeremy Matt of JCO on May 16, 2017.  Deputy Chief Aldsworth indicated that 
+he was aware that the Site was a hazardous waste site, and that a number of investigations had 
+been conducted in connection with the Site.  He also stated that approximately 18-months ago 
+the fire department responded to a complaint of leaking refrigerant at the Site but that the 
+incident was not an on-going risk.  Deputy Chief Aldsworth was not aware of any other incidents 
+at the Site involving hazardous chemicals or threats to human health at the Site (Aldsworth, 
+2017). 
+3.2.4 Neighboring or Nearby Property Owner/Occupant    
+On May 10, 2017, Mr. Steve Micheli, interim Director of Public Works, was interviewed 
+by email by Mr. Jeremy Matt of JCO.  Mr. Micheli identified that (with the exception of the 
+information provided in the investigation and spill reports provided to the VTDEC), he was not 
+aware of any complaints of spills, dumping, or complaints regarding human health at the Site; 
+fires; or other incidents involving hazardous chemicals or the environment (Micheli, 2017). 
+ 
+Calls were made to Gusto’s Bar on April 5th, April 13th, and May 10th, 2017.  The phone 
+rang without being picked up or going to voicemail on each occasion. 
+3.3 PRIOR INVESTIGATIONS 
+ A substantial degree of investigation has been conducted at the Site to date in response to 
+cVOC contamination (i.e. tetrachloroethylene (PCE), trichloroethylene (TCE), and degradation 
+products), from a former on-site drycleaner.  The Sanborn Maps show that a dry-cleaning 
+operation started at the Site between 1925 and 1948, and according to the Manning Directory 
+that the facility was still operational as of 1973.  Reportedly, chlorinated solvent containing 
+waste was discharged directly to the ground surface and was also disposed of in onsite sanitary 
+drains that are reportedly connected to the municipal sewer system.  Petroleum contamination 
+was also encountered, presumably from a former on-site underground storage tank and/or from 
+off-site source(s).  A Heindel & Noyes investigation report from 2002 references a UST closure 
+of a 1,000-gallon fuel oil UST, but concluded that this tank was unlikely to be the source of the 
+on-site petroleum contamination.  However, a formal UST closure report was not included in the 
+VTDEC records.  Heindel & Noyes reports also reference closure of a former filling station 
+during which USTs were reportedly emptied to the Site surface.  However, JCO was not able to 
+find any historical documentation of this purported filling station.  Additional details are 
+provided in Section 4.3.2.  Both the petroleum and cVOC contamination was originally 
+discovered in 2002.   
+As part of this Phase I ESA, JCO contacted the VTDEC and requested all records related 
+to the Site.  The VTDEC provided a total of 192 files (reports, work plans, letter and email 
+correspondence, meeting notes, etc.) which were subsequently reviewed by JCO for the purpose 
+of understanding the overall history of prior investigations.  Documents which contained 
+substantial information relevant to an understanding of investigation and remediation at the Site 
+or to current Site conditions were very briefly summarized; these summaries are included in 
+Table 2.  A total of 44 investigation reports, 5 remedial action documents (corrective action 
+plans, as-built documents, etc.), and 8 notes, memoranda, or letters were summarized.  The main 
+points of this review are as follows: 
+• cVOC contamination is present in groundwater and soil vapor beneath the Site and has 
+migrated to the north along the Merchant’s Row portion of Barre City and to a lesser 
+extent to the west towards the Stevens Branch of the Winooski River.  Soil vapor has also 
+migrated to the east towards the Post Office building.  The cVOC migration in 
+groundwater to the north appears to be following the former Stevens Branch river bed 
+which was reportedly backfilled when the river was relocated into a new channel in the 
+early 1900s.  It should be noted that another cVOC impacted groundwater plume exists 
+under Prospect Street (located immediately north of the Site), which reportedly was the 
+result of a leak(s) in an underground sewer line.  
+• Active remediation (air sparging, vapor extraction, and injection of oxygen-releasing 
+compounds) has been conducted. 
+• cVOC groundwater concentrations remain above VGES, but show decreasing 
+concentrations between the two more recent groundwater sampling events (in 2013 and 
+2016)  
+• Petroleum groundwater concentrations at the Site have decreased to below VGES 
+• Sub-slab depressurization systems were installed and are currently active at the City Hall 
+and Post Office buildings, and continued operation of these systems is required to 
+minimize the potential for chlorinated vapor intrusion.   
+• The VTDEC determined that installation of vapor intrusion mitigation systems at Gusto’s 
+Bar or at the Clark’s Feed Store building, located to the west of the Site was not 
+warranted. 
+• The VTDEC has requested biennial groundwater monitoring, with the results of the next 
+sample event to be presented by December 31, 2017. 
+• The VTDEC has requested annual measurement of the pressures developed by the subslab
+depressurization systems, with results to be presented by December 31, 2016.  A 
+report of this inspection was not included in the VTDEC files. 
+4.0  REGULATORY STATUS 
+4.1 ENVIRONMENTAL LIENS 
+ 
+A search of the files at the Barre City Clerk’s office on May 8, 2017 revealed no 
+environmental liens on the property.  However, it is noted that JCO Environmental Professionals 
+are not title attorneys. 
+4.2 FEDERAL REGULATORY FILES 
+ A database radius search report was provided by EDR and information for the following 
+sub-sections was taken from the EDR report.  If the EDR results suggest that a more detailed 
+assessment of a particular property or regulatory category is warranted, then the reason and 
+additional search results are detailed below.  Otherwise, all information provided in this section 
+was obtained from the EDR Radius Map Report. The EDR Radius Map Report is included as 
+Appendix 2. 
+4.2.1 Federal National Priority List (NPL) 
+The Site is not listed on the National Priority List (NPL), i.e., Superfund site, nor is any 
+property within a one-mile search radius of the Site. 
+4.2.1.1 Delisted NPL sites  
+ 
+ Neither the Site nor any other properties within the one-mile search radius are 
+delisted NPL sites. 
+4.2.2 Comprehensive Environmental Response, Compensation and Liability Information 
+System (CERCLIS) List 
+The Site does not appear on the CERCLIS database and no other listed CERCLIS sites 
+within a 0.5-mile search radius of the Site. 
+4.2.2.1 No Further Remedial Action Planned (NFRAP) site list 
+The Site is not a CERCLIS designated site with a no further remedial action 
+planned (NFRAP) status.  Two CERCLIS NFRAP sites, Howe Cleaners (EPA ID: 
+VTD052021656) and Barre Coal Tar (EPA ID: VTN000103777) are located between 1/8 
+and ¼ mile of the nearest Site boundary.   
+4.2.3 Federal Resource Conservation and Recovery Act (RCRA) Generators 
+No RCRA generators are listed at the Site.  Two RCRA conditionally-exempt small 
+quantity generators (CESQGs) are listed within 1/8-mile of the nearest Site boundary.  The offsite
+generators within 1/8-mile are Wesco, Inc. and 2 Park Street.  Eight additional CESQGs are 
+located between 1/8 and ¼ mile of the Site. 
+4.2.3.1 RCRA Corrective Action Sites (CORRACTS) List 
+The Site is not on the list of RCRA Corrective Action sites for EPA Region 1.  
+One site (Safety-Kleen Systems, Inc.) is located approximately 0.9-miles from the Site.  
+No other CORRACTS properties were identified within a one-mile search radius of the 
+Site. 
+4.2.4 RCRA Treatment, Storage and Disposal (TSD) Facilities 
+There are no transportation and disposal (TSD) facilities listed within a 0.5-mile search 
+radius of the Site. 
+4.2.5 Federal Institutional Control/Engineering Registries 
+There are no federally-registered controls within a 0.5-mile search radius of the Site. 
+4.2.6 Federal Emergency Response Notification (ERNS) List 
+ 
+The EDR radius report did not identify any federal records of a spill at the Site. However, 
+a spill of 3-gallons of potassium permanganate (an oxidizer) was reported to the State of 
+Vermont.  See Section 4.3.3 for additional details. 
+4.2.7 EPA On-Scene Coordinator Emergency Environmental Response 
+The EPA On-scene Coordinator (EPA OSC) program performs rapid responses to remove 
+direct contact risks by trespassers or the public.  The EPA OSC records are not part of the 
+standard EDR database search, therefore JCO conducted a separate search of OSC records.  As 
+of March 16, 2017, no OSC Sites are located within a 1.0-mile search radius of the Site 
+(EPAOSC, 2017). 
+4.3 STATE/TRIBAL REGULATORY FILES 
+ There are no recognized tribal or American Indian-owned lands within Vermont; 
+therefore, no tribal files were searched during this ESA. 
+4.3.1 Hazardous Sites List 
+The Site is listed by the VTDEC Sites Management Section (SMS) as an active, medium 
+priority, hazardous waste Site with SMS number 2002-3048.  Additional details are provided 
+below.  Based on JCO’s review of the EDR Radius Map Report and on a search of the VTANR 
+NRA, a total of 77 hazardous waste Sites are located within the 1-mile search radius of the Site.  
+Of these Sites, 47 are inactive, 13 are active low priority, 14 are active medium priority, and 3 
+are active high priority (VTDEC1, 2016).  The hazardous waste site information available from 
+the NRA is summarized in Table 3.  Based on the surrounding topography, contaminant types, 
+human activity, etc. four of the hazardous waste sites listed above were identified as sites of 
+interest and are discussed in more detail below.  Given the surrounding topography, the 
+contaminant profiles identified, and groundwater flow direction at the other 73 hazardous waste 
+Sites, and on a review of the Site Status notes, it is considered unlikely that significant 
+contamination from these sites has migrated on to the Site.   
+ 
+Bonacorsi Property (SMS #: 2002-3048) – The Site 
+The property was listed with the VTDEC as a hazardous waste Site following the discovery of 
+chlorinated solvents and petroleum constituents in groundwater above Vermont Groundwater 
+Enforcement Standards (VGES) in 2002.  Additional details are provided in Section 3.3 and in 
+Table 2. 
+ 
+Howe Cleaners (SMS #: 992631) / Merchants Row/ Enterprise Alley (SMS #: 20114142) 
+The Howe Cleaners site is a high priority site as a result of PCE contamination in soil, soil gas, 
+and groundwater.  The former Howe Cleaner’s facility is located approximately 1000-feet north 
+of the Site.  Based on the investigation reports that were reviewed, the Howe Cleaners site is 
+hydro-geologically down-gradient of the Bonacorsi property.  The Merchants Row site was 
+defined as part of Barre’s downtown redevelopment plan and encompasses the Bonacorsi Site 
+and the Howe Cleaners site.  Howe Cleaners was dry cleaner that operated between 1947 and 
+1992.  Prior to 1972, the dry-cleaning operation reportedly utilized the petroleum-based Stoddard 
+solvent.  After 1972, the operation was converted to a chlorinated solvent-based process.  These 
+solvents reportedly stored in two underground storage tanks (USTs) underneath the building and 
+have been described as a source for the identified soil and groundwater contamination at the site.  
+Reportedly, chlorinated solvents were discharged onto both the ground surface outside the 
+building and to the floor drains within the foundation of the building.  Soil and groundwater 
+investigations at the site have identified PCE concentrations in soils at depths ranging from 8 to 
+50 feet below ground surface at concentrations exceeding 100,000 parts per billion.  
+Approximately 180 tons of impacted soil was removed from the site in 2003 and a soil vapor 
+extraction (SVE) system was installed in 2004 and operated until 2008 when it was destroyed in 
+a fire.  The SVE system removed an estimated 428-pounds of PCE.  Groundwater sampling 
+results at the site from 2004 to 2006 and 2012 indicated that PCE concentrations continue to 
+exist at levels exceeding the Vermont Primary Groundwater Quality Standards (PGQS).  Based 
+on a review of the groundwater and soil gas contamination isocontours presented in the Nobis 
+Engineering Corrective Action Feasibility Investigation (CAFI) dated March 2013, it does not 
+appear likely that contamination from the Howe Cleaners property has migrated to the Site 
+(Nobis, 2013) 
+ 
+Barre Shell (former Dave’s Mini Mart) (SMS #: 951841) 
+The Barre Shell site is an actively listed hazardous waste Site following the findings of a Phase II 
+ESA at the site.  Barre Shell abuts the Site to the southeast and is presumably up-gradient of the 
+Site.  Soil borings advanced downgradient of the four onsite gasoline USTs identified petroleum 
+contamination in the soils.  Between 1997 and 2016, five rounds of groundwater sampling were 
+conducted.  The results of these investigations suggest generally declining groundwater 
+concentrations.  Based on the location of the contaminant plume at the Barre Shell property 
+(potentially up-gradient of and adjacent to the Site), it is possible that contaminated groundwater 
+from Barre Shell has migrated onto the Site.  If petroleum impacted groundwater did migrate to 
+the Site, impacts from the Barre Shell property would likely be observed in the southern portion 
+of the Bonacorsi Site (ECS, 2016).  
+ 
+Washington Apartments (SMS #: 931437) 
+The Washington Apartments are listed as a hazardous waste site as a result of #2 fuel oil 
+contamination that originated from a leaking onsite UST and are located approximately 400-feet 
+northeast of the Site.  The UST was closed and 18 soil borings and 11 monitoring wells were 
+installed to better determine the extent of the contamination.  Free-phase product was regularly 
+encountered in one monitoring well and benzene was consistently detected at concentrations 
+exceeding the VGES in two monitoring wells.  Eight additional monitoring wells were installed 
+and nine sub-slab vapor samples were collected at a later date.  Based on the results presented in 
+the most recent groundwater monitoring report, it is considered unlikely that contamination from 
+Washington Street Apartments, located at 14 Washington Street in Barre, has migrated to the 
+Site (VHG, 2016). 
+4.3.2 Underground Storage Tank List 
+ 
+There are no registered active underground storage tanks (USTs) at the Site.  The Heindel 
+& Noyes Phase I ESA from 2002 references that a 1,000-gallon fuel oil UST was present at the 
+Site (the approximate location is shown on Figure 2).  According to the 2002 Heindel & Noyes 
+Phase I report, the tank was installed circa 1984-1987.  The Heindel & Noyes Preliminary Site 
+Investigation Report dated November 12, 2002 states that this tank was closed by Heindel & 
+Noyes, and that the peak PID reading beneath the tank was 15 ppmV, and from this Heindel & 
+Noyes concluded that the 1,000-gallon UST was not the source of petroleum contamination 
+found in “the earlier investigation”.  
+ 
+The Heindel & Noyes report from November 12, 2002 also states: 
+“H&N also received an eyewitness account from a Barre resident that the 
+property used to be a filling station.  As report to us, the fuel tanks were apparently 
+removed from the ground and their contents spilled on to the ground when the filling 
+station was closed”.   
+ 
+The Heindel & Noyes report from April 9, 2003 states: 
+ “Historically there is a long history of auto use at the Site, beginning as a storage 
+garage through to its use as a gasoline filling station from the 1930s through the 1960s.  
+According to a long-time resident, the closure of the filling station involved emptying the 
+liquid from the tanks on to the property.  This would explain why the highest petroleum 
+concentrations are found in the footprint of the former gasoline pumping station”.   
+ 
+Unfortunately, the 2003 Heindel & Noyes report was not scanned properly and does not 
+show the aforementioned filling station.  Based on JCO’s review of the Sanborn maps and the 
+street directories, no reference to a filling station was encountered whatsoever.  Therefore, it is 
+unclear to JCO exactly where this “filling station” may have been located. 
+The Heindel & Noyes report dated April 9, 2003 describes a ground penetrating radar 
+survey which was conducted in November 2002.  This work identified two suspect areas.  
+However, subsequent excavations conducted in these areas did not identify any USTs. 
+4.3.3 Spills List 
+Neither the EDR report nor the Natural Resources Atlas identified spills at the Site (EDR, 
+2017; VTDEC1, 2017).  However, on May 15, 2006 a spill of approximately 3-gallons of 1% 
+potassium permanganate solution (an oxidizer used in the treatment system) occurred.  During 
+injection, the solution overflowed from the wells on to the ground.  The release was contained by 
+the Heindel & Noyes technician, but while the technician was off-site, rain started to fall which 
+mobilized the solution.  The solution, which was described as being “brilliant purple” in color, 
+flowed down Prospect Street.  The street was shut down by the Barre fire department until the 
+source of the spill was identified. 
+4.3.4 Landfills 
+There are no certified landfills within a 0.5 mile search radius of the Site  
+4.3.5 Institutional Controls/Engineering Controls Registries 
+A review of the records available at the Barre City Clerk’s office revealed no institutional 
+and/or engineering controls filed in the Land Records for the Site as of May 8, 2017.   
+4.3.6 Voluntary Cleanup Sites 
+Vermont does not specifically have a voluntary cleanup program, but the Brownfield 
+Reuse Environmental Liability Limitation Act (BRELLA, effective July 1, 2008), acts as one for 
+non-responsible parties.  See Section 4.3.7 below for additional information regarding nearby 
+Brownfield sites. 
+4.3.7 Brownfield Sites 
+The Site is enrolled in the Brownfield Cleanup Program.  Four Brownfield sites are 
+located with on 0.5-mile of the nearest Site boundary.  These sites are the Former Twin Cities 
+Custom Sandblast site (SMS #: 2009-3892), the Gable Place site (SMS #: 2010-4038), the Rueda 
+Property (SMS #: 2011-4196), and the Blanchard Block site (SMS #: 2012-4324).  It is 
+considered unlikely that contamination from these properties has impacted the Site.  Additional 
+details regarding these sites are provided in Table 3.   
+4.4 LOCAL REGULATORY FILES  
+4.4.1 Fire Department/Town Health Officer/Police 
+Details regarding interviews with local officials are provided in Section 3.2.3. 
+4.4.2 Local Electric Utility Company (Polychlorinated biphenyls) 
+ Electricity to the property was served by Green Mountain Power via overhead lines.  No 
+pole-mounted transformers were noted at the Site. 
+ 
+ Based on the age and construction of the on-site buildings, it is possible that PCBcontaining
+building materials (caulk, paint, sealant, mastic, etc.) were used during the 
+construction of the buildings. 
+ 
+4.5 NON-AAI/ASTM SCOPE CONSIDERATIONS 
+4.5.1 Asbestos and Lead Paint Issues 
+An asbestos and lead based paint inspection was not performed as part of this ESA.  
+However, given the age and construction of the buildings it is possible that asbestos containing 
+materials and/or lead-based paint are present in the on-site buildings.  In particular, suspect floor 
+tiles were observed on the basement floor and suspect hardboard was noted in the room in the 
+basement which houses the fuel oil ASTs. 
+5.0  SITE RECONNAISSANCE 
+A Site walkover was conducted on May 8, 2017 by Jeremy Matt of JCO.  Mr. Matt was 
+accompanied by a representative of Capitol Candy (the current Site occupant).  The 
+representative was not knowledgeable about the Site history; however, following the walkover 
+Mr. Jim Thibeault of Capitol Candy answered questions regarding the Site.  The weather 
+conditions on the day of the Site visit were overcast, approximately 40 degrees, with light wind.  
+Photographs taken during the Site visit are included as Appendix 4 of this report.   
+5.1 EXTERIOR OBSERVATIONS 
+The exterior portions of the Site consist of an asphalt parking lot (in poor condition) 
+located between the building and Prospect Street to the north, a narrow grassy strip between the 
+building and the railroad tracks to the west, and very narrow (1-3 feet wide) alleyways to the 
+south and east of the building.  No evidence of spills was observed in the parking area or other 
+exterior surfaces, but a number of monitoring wells were noted.  One of these wells appeared to 
+have been destroyed; the road box cover was missing; the well casing was open and no well plug 
+was visible.  A second road box (with the well cover on the ground nearby) was filled with soil 
+and no well casing was visible.  Additional monitoring well road boxes in serviceable condition 
+were noted, but were not opened or gauged to confirm viability.  A dumpster, a drum of 
+unknown contents (estimated to be less than ¼ full of a solid material), and an approximately 
+six-foot square shed containing the treatment system components for the Post Office vapor 
+intrusion mitigation system were present in the parking lot.  This shed was locked and the key 
+was not available.  No stressed vegetation or other evidence of contamination was noted in the 
+grassy strip between the building and the railroad.  A variety of trash (food containers, bottles, 
+etc.) was noted in these alleyways, but no items of environmental concern were noted. 
+5.2 INTERIOR OBSERVATIONS 
+ The interior portions of the Site are used by Capitol Candy as storage space.  The items 
+stored by Capitol Candy include packaged food, beverages (e.g. soda, wine, etc.), product 
+display stands to be placed in stores, extra steel shelving units, household furniture, coffee 
+makers, plastic crates, empty beer kegs, unused Styrofoam food containers, and a large number 
+of boxes of unknown contents.   
+ 
+In the loading dock area at the northern end of the building (near Prospect Street), a series 
+of drains were noted.  Mr. Bonacorsi was asked about the discharge location of these drains, and 
+he indicated that they discharge to the City of Barre sewer system.  It should also be noted that 
+these drains are located in the newest portion of the building, which was constructed following 
+demolition of the former dry cleaner building.  No drains were noted elsewhere in the building. 
+ 
+Several of the rooms in the building were former cold storage areas from when the 
+building was used as a wholesale grocery.  According to label on the refrigerant containers 
+observed during the Site walkover, the refrigerant used in this system is Honeywell Genetron 
+408A, which is a mixture of chlorodifluoromethane (47%), 1,1,1-trifluoroethane (46%), and 
+pentafluoroethane (7%). 
+ 
+Two 275-gallon ASTs were noted in the basement.  These tanks supply fuel to two forced 
+hot air furnaces which provide heat for the building.  These tanks appeared to be in good 
+condition, with no petroleum odors or visual evidence of substantial leaks. 
+ 
+During the walkover of the basement, floor tiles in poor condition were noted.  Based on 
+the apparent age of these tiles, they may be asbestos-containing.  Additional suspect asbestoscontaining
+material (ACM) was noted in the form of hardboard paneling on the ceiling of the 
+basement room which contains the fuel oil ASTs.  Additional floor tiles were noted at the top of 
+the stairs which lead from the second floor down to the ground floor office/kitchen area.  
+However, it is noted that JCO Environmental Professionals are not trained asbestos 
+professionals. 
+ 
+A hydraulically powered lift was present in the northern portion of the building and is 
+used to carry materials between the ground floor and the basement.  A case of automatic 
+transmission fluid (quart containers) was noted next to the lift, presumably for refilling the lift’s 
+hydraulic reservoir as necessary.  The floor beneath the lift is lowered approximately 4-inches to 
+allow the lift floor to be even with the level of the basement floor.  This lowered area contained 
+sorbent material which appeared to be mostly saturated with oil.  The 2002 Heindel & Noyes 
+Phase I ESA states that this lift has a history of leaking. 
+  
+ 
+6.0  USER RESPONSIBILITIES 
+In order to qualify for one of the Landowner Liability Protections (LLP) offered by the 
+Small Business Liability Relief and Brownfields Revitalization Act of 2001, the user(s) and/or 
+grantee(s) or a party on behalf of the user(s) and/or grantee(s) must collect the following 
+information, if applicable, and should make the information available to the environmental 
+professional upon request: 
+ 
+1. Environmental cleanup liens that are filed or recorded against the Site; 
+2. Activity and land use limitations that are in place on the Site or that have been 
+filed or recorded in a registry; 
+3. Specialized knowledge or experience of the person seeking to qualify for the 
+Limited Liability Protections (LLPs); 
+4. Relationship of the purchase price to the fair market value of the property if it 
+were not contaminated; 
+5. Commonly known or reasonably ascertainable information about the property;  
+6. The degree of obviousness of the presence or likely presence of contamination at 
+the property and the ability to detect the contamination by appropriate 
+investigation. 
+ 
+The information listed above was addressed by Clare Rock of the CVRPC. A copy of a 
+completed User Questionnaires pertaining to the Site has been included with this report as 
+Appendix 5. 
+7.0  CONCLUSIONS & OPINIONS 
+JCO has performed a Phase I Environmental Site Assessment in conformance with the 
+scope and limitations of ASTM Practice E-1527 of the Bonacorsi Property located at 16 Prospect 
+Street in Barre, Vermont (the Site).  Any exception to, or deletions from, this practice are 
+described in Section 8.1 of this report.   
+ 
+This assessment has revealed no evidence of recognized environmental conditions 
+(RECs, CRECs, or HRECs) in connection with the property except for the following (see 
+Sections 7.1, 7.2, and 7.3 below). 
+7.1 RECOGNIZED ENVIRONMENTAL CONDITIONS 
+Based on review of the available data, JCO has identified the following RECs at the Site: 
+ 
+• Chlorinated VOC Impacts to Groundwater: Previous analytical data for the Site 
+suggests the presence of cVOCs in groundwater that remain at concentrations in excess 
+of VGES, both onsite and north of the property.  Based on review of the investigation 
+reports provided by the VTDEC, the active remediation conducted in connection with 
+cVOC concentrations in groundwater has resulted in concentrations that appear to be 
+stable or declining.  It is the Environmental Professional’s opinion that the confirmed 
+presence of cVOCs in groundwater at concentrations above regulatory standards 
+constitutes a REC.  However, the groundwater at the Site and at nearby properties is not 
+used as a potable source of drinking water off-site migration has reportedly been halted, 
+and no sensitive receptors appear to be at imminent risk. Although an imminent risk does 
+not appear to be present, a risk of vapor intrusion does exist and therefore a threat to 
+indoor area quality within the Site building should be considered. The VTDEC has 
+requested continued biennial groundwater sampling to assess the cVOC concentrations in 
+groundwater both on- and off-site. 
+ 
+• Chlorinated VOC Impacts to Soil Vapor: Soil vapor sampling conducted at the Site in 
+2002 and 2011 identified the presence of cVOCs both beneath the basement slab and in 
+indoor air at concentrations above vapor intrusion screening levels. However, it is 
+unknown if the cVOC soil vapor concentrations have decreased beneath the on-site 
+building since the 2011 sampling event and if the potential for vapor intrusion remains.  
+cVOCs from the Site have also resulted in soil vapor contamination above risk-based 
+screening levels in the City Hall and Post Office buildings.  Reportedly, the 
+depressurization systems installed beneath these buildings are effectively mitigating the 
+cVOCs exposure risk to indoor air, but long-term operation, monitoring, and maintenance 
+of these systems is required.  It is the Environmental Professional’s opinion that the 
+confirmed presence of cVOCs in soil vapor at the Site constitutes a REC.  If additional 
+information regarding the potential risk of vapor intrusion is desired, sub-slab soil vapor 
+sampling and/or indoor air sampling may be warranted. 
+ 
+• Chlorinated VOC Impacts to Soil: While the extent of cVOCs in groundwater and soil 
+vapor is well-defined at the Site, the assessments of soil conditions have been limited to 
+PID screening. While PIDs are a useful tool to identify the presence of gross 
+contamination, the data resulting from PID screening is variable and is not compoundspecific.
+ It is the Environmental Professional’s opinion that cVOCs may be present in 
+soil at concentrations above applicable soil screening levels.  If additional information 
+regarding the potential for cVOC contamination in soil is desired, collection of soil 
+samples for laboratory analysis may be warranted.  This information will be especially 
+useful should any future redevelopment of the property include excavation and the 
+generation of excess soil that may require offsite management or disposal. 
+ 
+• Petroleum Impacts to Soil: While the petroleum contamination in groundwater has 
+reportedly been addressed based on the most recent groundwater monitoring reports, little 
+information is available about concentrations in soil.  To date, the assessments of soil 
+conditions at the Site have consisted of screening with a PID, rather than laboratory 
+analysis of samples.  It is possible that petroleum constituents in soil remain at 
+concentrations above applicable soil screening levels.  It is the Environmental 
+Professional’s opinion that this constitutes a REC.  If additional information regarding 
+the potential for petroleum contamination in soil is desired, collection of soil samples for 
+laboratory analysis may be warranted. 
+ 
+• Potential Leak from Hydraulic Lift: A hydraulic lift was identified inside the building 
+and is used to carry materials between the basement and ground floor levels. Based on 
+visual inspection of the lift and on historical reports which state that the lift has a history 
+of leaking, it appears likely that the lift leaks hydraulic fluid.  It is the Environmental 
+Professional’s opinion that if cracks are present in the floor beneath the lift, oil leaking 
+from the lift may have impacted the sub-surface.  In addition, based on the apparent age 
+of the lift there is a possibility that at one time the lift utilized PCB-containing hydraulic 
+fluid and that this fluid could have potentially resulted in PCB-contamination of the 
+concrete floor and/or sub slab beneath the lift.  
+ 
+• Drum with Unknown Contents: An unlabeled steel 55-gallon drum of unknown 
+contents located in the parking lot adjacent to the dumpster.  During the Site walkover, 
+the drum was estimated to be less than ¼ full of a solid material.  The drum is exposed to 
+the elements and rust was observed on its surface.  The drum is also at risk of being 
+damaged by delivery trucks that utilize this area.  It is the Environmental Professional’s 
+opinion that there is a moderate threat of release of whatever materials are contained 
+within the drum.  
+7.2 CONTROLLED RECOGNIZED ENVIRONMENTAL CONDITIONS 
+Based on review of the available data, JCO has not identified any CRECs at the Site. 
+7.3 HISTORIC RECOGNIZED ENVIRONMENTAL CONDITION (HREC) 
+A HREC is defined by ASTM in the E1527-13 standard as “a past release of hazardous 
+substance(s) that has been addressed to the satisfaction of the applicable regulatory authority or 
+meeting unrestricted use criteria established by a regulatory authority, without subjecting the 
+property to any required controls (for example, property use restrictions, activity and use 
+limitations, institutional controls, or engineering controls).” HRECs are not considered RECs 
+when the remaining environmental conditions are compliant with the most current regulatory 
+criteria.  This assessment has revealed no evidence of HRECs in connection with the property.    
+7.4 ADDITIONAL CONSIDERATIONS 
+ The following items are not formal RECs either because there is not sufficient 
+information to reasonably suspect that a release of contamination has occurred or because they 
+are beyond the scope ASTM 1527-13.  However, it is the environmental professional’s opinion 
+that these items should be considered when making decisions regarding the redevelopment of the 
+Site.  
+• Hazardous Building Materials: The potential presence of asbestos-containing building 
+materials, lead-based paint, and/or PCB-containing building materials is beyond the 
+scope of ASTM 1527-13.  However, given the age and construction of the buildings, 
+these materials may be present in buildings on the Site.  In particular, floor tiles and 
+hardboard located in the basement are suspected of being asbestos-containing and peeling 
+paint was noted on surfaces throughout the older portions of the building.  The membrane 
+roof may be PCB and/or asbestos containing.  An asbestos, lead paint, and PCB-building 
+materials inspection by a licensed professional may be warranted if additional 
+information is desired about the potential presence of these materials.  This information 
+would be of particular importance should any renovation or reconstruction of the building 
+require disturbance and or disposal of these potential hazardous material containing 
+building materials.   
+ 
+• Location in Industrial Area: The Site is located in downtown Barre in a historically 
+industrialized area, adjacent to active railroad tracks.  Historically, a railroad spur was 
+present at the Site as late as 1964.  The atmospheric deposition of industrial exhaust 
+products may have resulted in surficial and/or deeper soil impacts at the Site.  If 
+additional information regarding soil quality is desired, then collection of analytical 
+samples may be warranted.  
+ 
+• Trench Drains: Trench drains were observed in the loading dock area of the building, 
+which was built following demolition of the former drycleaner.  Although, these drains 
+were reportedly not associated with the former dry cleaner, they may have accepted 
+potentially hazardous material from drips, spills, or leaks which may have occurred in the 
+loading dock.  According to the property owner, these drains discharge to the City Sewer 
+located to the north of the building.  It is possible that potentially impacted material from 
+the trench drains has migrated to the sub-surface through cracks in the piping or through 
+loose connections.  Therefore, it is the Environmental Professional’s opinion that there is 
+a moderate chance that contamination may be associated with these drains and the 
+associated piping.  If additional information regarding the drain contents and discharge 
+location is desired, collection of sediment samples for analysis and/or efforts to determine 
+condition of the drain piping may be warranted. 
+ 
+• Petroleum Impacted Groundwater: During an investigation conducted at the Site in 
+2002, petroleum constituents were identified in groundwater at concentrations in excess 
+of VGES.  After a series of remedial actions were implemented at the Site, the petroleum 
+concentrations in groundwater decreased, and as of 2008 the concentrations were 
+reportedly below VGES.  Considering the data presented in the Heindel & Noyes 
+Quarterly Reports suggest that the concentrations of petroleum constituents have 
+decreased to below VGES in the areas which were sampled by Heindel & Noyes, it is the 
+Environmental Professional’s opinion that this does not rise to the level of a REC.  
+However, there is a slight chance that petroleum contamination in groundwater may exist 
+in other portions of the Site (from the up-gradient Barre Shell site for example).  If 
+additional information regarding petroleum constituent concentrations in groundwater is 
+desired, collection of analytical groundwater samples may be warranted. 
+ 
+• Monitoring Wells in Poor Condition: At least two monitoring wells at the Site were 
+observed to be in extremely poor condition, with missing road box covers and no visible 
+well plugs.  Because these wells are potential vertical migration pathways, it is possible 
+that the wells are acting as a conduit for contaminated surficial material to impact the 
+subsurface.  While it is the Environmental Professional’s opinion that this condition does 
+not rise to the level of a REC, repair/rehabilitation/protection of damaged wells and/or 
+appropriate decommissioning of the destroyed or unnecessary wells may be warranted. 
+ 
+8.0  DATA GAPS/LIMITATIONS 
+8.1 DATA GAPS 
+The small (approximately 6x6 ft.) shed used to house the treatment system equipment for 
+the post office vapor intrusion mitigation system was locked and could not be opened.  No 
+evidence of releases was noted around this shed.  While not ideal, this data gap is not considered 
+to be significant and does not affect the conclusions of this report.  
+8.2 LIMITATIONS 
+The conclusions of this ESA were based upon information obtained and made available 
+to JCO from the following sources: the Barre City Clerk; EDR; the VTDEC; the Federal EPA; 
+and from information gathered during the Site reconnaissance and interviews.  This information 
+has been intended for the sole use of Capitol Candy and the CVRPC.  No other uses, expressed 
+or implied, are warranted.  The design of the investigation was based on sound scientific 
+techniques and experience with similar investigations.  Should additional information become 
+available pertaining to environmental concerns that may be associated with the Site, the 
+information should be made available to JCO so that we may re-evaluate our conclusions. 

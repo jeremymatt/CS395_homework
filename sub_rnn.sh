@@ -15,13 +15,13 @@
 # Maximum runtime of 10 minutes
 #SBATCH --time=30:00:00
 # Name of this job
-#SBATCH --job-name=jm_arch
+#SBATCH --job-name=jm_RNN
 # Output of this job, stderr and stdout are joined by default
 # %x=job-name %j=jobid
 #SBATCH --output=../output/%x_%j.out
 # change to the directory where you submitted this script
 cd ${SLURM_SUBMIT_DIR}
 # your job execution follows:
-time python ~/scratch/DeepLearning/github/CS395_homework/HW01_sketches_jmatt_driver.py
+time python ~/scratch/DeepLearning/github/CS395_homework/HW02_RNN.py
 
 

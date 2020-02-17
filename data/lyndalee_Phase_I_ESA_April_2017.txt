@@ -1,0 +1,1577 @@
+﻿
+10 Cleveland Avenue, Rutland, Vermont 
+ 
+ 
+We declare that, to the best of our professional knowledge and belief, we meet the 
+definition of Environmental Professional as defined in §312.10 of 40 CFR Part 312.    
+ 
+We have the specific qualifications based on education, training, and experience to assess 
+a property of the nature, history, and setting of the subject property.  We have developed 
+and performed the all-appropriate inquiries in conformance with the standards and 
+practices set forth in 40 CFR Part 312.   
+ 
+ 
+THE JOHNSON COMPANY, INC. 
+ 
+ 
+ 
+The Johnson Company is pleased to present you with this report of our findings of a 
+Phase I Environmental Site Assessment (ESA) of at the Former Lynda Lee Site at 10 
+Cleveland Avenue in Rutland, Vermont.  This ESA was conducted in accordance with 
+the scope and limitations of the American Society for Testing and Materials' Standard 
+Practice for Environmental Site Assessments (ASTM) E 1527-13 in conformance with 40 
+CFR Part 312, Standards and Practices for All Appropriate Inquiries. 
+ 
+We truly appreciate working for you on this project.  Please call Stephanie Hunt or me if 
+you have questions regarding any of the following information. 
+ 
+ 
+Sincerely, 
+ 
+THE JOHNSON COMPANY, INC. 
+ 
+EXECUTIVE SUMMARY 
+ 
+The Johnson Company, Inc., of Montpelier, Vermont was retained by the Rutland 
+Regional Planning Commission (RRPC) to conduct a Phase I Environmental Site 
+Assessment (ESA) of the Former Lynda Lee Site located at 10 Cleveland Avenue in 
+Rutland, Vermont (the Site). The Site is listed as an active hazardous waste site (SMS 
+#:2016-4670) with low priority. While the Site is listed as an active hazardous waste site, 
+the site status is designated as “release not identified”. 
+ 
+This ESA was performed by personnel from The Johnson Company (JCO) who meet the 
+definition of Environmental Professional as defined in 40 CFR Part 312.  This ESA 
+included reviewing existing documentation, available aerial photographs and topographic 
+maps, determining the regulatory status of the Site, contacting appropriate personnel 
+regarding past and present uses of the Site, investigating the potential for past releases of 
+petroleum products and/or hazardous substances at the Site, and conducting a site 
+reconnaissance to visually inspect accessible portions of the Site to ascertain the presence 
+of recognized environmental conditions (RECs) in the form of present or potential 
+release(s) of hazardous substances or petroleum products. In addition, the presence of 
+historic recognized environmental conditions (HRECs) – a past release of hazardous 
+substance(s) that has been addressed to residential use standards or unrestricted use 
+criteria – and controlled recognized environmental conditions (CREC) – a past release of 
+hazardous substance(s) that has been addressed to non-residential use standards and is 
+subject to some type of control – at the Site.  As such, a HREC is no longer a REC when 
+the remaining environmental conditions are compliant with the most current regulatory 
+criteria; and a CREC is a REC. 
+ 
+JCO understands that no environmental investigations, with the exception of asbestos 
+inspections, have been conducted the Site. A Site reconnaissance was conducted by JCO 
+on February 3, 2017 which included an inspection of interior and exterior portions of the 
+Site.  Photographs of Site conditions during the reconnaissance are provided in Appendix 
+8 of this report.   
+ 
+JCO understands that The Housing Trust of Rutland County anticipates potential 
+redevelopment of the Site and the findings of this assessment are intended to better 
+inform future planning and development options.   
+ 
+The Johnson Company has performed this Phase I ESA in conformance with the scope 
+and limitations of ASTM Practice E-1527-13 of the Site in the City of Rutland, Vermont.  
+Any exception to, or deletions from, this practice are described in Section 8.1 of this 
+report.  This assessment has revealed no evidence of RECs or CRECs in connection with 
+the property except for the following:  
+ 
+RECS: 
+ 
+1. Deposition of industrial-related pollutants to shallow soil: The Site and the areas 
+immediately surrounding the Site were historically used for a variety of industrial 
+activities including a foundry, machine shop, manufactured gas facility, lumber yard, 
+offset printing (which may have utilized PCB containing inks), textile manufacturing, 
+and railcar traffic. In addition, the Site was formerly heated using a coal-fired furnace 
+and fuel oil. Industrial activities often involve the burning of hydrocarbons, which 
+typically result in area-wide PAH and metals deposition to shallow soil. The Site also 
+received fill that was excavated from a stormwater construction project and 
+stockpiled on the southern portion of the Site; it is possible that the fill was impacted 
+by industrial-and/or petroleum-related pollutants. 
+ 
+Opinion:  It is the Environmental Professional’s opinion that there is high 
+likelihood that shallow soil at the Site may be adversely impacted.  Should 
+additional information regarding the disposition of surface soil related to 
+surrounding industrial activities be desired, representative near surface soil 
+samples could be collected from the Site and analyzed for PAHs, metals, and 
+screened for VOCs to ascertain if the former industrial activities and the 
+placement of fill in southern portion of the Site may have adversely impacted 
+shallow soil quality at the Site.   
+ 
+2. PCB impacts to shallow soil: Three utility poles with pole-mounted transformers 
+were observed at the Site. In addition, past flooding from East Creek may have 
+deposited PCB-impacted soils from the neighboring manufactured gas plant on the 
+Site.  
+ 
+Opinion:  It is the Environmental Professional’s opinion that there is a moderate 
+chance of PCB contamination in shallow soil at the Site. Should additional 
+information regarding the disposition of surface soil related to PCBs be desired 
+shallow soil samples could be collected in the vicinity of the utility poles with 
+pole-mounted transformers and intermittently on the Site to assess if the 
+transformers leaked PCB containing fluids or if PCB impacted material from 
+neighboring properties may have been introduced to the Site during previous 
+flooding.   
+ 
+3. Possible PCB-containing electrical equipment and building materials: Considering the 
+age of the building, it is possible that electrical equipment such as fluorescent tube 
+lights utilized PCB containing oils.  Staining, which appeared to be oily in nature, 
+was observed in the building; it is possible that inks used by Sharp Offset Printing 
+contained PCBs. In addition, PCB-containing building materials (such as roof sealant, 
+mastic, paint, caulk, window glaze, etc.) may be present at the Site. Furthermore the 
+majority of electrical equipment appeared to be removed from the building prior to 
+the Site visit, so it is possible that transformers, capacitors, or other older electrical 
+equipment  and/or machinery that may have used PCB containing fluid were once 
+utilized at the facility and were since removed. 
+ 
+Opinion:  It is the Environmental Professional’s opinion that there is a moderate 
+chance of PCB contamination in the building. Should additional information 
+regarding the possible presence of PCBs in the building be desired, a PCBbuilding
+materials inspection could be conducted by a qualified environmental 
+contractor and the findings summarized in a report.  Any suspect electrical 
+equipment could be inspected and if appropriate, sampled for PCBs. This 
+inspection could include an evaluation of the light ballasts and older electric 
+equipment for possible PCBs as well as the collection of bulk samples of floor 
+material (wood) for PCB analysis. 
+ 
+4. Underground storage tanks:  The 1962 and 1971 Sanborn Maps (the two most recent 
+maps) include the label “Fuel Oil Tks Under Conc. Fl” on an enclosure near the 
+southeast corner of the demolished building. There is no record of the presence of 
+these tanks with the exception of the Sanborn maps.  Additionally, a three-port fill 
+and vent pipe, emitting an obvious petroleum odor, were observed on the eastern 
+exterior wall of the building; these pipes are possibly connected to the 8,500 gallon 
+fuel oil tank registered to the Site. The current property owner was not aware of any 
+tanks on the property.  Finally, a 1995 JCO report associated with the neighboring 
+Former Korner Pocket Site, indicated that elevated PID readings were reported in the 
+northeast corner of the basement of the subject Site.  This report suggested that a 
+7,500 gallon #2 fuel oil UST is present in this immediate area outside the northeast 
+wall of the subject Site. 
+ 
+Opinion:  It is the Environmental Professional’s opinion that there is a high 
+likelihood that as many as three abandoned USTs exist at the Site. Should 
+additional information regarding the presence of these USTs be desired, either 
+exploratory test pitting and/or ground penetrating radar services could be used to 
+evaluate the presence of these USTs. The State Vermont requires abandoned USTs 
+be appropriately decommissioned.  If evidence of a release is confirmed during tank 
+removal and additional information is desired regarding soil and groundwater 
+quality in the vicinity of these USTs, soil and groundwater  samples could be 
+collected and analyzed for VOCs, SVOCs, and possible lead (depending on the 
+presumed age and residual contents of the tanks, i.e. old leaded gasoline). 
+ 
+5. Floor pits: Four floor pits and what appeared to be a sewer clean out containing 
+sediment were observed in the basement of the Site building.  
+Opinion: It is the Environmental Professional’s opinion that there is a moderate 
+chance that the sediment in these floor pits is contaminated. Should additional 
+information regarding the presence of contamination in this sediment be desired, 
+the contents of these pits and clean out could be screened for VOCs with a PID.  
+Sediment present in the voids could also be sampled and analyzed of VOCs, PCBs, 
+metals and PAHs to analytically confirm potential contaminant constitutes.  
+ 
+6. Railroad Corridor: The Site is abutted by The Vermont Railway to the south. Considering the 
+proximity to the tracks, it is likely that via atmospheric deposition, partially burnt 
+hydrocarbons in the form of PAHs may be present in shallow soils on the Site.  Railroads 
+also utilize herbicides to control vegetation along the rails and have historically used ACM 
+in rail car brake systems.  
+ 
+Opinion:  It is the Environmental Professional’s opinion that there is a moderate 
+chance that the adjacent rail corridor has adversely impacted soil quality at the 
+Site. Should additional information regarding the soil quality in the vicinity of the 
+rail corridor be desired near surface soil samples could be collected in the southern 
+portion of the Site and analyzed for PAHs, PCBs, metals, ACM and herbicides.   
+ 
+7. Groundwater Related Neighboring Property:   The abutting hazardous waste site Former 
+Korner Pocket [SMS#: 94-1727] has had reported groundwater impacts above the VGES.  
+Although the Korner Pocket site was closed by VTDEC in 2012, a 1995 report for the site 
+suggests the possible presence of VOC impacts and a UST outside the northeast corner of 
+the building at the subject Site.   
+  
+Opinion:  It is the Environmental Professional’s opinion that there is a moderate 
+chance that impacted groundwater from the Former Korner Pocket may have 
+migrated and adversely impacted groundwater quality at the Site. Should additional 
+information regarding groundwater quality be desired groundwater monitoring 
+wells could be installed, samples collected, and analyzed for VOCs, SVOCs, and 
+possibly PCBs.   
+ 
+ 
+RECs beyond the Scope of ASTM 1527-13 and AAI 
+   
+1. Given the age of the building, LBP may coat surfaces of interior and exterior walls of 
+the Site.  
+  
+Opinion: In order to confirm or deny the presence of LBP on Site, an inspection 
+should be conducted by a certified lead paint inspector and a report generated 
+outlining the findings. 
+
+2. ACM was identified in the debris of the demolished Site building. Given the age and 
+construction of the existing Site building, ACM may be present in that building as 
+well.  
+ 
+Opinion: An ACM inspection should be conducted by a certified ACM inspector 
+and a report should be generated outlining the findings. This report should include 
+a rough cost estimate for abatement of any ACM identified.  
+ 
+Potential Offsite Issues for Consideration 
+Neighboring Properties:  Eighteen hazardous waste sites (six active and twelve inactive) 
+are located within a 0.25-mile radius of the Site.  The abutting site to the west (CVPSRutland
+City Gas Works [SMS #: 77-0137]), identified groundwater impacts above the 
+VGES and continues to be monitored due to elevated concentrations of PAHs, VOCs, 
+and PCBs in groundwater.  Also, according to the 1962 and 1971 Sanborn maps, a former 
+dry cleaner was located at 133 State Street, the current Foley Services Inc. [SMS #: 941627]
+property.  Although a petroleum assessment has been performed and subsurface 
+petroleum impacts have been reported, no assessment has been conducted to evaluate the 
+presence of chlorinated VOCs in the sub-surface.  Additionally, a former filling station 
+and currently a laundry mat occupy the property located 147 State Street.   Although not 
+a State listed hazardous site, JCO understands that no environmental assessment of this 
+property has occurred.  
+ 
+Opinion:  It is the Environmental Professional’s opinion that there is a possibility 
+that impacted groundwater and/or vapor from neighboring properties may have 
+migrated onto the Site. Should additional information regarding groundwater or 
+vapor quality be desired groundwater monitoring wells and soil gas monitoring 
+points could be installed, samples collected, and analyzed for VOCs, and possibly 
+SVOCs, and PCBs.   
+ 
+ 
+1.0 INTRODUCTION 
+The Johnson Company was retained by the Rutland Regional Planning 
+Commission (RRPC) to conduct a Phase I Environmental Site Assessment (ESA) of the 
+former Lynda Lee property located at 10 Cleveland Avenue in Rutland, Vermont (SMS # 
+2016-4670; the Site).  The Site totals approximately 1.7 acres and hosts one abandoned 
+building totaling approximately 89,115 square feet and the debris and foundation of a 
+demolished building.  The facility has been vacant for approximately two decades. The 
+Site had been used as an offset printing facility, garment factory, a lumber yard, and was 
+reportedly utilized for industrial purposes associated with the rail line that forms the 
+southern boundary of the Site.  The location of the Site is depicted in Figure 1.  
+ 
+The purpose of the ESA was to identify recognized environmental conditions 
+(RECs) associated with the Site that indicate the presence or likely presence of hazardous 
+substances or petroleum products under conditions that suggest an existing release or a 
+material threat of a release associated with the Site.  In addition, the presence of historic 
+recognized environmental conditions (HRECs) – a past release of hazardous substance(s) 
+that has been addressed to residential use standards or unrestricted use criteria – and 
+controlled recognized environmental conditions (CREC) – a past release of hazardous 
+substance(s) that has been addressed to non-residential use standards and is subject to 
+some type of control – were identified for the Site if applicable. Furthermore, as defined 
+in ASTM E 1527-13, a HREC is no longer a REC when the remaining environmental 
+conditions are compliant with the most current regulatory criteria and a CREC is a REC. 
+This ESA included reviewing existing information made available and/or that was 
+reasonably ascertainable regarding current and past usage of the Site, determining the 
+Site’s regulatory status, contacting appropriate personnel regarding current and past uses 
+of the Site, investigating the potential for past releases of petroleum products and/or 
+hazardous substances on the Site, and conducting an onsite reconnaissance to visually 
+inspect the accessible portions of the Site.   
+
+JCO understands that this Phase I ESA was completed for the Site in anticipation 
+of a potential redevelopment of the Site by The Housing Trust of Rutland County. 
+ 
+This ESA was performed by personnel from JCO who meet the definition of 
+Environmental Professional as defined in 40 CFR Part 312, in conformance within the 
+scope and limitations of  ASTM E 1527-13 and in compliance with 40 CFR Part 312, 
+Standards and Practices for All Appropriate Inquiries.  Credentials of JCO personnel 
+involved with the preparation of this ESA are included as Appendix 1. 
+ 
+2.0 PROPERTY DESCRIPTION 
+2.1 SETTING AND SURROUNDING DEVELOPMENT 
+The Site is currently owned by John Ruggiero through Second City LLC and sits 
+on an approximately 1.7-acre parcel located on the east side of Cleveland Avenue and the 
+south side of State Street. Figure 1 displays the Site and host vicinity and Figure 2 
+displays Site features of interest. The Site is bound by State Street to the north, residents 
+and an abandoned filling station/automobile garage to the east, an active railroad corridor 
+to the south, and Cleveland Avenue to the west.  The Site is situated in the central 
+business district and is currently zoned commercial.  The Site topography is relatively flat 
+with an embankment on the southern property boundary up to the rail corridor. The 
+closest surface water feature is East Creek, which is located approximately 290 feet to the 
+west of the Site. The rail corridor that forms the southern boundary of the property is 
+operated by The Vermont Railway.  
+ 
+The Site is located in downtown Rutland within a mixed-use, developed area of 
+primarily commercial and industrial land, with residential buildings dispersed throughout 
+the area. The original building on Site was constructed between 1890 and 1895 according 
+to the Sanborn Maps (see Section 3.2.4), and the existing building was added onto that 
+structure between 1942 and 1948 according to aerial photos (see Section 3.2.3)  in a 
+Streamline Moderne architectural style, utilizing smooth orange/red ceramic tiles and 
+thick opaque glass block rounded corners. In 2010 the back portion of the building was 
+demolished (debris is still present) but the newer 1940s portion of the structure remains. 
+There is currently no active use of the Site. 
+ 
+2.2 HEATING, WATER AND SEWER 
+As of February 3, 2016, the property is reportedly serviced by municipal water 
+and sewer.  According to the Sanborn maps, the former (demolished) building on the 
+property was heated using coal since 1895. The addition of fuel oil tanks, identified in the 
+1962 map, off of the southeast corner of the former building, suggest the property 
+switched to fuel oil around that time. In addition, according to the 1910 and 1916 
+Sanborn maps, a former laundry department in the building used coal gas for heat. The 
+existing building was historically heated with fuel oil, although the location of the oil 
+tank is not indicated on the Sanborn map.  What appeared to be a boiler room was located 
+along the north wall of the building which may have formerly contained an aboveground 
+storage tank (AST). However, an 8,500-gallon underground storage tank (UST) is 
+registered to the property; please see Section 4.3.3 for more details. That tank is likely 
+located in a concrete vault, near a former loading dock in the southeast corner of the 
+basement adjacent to a 3-pipe fill port and a vent pipe with a fuel oil odor that was 
+observed on the exterior east wall of the building. 
+ 
+2.3 GEOLOGY AND HYDROGEOLOGY 
+The surficial geology at the Site is mapped as Deerfield loamy sand (NRCS, 
+2010). The bedrock in the area is mapped as the Dunham Dolostone formation, which is a 
+Cambrian age resistant carbonate rock (VT DEC1, 2016).  
+Depth to groundwater and the direction of groundwater flow was not measured as 
+part of this Phase I ESA. It is possible that groundwater flows west or southwest across 
+the Site toward East Creek. 
+ 
+2.4 THREATENED SPECIES AND WETLANDS 
+According to the Vermont Agency of Natural Resources (ANR) Natural 
+Resources Atlas, there is one rare, threatened, or endangered species that may reside 
+within 0.5 miles of the nearest Site boundary. The species is listed as an invertebrate 
+animal (EO_ID: 6106) with ranks of S2 (state rank) and G5 (global rank). The last 
+observation was in 1978 and the animal appears to be associated with the Otter Creek 
+southwest of the Site. There are no significant natural communities or wetlands mapped 
+within a 0.5-mile radius of the nearest Site boundary. This information was accessed on 
+December 8, 2016 (VT DEC1, 2016).  
+3.0 PROPERTY HISTORY AND REVIEW OF EXISTING INFORMATION 
+3.1 PRIOR INVESTIGATIONS 
+JCO understands that no formal environmental investigations have been 
+conducted at the Site. According to a news article a fire occurred at the abandoned 
+structure in October 2015. The fire was apparently caused by squatters burning material 
+inside the building to keep warm. The article also mentions that a State Health Inspector 
+tested building debris at the property in December 2014 and the debris was found to 
+contain asbestos (Times Argus, 2015).  
+ 
+ In April 2016, Clay Point Associates, Inc (CPAI) performed a limited asbestos 
+containing material (ACM) inspection of the building debris remaining from the 
+demolished south end of the commercial structure on the Site. Only the accessible 
+(surface) material of the debris piles was evaluated. A total of 58 bulk samples of suspect 
+ACM were sampled on April 19, 2016, and 52 of these samples were analyzed using 
+polarized light microscopy (PLM) analysis. Building debris including hardboard, siding, 
+caulking, felt paper, and cement board were found to contain asbestos (CPAI, 2016). 
+ 
+ In October 2016, Harper Environmental Associates (HEA) collected samples of 
+potential ACM and retained Asbestos Identification Laboratory (AIL) to analyze these 
+samples for asbestos using PLM analysis. Specifically, four samples of concrete mortar 
+were analyzed and asbestos was not detected in any sample (AIL, 2016).  According to 
+the property owner these samples were collected from the debris pile of the demolished 
+building. However, on March 15, 2017, JCO contacted Cliff Harper of HEA to request 
+clarification regarding where these additional ACM samples of mortar were collected.  
+Mr. Harper verified that these samples are representative of mortar from within the 
+portion of the building that remains intact and were not collected from the debris pile  
+ 
+3.2 HISTORICAL REVIEW 
+The earliest confirmed use of the Site is depicted on the 1895 Sanborn map, 
+which shows the Site with three structures: a dwelling, a small structure labeled “C.C.”, 
+and a large building labeled Tim & Co. Shirt Factory.  The property has a long history of 
+textile manufacturing, and also has been used as a lumber yard, offset printing facility, 
+and was reportedly utilized for industrial purposes associated with the rail line that forms 
+the southern boundary of the Site. 
+ 
+3.2.1 Land Records 
+A search of the Land Records at the Rutland City Clerk’s office was conducted on 
+February 3, 2017 but may be incomplete.  Table 1 provides a summary of the ownership 
+history for the Site. The property includes multiple parcels; ownership history for the 
+parcels was difficult to track and the ownership history summarized in the following table 
+(next page) may include land transfers not including the subject parcels. 
+ 
+3.2.2 U.S.G.S. Topographic Maps 
+United States Geological Survey (USGS) topographic maps from 2012, 
+1997/1996, 1988, 1980, 1964/1961, 1895/1893 and 1891 were obtained from 
+Environmental Data Resources (EDR) and reviewed as part of this ESA.  All of USGS 
+topographic maps do not display any structures on the Site; the railroad that forms the 
+southern boundary of the Site is shown on all maps. Copies of these maps are provided as 
+Appendix 2. 
+3.2.3 Aerial Photographs 
+Digital ortho-photographs from 2012, 2011, 2009, 2006, 1884, 1992, 1986, 1976, 
+1965, 1963, 1957 and 1942 were obtained from EDR and were reviewed as part of this 
+ESA.  The resolution in the photographs from 1992 and 1976 are too poor to discern Site 
+features. The Site appears in its pre-demolition configuration (with two connected 
+buildings) in all photographs, with the exception of the photograph from 1942 in which 
+only the southern (now demolished) building is present. What appears to be residences 
+are located on the northern portion of the Site in the 1942 photograph where the existing 
+building is now located. Copies of these photos are provided as Appendix 3. 
+ 
+3.2.4 Sanborn Fire Insurance Maps 
+The Sanborn Fire Insurance Maps (1879, 1885, 1890, 1895, 1900, 1905, 1910, 
+1916, 1925, 1948, 1962 and 1971) were obtained from EDR and reviewed.  Copies of 
+these maps are provided as Appendix 4. Below is a summary of findings of potential 
+environmental concerns. 
+• 1879: Subject property not included on map. Lincoln Iron Works, 
+including a machine shop, iron foundry and coal shed, shown directly east 
+of subject property across Baxter Avenue. The rail corridor that abuts the 
+Site to the south is displayed. 
+• 1885: No change 
+• 1890: No change 
+• 1895: Subject property shown on map, with three buildings shown on Site. 
+One large building labeled Tim and Co. Shirt Factory and two small 
+buildings, one labeled as a dwelling and the other labeled “C.C”. The Tim 
+and Co. Shirt Factory building contains a steam boiler, with the boiler 
+room located on the east side of the building. No major changes to 
+neighboring Lincoln Iron Works. 
+• 1900: No environmentally significant changes. 
+• 1905: The addition of Lincoln Iron Works Lumber Yard to the subject 
+property north of the Tim and Co Shirt Factory (within Site boundaries). 
+Lincoln Iron Works on Baxter Street expanded to be abutting the Site to 
+the east in addition to being located across Baxter Street. People’s Gas and 
+Light Company, including 2 round holding tanks, a tar well and battery 
+storage, shown across Cleveland Avenue to the west. 
+• 1910: No environmentally significant changes. Neighboring People’s Gas 
+and Light Company changed to Rutland Railway Light & Power 
+Company. 
+• 1916: Tim and Co Shirt Factory on Site changed to Tauber, Ryttenberg & 
+Company Shirt Factory. One additional round holding tank can be seen on 
+the Rutland Railway Light & Power Company property.  
+ Summary of neighboring Rutland Railway Light & Power 
+Company property: Three round holding tanks are labeled “Iron 
+Gasometer”.  Also present on property is a round feature labeled 
+“Tar well”, 3 oil tanks with combined capacity of 10,000 gallons, 
+an “ammonia well”, a battery house,  electric power plant 
+substation, meter house, purifying house, generator house, pump 
+house, and a coal house. 
+• 1925: Tauber, Ryttenberg & Company Shirt Factory on Site changed to 
+Tauber, Lipton Company Inc. Shirt Factory. Neighboring Rutland Railway 
+Light & Power Company changed to Vermont Hydro-Electric Inc, and the 
+ammonia well and 3 oil tanks are no longer shown.  
+• 1948: Tauber, Lipton Company Inc. Shirt Factory on Site changed to 
+Albert Rosenblatt & Sons, Inc. (dress manufacturers); new building 
+constructed on Site connected to the north wall of the old building where 
+Lincoln Iron Works Lumber Yard used to be. Neighboring Vermont 
+Hydro-Electric Inc changed to Central Vermont Public Service 
+Corporation. Tar well no longer shown. Two transformer yards and one 
+transformer storage buildings are shown. 
+• 1962: “Fuel Oil Tks Under Conc. Fl” is labeled in a room near the 
+southeast corner of the older building. One less round “Iron Gasometer” 
+holding tank shown on neighboring Central Vermont Public Service 
+Corporation property. A “Filling Station” is now located northeast across 
+State Street where a dwelling was previously located. 
+• 1971: Building on Site labeled “Dress MFG”. The neighboring Lincoln 
+Iron Works is no longer present and is instead labeled as “General Electric 
+Corp. Machine Shop” on the east side of Baxter Avenue. On the west side 
+of Baxter Avenue (abutting the Site), a “lumber yard” is labeled. On the 
+neighboring Central Vermont Public Service Corporation property no 
+round “Iron Gasometer” holding tanks are shown.  
+ 
+3.2.5 Manning’s Street Directory 
+A City Directory Report was obtained from EDR. City directories from the years 
+2013, 2008, 2003, 1999, 1995, 1992, 1986, 1981, 1976, 1970, 1965, 1960, 1955, 1950, 
+1946 and 1940 were available. This resource provided a chronological operational history 
+for a particular address. The EDR City Directory Report is included as Appendix 5. 
+Below is a summary of the occupant history according to the directories: 
+• 2013: Address not listed 
+• 2008: Occupant unknown 
+• 2003: Address not listed 
+• 1999: John Sharp 
+• 1995: Academy Books; J R Sprinkler Co.; Sharp Offset Printing; Vermont 
+Heritage Press 
+• 1992: Academy Books; Sharp Offset Printing; Vermont Heritage Press 
+• 1986: Lynda Lee Fashions Inc.; Sharp Offset Printing Inc.; Academy 
+Books 
+• 1981: Lynda Lee Fashions Inc.; Sharp Offset Printing Inc.; Academy 
+Books 
+• 1976: Lynda Lee Fashions Inc.; Sharp Offset Printing Inc. 
+• 1970: Lynda Lee Fashions Inc. 
+• 1965: Liz of Rutland Inc. 
+• 1960: Albert Rosenblatt & Sons, dress manufacturers  
+• 1955: Albert Rosenblatt & Sons, dress manufacturers; M.W. & Co. 
+storage 
+• 1950: Albert Rosenblatt & Sons, dress manufacturers; M.W. & Co. 
+storage 
+• 1946: Albert Rosenblatt & Sons, dress manufacturers; M.W. & Co. 
+storage 
+• 1940: Address not listed 
+ 
+3.2.6 Environmental Questionnaire 
+JCO’s standard environmental questionnaire was completed by John Ruggiero, 
+property owner, on February 22, 2017. A copy of the questionnaire has been included as 
+Appendix 6. 
+ 
+3.3 INTERVIEWS 
+3.3.1 Current Owner/Occupant 
+The current owner of the Site is John Ruggiero.  Mr. Ruggiero was interviewed by 
+Kurt Muller and Stephanie Hunt of JCO on February 3, 2017 regarding the Site. Mr. 
+Ruggiero explained that the Site is uninhabited and that the Site building is currently 
+vacant. Mr. Ruggiero indicated that the building had been uninhabited since Sharp Offset 
+Printing vacated the premises. He also discussed the asbestos testing that has been 
+completed at the property to date, and indicated that he plans to have all construction 
+debris from the demolished building removed from the property in accordance with 
+Vermont Department of Health guidelines and permits by May 30, 2017.  
+ 
+Mr. Ruggiero also discussed fill from a stormwater construction project that was 
+temporarily stored on the southern portion of the property. Some remaining debris/soil 
+was still located on the property on the foundation of the former building; Mr. Ruggiero 
+indicated that the construction company, Kingsbury Construction, would be removing it. 
+He also stated that the company ensured that the fill was tested and was clean. No records 
+were provided to corroborate that the fill was clean. According to Elisabeth Kulas, 
+Executive Director of Housing Trust of Rutland County, the debris/soil was from the 
+Northwest Neighborhood Sewer Separation Project that occurred on Library Avenue, 
+located two blocks north of the Site, in 2015.   
+ 
+Mr. Ruggiero indicated that the first use of the property, as discovered through 
+personal research conducted at the Rutland Historical Society, was as three residences in 
+the mid-1800s. According to Mr. Ruggiero, the residences were demolished in place, 
+with debris contained within the foundation, and then built upon. Effort was made to 
+corroborate Mr. Ruggiero’s research, but the Rutland Historical Society was closed for 
+business during an attempted visit on February 3, 2017, and had very limited hours. In 
+addition, Ed Bove (RRPC) had indicated on the EPA Site Eligibility Form (dated October 
+21, 2016) that the Site was reportedly utilized for industrial purposes associated with the 
+rail line that forms the southern boundary of the Site. 
+ 
+3.3.2 Past Owner/Occupant 
+Mr. Ruggiero provided the name of one of the previous owners of the building 
+when it was a dress manufacturer, Nick Micalizzi. An attempt was made to contact Mr. 
+Micalizzi on February 7, 2017 and a message was left for him. No response was received.  
+ 
+3.3.3 State/Local Officials 
+The Town Health Officer Michael Brookman was interviewed by e-mail on 
+December 8, 2016.  Please see Sections 4.4.1 for information on the interview.  
+Wendy Anderson with the Waste Management Division (WMD) of the VT DEC 
+was contacted on February 14, 2017 via e-mail by Stephanie Hunt (JCO). Documents 
+relating to site investigation activities at nearby properties of interest were made available 
+in electronic format and provided to JCO by Ms. Anderson. These documents were 
+reviewed and references as appropriate in the following sections. 
+ 
+3.3.4 Neighboring or Nearby Property Owner/Occupant 
+According to the property owner Mr. Ruggiero, he is also the owner of the 
+neighboring Former Korner Pocket (SMS #94-1727) located at 148 State Street. The 
+property is currently vacant; Mr. Ruggiero was not familiar with the past environmental 
+investigations conducted at that property, which are discussed Section 4.3.2.  
+ 
+4.0 REGULATORY STATUS 
+ A search of available environmental records was conducted by EDR. The EDR 
+Radius Map Report included as Appendix 7. JCO supplemented the results of the records 
+search conducted by EDR with a review of available Environmental Protection Agency 
+(EPA) and VTDEC records, referenced herein. 
+ 
+4.1 ENVIRONMENTAL LIENS 
+A search of the files at the City of Rutland Clerk’s office on February 3, 2017 
+revealed no environmental liens on the property.  
+ 
+4.2 FEDERAL REGULATORY FILES 
+4.2.1 Federal National Priority List (NPL) 
+According to the EPAs website, which provided information extracted on 
+December 20, 2016, the Site is not listed on the NPL (also known as Superfund) as an 
+active site, nor is any property within a 1.0-mile search radius from the nearest property 
+boundary (EPA1, 2016; EPA2, 2016; EPA8, 2016).   
+ 
+4.2.1.1 Delisted NPL sites  
+ 
+Neither the Site nor any other properties within the 0.5-mile search radius from 
+the nearest property boundary are delisted or partially delisted NPL sites (EPA2, 2016; 
+EPA8, 2016). 
+ 
+4.2.2 Comprehensive Environmental Response, Compensation and Liability 
+Information System (CERCLIS) List 
+The Site does not appear on the CERCLIS list and no CERCLIS-listed sites are 
+located within a 0.5-mile search radius of the nearest property boundary (EPA1, 2016; 
+EPA8, 2016). 
+ 
+4.2.2.1 No Further Remedial Action Planned (NFRAP) Site List 
+The Site does not appear on the CERCLIS NFRAP list and no sites located within 
+a 0.5-mile search radius of the nearest property boundary are listed as a CERCLIS 
+designated site with NFRAP status (EPA3, 2016; EPA8, 2016).   
+ 
+4.2.3 Federal Resource Conservation and Recovery Act (RCRA) Generators 
+According to the ANR Natural Resource Atlas, no active RCRA generators are 
+located on or adjoin the Site (EPA4, 2016; VT DEC1, 2016; VT DEC2, 2016; EPA8, 
+2016).  However, an inactive RCRA generator, Sharp Offset Printing (Handler ID: 
+VTR000006270), is listed at the Site address of 10 Cleveland Avenue and the handler 
+type is listed as “Not in a universe”. No process information, NAICS codes, or waste 
+codes were available (EPA4, 2016). The property west of the Site, across Cleveland 
+Avenue, is also listed as an inactive RCRA generator. The name of the site is the CVPS 
+Cleveland Avenue Site (Hander ID: VTD980510770) and the address is 0 Cleveland 
+Avenue. The owner is the Central Vermont Public Service Corp, the handler type is listed 
+as “Not in universe” and the NAICS code is 221122 (electric power distribution; EPA4, 
+2016). Please see Section 4.3.2 for additional information on this property. 
+ 
+4.2.3.1 
+ RCRA Corrective Action Sites (CORRACTS) List 
+The Site is not on the list of CORRACTS for EPA Region 1.   There is one 
+CORRACTs site within a 1.0-mile search radius from the nearest property boundary. The 
+site is Green Mountain Power (EPA ID: VTD007939614) and is located at 296 Greens 
+Hill Lane (EPA5, 2016).   
+ 
+4.2.4 RCRA Treatment, Storage and Disposal (TSD) Facilities 
+There is one non-CORRACTS transportation and disposal (TSD) facilities listed 
+within a 0.5-mile search radius from the nearest property boundary. The site is Green 
+Mountain Power (EPA ID: VTD007939614) and is located at 296 Greens Hill Lane 
+(EPA4, 2016; VT DEC1, 2016).  
+ 
+4.2.5 Federal Institutional Control/Engineering Registries 
+As of the date of this report, the EPA was developing the Institutional Controls 
+Tracking System and the system had not yet been implemented (EPA6, 2012). 
+ 
+4.2.6 Federal Emergency Response Notification (ERNS) List 
+According to the ERNS list, there were no reported spills or releases of hazardous 
+materials or petroleum products at the Site (RTK, 2016).  However, one spill is listed on 
+the ERNS list which occurred on October, 1 2010 at the CVPS Gas Works across 
+Cleveland Avenue from the Site. A caller reported a “spill of gas plant waste from the 
+soil due to floods” (Incident # 955729).  
+ 
+4.2.7 EPA On-scene Coordinator Program  
+The EPA On-scene Coordinator (EPA OSC) program performs rapid responses to 
+remove direct contact risks by trespassers or the public.  As of December 9, 2016, no 
+sites within a 1.0-mile search radius of the nearest Site boundary are listed on the EPA 
+OSC website (EPAOSC, 2016). 
+ 
+4.3 STATE/TRIBAL REGULATORY FILES 
+ There are no recognized tribal or American Indian-owned lands within Vermont; 
+therefore, no tribal files were searched during this ESA.   
+ 
+4.3.1 Vermont Sites Management Section Hazardous Sites List 
+ The Site is listed by the VT DEC Sites Management Section (SMS) as an active 
+hazardous waste site (SMS #: 2016-4670); please see Section 3.1 for more details. While 
+the Site is listed as an active hazardous waste site, the site status is designated as “release 
+not identified” and a tracking number was only assigned to the Site because it is being 
+managed by the VT DEC. A radius search of the ANR Natural Resource Atlas returned 
+102 additional hazardous waste sites within 1.0-mile of the nearest Site boundary. Of 
+these, 48 are within 0.5 miles of the nearest Site boundary and 26 of the 48 are closed 
+with SMAC or No Further Action Planned (NFAP) designation.  The SMAC or NFAP 
+status indicates that environmental assessment and/or management has been performed 
+on a site to the extent that the VT DEC does not see a need for additional management 
+activity at the time the designation letter was issued.  However, an inactive site may be 
+reopened should additional information become available or applicable regulatory 
+standards change. A total of 18 (12 inactive and 6 active) sites are located within 0.25mile
+of the Site (VT DEC1, 2016).  Table 2 and Table 3, below, summarize the active 
+and inactive hazardous wastes sites located within 0.5-mile of the nearest Site boundary, 
+respectively. The information provided in these tables was extracted from the ANR 
+Natural Research Atlas on December 9, 2016. 
+TABLE 2 
+ACTIVE HAZARDOUS WASTE SITES WITHIN 0.5-MILE OF NEAREST SITE BOUNDARY 
+10 CLEVELAND AVENUE, RUTLAND, VT 
+Site Number Priority Site Name Address Project Status (Verbatim from WM-ID) Discovery Date 
+The Site 
+2016-4670 LOW Lynda Lee 10 Cleveland Ave RRPC seeking eligibility for Phase I funding 12/7/2016 
+Sites between 0 and 0.25 miles from 10 Cleveland Avenue 
+77-0137 MED CVPS-Rutland 
+City Gas Works 0 Cleveland Ave RI done, FS done, Risk Assessment done, 2008 CAFI. Fall 2010 excavated PCB and MGP 
+contaminated soil. Fall 2015 5 MWs above VGES. Biennial GW monitoring in 2017 1995 
+95-1900 
+(Brownfield) LOW H-our Mart Inc 257-263 West St COC to be issued. 1/1/1995 
+94-1627 LOW Foley Services Inc 133 State Street Monitoring and sampling of groundwater and stockpiled soils in ongoing. Last report was 
+received in November 2000. 4/6/1994 
+2014-4470 MED 210 Columbian 
+Ave 
+210 Columbian 
+Ave 
+A CAP has been developed and is in the process of being implemented. Corrective action is 
+long term monitoring, VI mitigation, and groundwater reclassification. The site was 
+originally managed under the Suburban Propane site #20033140 when PCE and TCE was 
+discovered while addressing petroleum related contamination. An expanded SI traced the 
+source of the chlorinated VOC's to what is now the GE building. As the petroleum issues at 
+the 20033140 have been addressed, we have added the chlorinated contamination as a new 
+site. 
+n/a 
+90-0643 LOW Jiffy Mart 98 State Street 
+1990 Gasoline UST removed. Initial investigation documents free product. A Soil vapor 
+extraction/ product recovery system operated between 1994-1999. Additional tanks removed 
+in 1997. A long term monitoring plan is in place to track the residual contamination. Overall 
+declining trend in contaminant concentrations. Next round September 2016. 
+n/a 
+91-1107 LOW Duffy Coal Co 190 West St 
+Biennial GW monitoring, next round Spring 2018. Owner is evaluating SMAC designation 
+with notice to the land record .......... History: 500 gal. & 1,000 gal. USTs removed 1991. 
+Smaller tank was LUST with holes. Evidence of contamination also around 1,000 gal UST. 
+16 yds3 of soil removed & stockpiled; PID ND in pile by 7/92 and used as fill 
+onsite..............Also, 4 yds3 of No. 2 heating oil contaminated soil received from Blanchard 
+Residence (Site #96-1949) 1/29/95 for treatment. 
+9/25/1991 
+Sites between 0.25 and 0.5 miles from 10 Cleveland Avenue 
+2010-4051 MED DelliSanti 
+Apartments 125 Grove St. Basement above ground storage tank (AST) release. Harper hired for cleaunup. PCS 
+removed, SVE system installed. Remediation halted prior to completion due to nonn/a
+
+TABLE 2 
+ACTIVE HAZARDOUS WASTE SITES WITHIN 0.5-MILE OF NEAREST SITE BOUNDARY 
+10 CLEVELAND AVENUE, RUTLAND, VT 
+Site Number Priority Site Name Address Project Status (Verbatim from WM-ID) Discovery Date 
+payment. 
+96-2037 LOW Chuck’s 
+Convenience Store 129 Grove St. 
+Biennial groundwater monitoring scheduled, next rd. spring 2017. Extent of contamination 
+adequately defined w/access from new offsite property owner. FP still present in MW-2, but 
+all other wells have no dissolved contaminants above standards. FP checks in fall 
+2015/spring 2016. 
+9/24/1996 
+2012-4305 
+(Brownfield) MED 234 Columbian 
+Ave 
+234 Columbian 
+Ave Spill 2008.631. CAP completed, SSD monitoring to continue. Site may transact. n/a 
+87-0105 LOW West St. Corner 
+Store 377 West St. 
+Reopened site 4/23/99, following removal of 2 abandoned USTs. 120 tons of petroleum 
+contaminated soil excavated during UST replacement in fall '08. Annual G monitoring with 
+next round spring 2016. 
+n/a 
+89-0384 LOW Midway Oil Evelyn St. Remedial system shut down. Site in Natural Attenuation monitoring. 1/4/1990 
+96-2109 MED Merchants Row 77 Merchants 
+Row 
+Epa Site Corrective Action Feasibility Investigation Evaluating Remedial Alternatives. FP 
+recovered for years by active and passive systems. Very low level VGES exceedences may 
+be from another site. Thin layers of FP remain in several wells. 
+1/22/1997 
+2007-3641 MED 
+Rutland Country 
+Community Land 
+Trust 
+13 Center St. 
+Release reported to SMS via workplan from Weston & Sampson. Contamination appears to 
+have originated from both an AST release and an AST overfill. Vapor mitigation work being 
+performed in basement, and alterations being made to tank system to reduce likelihood of 
+another release. No action taken on this site since 2012 sent letter to requesting owner 
+contact SMS 
+n/a 
+95-1901 LOW 
+M V R T D 
+(Former Parker 
+Texaco) 
+102 West St. Petroleum contaminated soil encountered during construction of transit center. Owners 
+removed soils. Groundwater quality needs to be assessed. 12/11/1995 
+972276 LOW Former Stewarts 
+Food Mart 60 West St. 
+Gasoline contamination from former UST operated by Stewarts Shop. Property has been 
+redeveloped by DEW Construction for CCV. Ongoing site monitoring. Next round site 
+monitoring October 2016. 
+1/20/1998 
+2008-3813 
+(Brownfield) LOW Berwick Hotel Site 
+& Rutland Herald Center & Wales SMAC to be issued. n/a 
+93-1366 MED Old Woolworth 
+Building 
+86 Merchants 
+Row 
+Contaminated soil disposed In Bristol Landfill. Owner information updated--new mailing 
+address. (01/07/04) 3/31/1993 
+TABLE 2 
+ACTIVE HAZARDOUS WASTE SITES WITHIN 0.5-MILE OF NEAREST SITE BOUNDARY 
+10 CLEVELAND AVENUE, RUTLAND, VT 
+Site Number Priority Site Name Address Project Status (Verbatim from WM-ID) Discovery Date 
+2012-4346 MED Citizens Bank 
+Rutland 
+47 Merchants 
+Row 
+Complaint of petroleum odors. Visit to site revealed that sewer to either side of an 
+abandoned UST (Heating Oil) exhibited petroleum odors and low levels of vapors as 
+measured by PID. Sheen also seen in sewer water. Tank Pull Requested and scheduled for 
+12/19/2012. Investigation needed. 
+12/31/2012 
+2010-4122 LOW Foster Property 11 Cottage St. 2 relic gas USTs removed, possibly associated with former Montgomery Ward store. 
+Contamination found, investigation completed. 2 MWs above VGES. biennial monitoring n/a 
+94-1563 LOW Grove St Stewarts 
+Ice Cream Grove St. Petroleum contamination from underground storage tanks. Reduce site monitoring to semi annual
+basis. Next round scheduled for October 2016. 3/3/1994 
+Italicized  indicates nearby property of interest  
+n/a = not available 
+ 
+TABLE 3 
+INACTIVE HAZARDOUS WASTE SITES WITHIN 0.5-MILE OF SITE BOUNDARY 
+10 CLEVELAND AVENUE, RUTLAND, VT 
+Site 
+Number Priority Site Name Address Project Status (Verbatim from WM-ID) Discovery 
+Date 
+Closure 
+Date 
+Sites between 0 and 0.25 miles from 10 Cleveland Avenue 
+92-1186 NFAP N E T Plaza Strongs Ave Real Estate Assessment Minimum Contamination Found n/a 3/2/1992 
+94-1727 SMAC Former Korner 
+Pocket 
+33 Baxter 
+Street and 
+State Street 
+Monitored natural attenuation remedy completed. Site received SMAC designation 9/10/2012 
+following monitoring well closures. Petroleum and solvent GW contamination. Acrylonitrile 
+laboratory groundwater finding in 12/00 no observed again in followup analyses. 
+12/12/1994 9/10/2012 
+2003-3140 SMAC 
+Suburban VT 
+(Former Agway 
+Bulk Plant) 
+295 West St 
+Chlorinated Solvent Contamination managed under site #2014.4470 Historical AST releases at 
+site. No UST’s on property but releases have occurred at adjacent properties. Jco’s sampling 
+event in December 2005 showed petroleum compounds as well as some PCE in groundwater. 
+Based on results of investigations by Stone Env. The GE Aviation property is the likely 
+chlorinated source. GE retained ERM to conduct further site investigations of the extent of 
+chlorinated solvent contamination. A C.A.P. has been developed that includes VI remediation 
+and long term monitoring. There is also a notice to the deed regarding residual petro related 
+investigation at the Suburban property and associated wells have been abandoned. No further 
+investigation of the petroleum contamination is warranted as the contaminants are degrading, 
+will not migrate off aite, and there is a notice to the deed describing the issue. 
+n/a 
+ 3/5/2014 
+2005-3419 SMAC 
+Marble Valley 
+Correctional 
+Facility 
+167 State St 
+Underground storage tank removed. Contamination found. Contaminated soils removed from 
+excavation and drummed with tank waste. No detection of VOCs following soils removal. 
+Confirmatory samples showed no evidence of contamination. 
+n/a 10/5/2005 
+96-2047 SMAC 
+Vermont 
+National Guard 
+Maint Site 2 
+Pierpoint Ave Groundwater Monitoring Complete, no Off-site Migration n/a 7/1/1997 
+92-1273 SMAC Columbian Ave 
+Apt 
+194-208 
+Columbian 
+Ave 
+Corrective Action-Soil Removal/Capping complete. Site SMACed. n/a 8/24/2000 
+87-0081 NFAP General Electric 210 Columbian 
+Ave 
+870081 Site Closed. Date is not in file. Also see SMS 20033140 Site was added to sites list as 
+870081 due to a tank pull that found no contamination. No remedial work or SI was conducted. 
+The GE property was found to be the source of PCE and TCE contamination for site 20033140 
+managed under 20033140. 
+n/a 1/1/1987 
+90-0541 SMAC JP Noonan 11 Meadow St Remedial System Shutdown. Monitoring Continues. n/a 12/8/2004 
+
+TABLE 3 
+INACTIVE HAZARDOUS WASTE SITES WITHIN 0.5-MILE OF SITE BOUNDARY 
+10 CLEVELAND AVENUE, RUTLAND, VT 
+Site 
+Number Priority Site Name Address Project Status (Verbatim from WM-ID) Discovery 
+Date 
+Closure 
+Date 
+98-2506 SMAC Cragins Auto 105 State St 
+UST removed. Contamination found. Investigation completed. Jiffy Mart (#900643) is upgradient
+contributing source. 11/16/99 4 wells installed down-gradient, low BTEX, high 
+MTBE, annual sampling required, split costs with Jiffy Mart, 3/00, 9/00 6 of 7, 4/01 2 of 8, 
+6/02 3 of 8 6/03 1 of 8, 6/04, 5/06 2 of 8 MWs above VGES, 4/08 all MWs below VGES. 
+SMAC 
+11/16/1998 9/26/2008 
+97-2272 SMAC 173 West Street 173 West St Suspected tank was removed, >350 tons of petroleum contaminated soil asphalt batched. n/a 9/30/1998 
+90-0636 NFAP Woodbury 
+Lumber Co Forest St. Investigation Complete, No Further Action Necessary 1/4/1991 3/1/1994 
+2001-2874 SMAC McGinnis 
+Property 64 School St Underground storage tank removed. Contamination found. SI Report submitted 10/2/01 4/20/2001 11/24/2008 
+Sites between 0.25 and 0.5 miles from 10 Cleveland Avenue 
+91-1180 NFAP Former Getty 
+Station 130 Grove St. Groundwater Invest Complete, Soil Used On Site, Site Closed n/a 12/23/1992 
+2013-4386 
+(Brownfield) NFAP Watkins School 26 Watkins 
+Ave Phase 2 recommended. n/a 6/23/2015 
+2004-3239 SMAC NW Elementary 
+School 
+80 Pier Point 
+Ave UST removed. Contamination found. No impact to groundwater and receptors. SMAC 7/8/2004 5/1/2006 
+97-2268 SMAC Casella Waste 
+Management 
+25 Greens Hill 
+Lane 
+Ust Removed. Contamination Found. Investigation completed, SMS requesting further 
+sampling. (9/7/99) Residual contamination. Notice to Land Records filed 6/30/04. SMAC 1/13/1998 8/17/2004 
+77-0097 NFAP Central VT 
+Public Service n/a Completed RCRA RFA, Soil Contamination Below Action Level, Site Closed n/a n/a 
+90-0517 NFAP Merchants Row 
+Plaza n/a Site Closed. n/a 10/1/1990 
+2003-3169 SMAC Rutland City 
+Hall Washington St. 
+2 underground storage tanks removed. Contamination found. Investigation needed. See Closed 
+Site #900563. WP due in Fall O5 per conversation with Paul Clifford, Public Works Director. 
+Stone Environmental hired to conduct investigation- completed in Jan 2006. Minimal 
+contamination found in the two tank locations at the property. No groundwater encountered in 
+either boring , one of which was 23 feet deep. Notice filed to the Rutland Land Record (Book 
+525, Page 85). See related site, #90-0563. 
+12/19/2003 6/12/2006 
+TABLE 3 
+INACTIVE HAZARDOUS WASTE SITES WITHIN 0.5-MILE OF SITE BOUNDARY 
+10 CLEVELAND AVENUE, RUTLAND, VT 
+Site 
+Number Priority Site Name Address Project Status (Verbatim from WM-ID) Discovery 
+Date 
+Closure 
+Date 
+90-0536 SMAC Rutland City 
+Hall 
+52 Washington 
+St. 
+Tanks pulled and contamination found. No monitoring conducted from 1992 until 2006. SMS 
+informed RP that potential for enforcement action existed. Paul Clifford of Public Works stated 
+that they would have the work done in the fall. Stone Environmental hired to conduct 
+investigation- completed in Jan 2006. Minimal contamination found in the two former tank 
+locations at the property. No groundwater encountered in either boring, one of which was 23 
+feet deep. Notice filed to the Rutland Land Record (Book 525, Page 85). See site file 20033169 
+which details another tank pull at the same site. 
+4/15/1992 6/12/2006 
+90-0483 SMAC Former Procter 
+Bank/Key Bank 80 West St. 
+Contamination discovered during 1990 and 2002 heating oil UST tank closures. Site was 
+closed in 2007. Minor contamination remains onsite from a release at an adjacent property 
+(Frmr. Stewarts, 97-2276). 
+n/a 7/27/2007 
+2014-4511 SMAC Bardwell House 
+Rutland 
+142 Merchants 
+Row n/a 8/11/2014 10/19/2016 
+98-2385 SMAC Rutland Masonic 
+Temple 
+51 Washington 
+St. 
+UST Removed. Contamination found. Investigation completed. Annual gw monitor in Aprilc, 
+minor free product in MW-1&-2, 3.6 gal recovered to date, 4/01, 5/02, 4/03, 4/04, no FP 3 
+MWs above VGES, 4/06, 2 MWs above VGES, 4/08 1 MW slightly above VGES, SMAC 
+4/6/1998 9/12/2008 
+99-2628 SMAC US Post Office 151 West St. Underground storage tank removed and contamination found. Investigation completed and site 
+closed. n/a 6/28/1999 
+94-1628 SMAC Downtown 
+Basements 
+Merchants 
+Row No Further Action, City Requested To Advise Plumbing Traps n/a 6/4/2012 
+91-1088 NFAP Merchants Row Pierpoint Ave Investigation Complete, No Further Action Planned 8/23/1991 3/1/1994 
+95-1929 SMAC Bisson Property 25-27 Cottage 
+St Site Investigation Complete. Minimum Contamination Found n/a 6/1/1996 
+93-1487 SMAC NET Rutland West St. No Groundwater Impact, Site Closed 11/16/1993 2/1/1996 
+2008-3889 SMAC Rutland Land 
+Trust Property 46 Pine St. Leaking AST in basement. Staining and free product. Tank & PCS removed 11/16. Emergency 
+CA approve 2/4/2009. Soils excavated and site SMA Ced. n/a 7/23/2009 
+Italicized indicates nearby property of interest 
+n/a = not available 
+4.3.2 Nearby Properties of Interest 
+The following six properties were identified as being of potential environmental 
+concern based on past uses, proximity to the Site, likelihood of impacting groundwater at 
+the Site, and a history of site investigations. Figure 3 displays the nearby properties of 
+interest.   
+ 
+CVPS-Rutland City Gas Works (SMS #: 77-0137) 
+This site is located at 0 Cleveland Avenue and abuts the Site to the west. 
+The property was a former coal gasification plant starting in 1901 and was 
+purchased by Central Vermont Public Services (CVPS) in 1929. The property was 
+converted to a propane distribution facility in 1948 until 1954. Transformer repair 
+and operations were conducted at the property in the 1970s and 1980s. A 150 kw 
+solar array is currently on the property. Multiple environmental investigations 
+have been conducted on the property since 1989. 
+ 
+A Corrective Action Plan (CAP) was prepared by Haley and Aldrich, Inc. 
+(Haley & Aldrich) in 2009. According to the CAP, contaminants in shallow soil 
+on the site include polychlorinated biphenyls (PCBs) above the Federal Toxic 
+Substance Control Act (TSCA) regulatory limit for high occupancy areas and 
+polycyclic aromatic hydrocarbons (PAHs) above US EPA Region 9 Preliminary 
+Remediation Goals (PRGs). The highest PCB and PAH concentrations were 
+found in the shallow soil in the western portion of the site near a former electrical 
+substation, with other intermittent locations where elevated PAH and PCB 
+contamination found in the central portion of the site. PAH contamination was 
+encountered as deep at 56 feet below ground surface; the contamination was 
+described as an “oily residue”. Groundwater at the property was also impacted by 
+PAHs, petroleum-related volatile organic compounds (VOCs), and PCBs above 
+Vermont Groundwater Enforcement Standards (VGES), and varying amounts of  
+light non-aqueous phase liquid (LNAPL) were observed in the central and 
+southern portions of the property. Analysis of LNAPL indicated that it was related 
+to historic aboveground storage of fuel oil. Groundwater at the property flows 
+generally south-southwest across the site (towards East Creek) and is influenced 
+by the Creek (Haley & Aldrich, 2009).  
+ 
+ 
+ In 2010 CVPS performed self-implementing cleanup of PCB impacts to 
+soil and concrete at the property, which is detailed in a 2011 report prepared by 
+Haley & Aldrich. Manufactured gas product impacted material that was 
+encountered during activities was also removed. A total of 4,864 tons of soil and 
+concrete were removed and disposed of at a TSCA-approved landfill. Excavation 
+was conducted until the remedial goal of total PCB concentrations of less than 1 
+part per million (ppm) were attained for confirmatory samples (Haley & Aldrich, 
+2011).   
+ 
+ 
+ The most recent groundwater monitoring report available on the VTDEC 
+website for this property from December 2015 (describing fall 2015 sampling) 
+was also reviewed for this ESA. According to the report, concentrations of 
+dissolved VOCs and PAHs have remained stable when compared to 2014 
+sampling results; benzene, benzo(a)pyrene, and naphthalene remain above VGES. 
+The consultant did not observe measurable LNAPL in any wells. Historical data 
+included in the report showed that PCBs were first detected in groundwater in 
+2004 (above VGES) and were last detected in 2012 (Horizons, 2015). According 
+to the VTDEC website, biannual groundwater monitoring continues at the 
+property. In addition, the VTDEC WM-ID database indicates that an institutional 
+control is in place for this property, and that an engineering control in the form  a 
+paved surface is covering the majority of the property. 
+
+Former Korner Pocket (SMS#: 94-1727)  
+This site is located at 148 State Street and abuts the Site to the east. The 
+property was formerly a gasoline filling station until about 1968 and was an 
+autobody shop until 1980. A First Letter was issued on December 12, 1994 after a 
+Phase II ESA performed by JCO in 1994 revealed VOC and semi-volatile organic 
+compound (SVOC) contamination in groundwater. Naphthalene, total xylenes, 
+and ethylbenzene were detected at levels exceeding VGES. The report noted, that 
+based on the westward groundwater flow direction, it is likely that the 
+contamination affects the groundwater quality beneath Sharp Offset Printing 
+property (the Site; VTDEC, 1994a).  
+ 
+In March of 1995, JCO performed screening for VOC vapors in basements 
+nearby the site using a photoionization detector (PID).  This screening for VOC 
+vapors included an assessment of the vapor quality in the basement of the Site.  
+Specifically, the 1995 JCO report states:  In the northeast corner of the basement 
+of Sharp Offset Printing we obtained PID readings of up to 135 ppm from within 
+two cracks in the concrete foundation wall. We were informed that a 7,500 gallon 
+#2 fuel oil UST is present in this immediate area outside the wall. The age of the 
+UST is not known, but it is known to be more than 21 years old. It is likely that the 
+readings obtained at this location are a function of the presence of this UST, and 
+are not from the Site, which is approximately 60 feet away. (JCO, 1995). 
+ 
+This suggests that another UST may be present outside the building in the 
+northeast portion of the Site.  
+
+Groundwater sampling at the property performed by JCO in 2008 revealed 
+that no VOC compounds were detected above VGES. Based on these results, JCO 
+recommended that groundwater sampling at the property be discontinued and the 
+site be considered for SMAC status (JCO, 2008). JCO abandoned the monitoring 
+wells at the property in 2010 and the site received SMAC status in 2012 (VTDEC, 
+2012). 
+ 
+H-our Mart Inc. (SMS#: 95-1900)  
+This property is located at 257-263 West Street and is located 
+approximately 200 feet south of the Site. A First Letter was issued to the property 
+owners in 1996 due to an off-site source of contamination discovered at the 
+neighboring J.P. Noonan site which was likely migrating from the H-our Mart site 
+(VTDEC, 1996). The site was historically a filling station, automobile garage, and 
+bulk fuel storage facility. 
+ 
+A CAP was prepared by Leggette, Brashears & Graham, Inc. (LBG) in 
+2009. According to the CAP contaminants in shallow soil on the site include 
+VOCs, PAHs, and metals (arsenic, iron and lead) above US EPA Region 9 PRGs 
+and contaminants in groundwater include VOCs and metals (arsenic, beryllium, 
+lead and zinc) above VGES. The selected corrective action for the site was to 
+isolate site soil under 6-inches of clean topsoil and establishment of a vegetation 
+cover. According to the CAP, groundwater data indicate contaminant trends to be 
+stable to declining; therefore no corrective action with the exception of natural 
+attenuation was proposed for the site. No additional reports were made available 
+for this site on the VTDEC website, but the CAP did indicate that a Phase I ESA 
+was prepared for the site in 2005 and a Phase II ESA was completed for the site in 
+2006.  The CAP also suggested that the Phase II ESA consisted of removing a 
+3,000-gallon and two 8,000-gallon gasoline USTs, monitoring well installation,  
+and collection of soil and groundwater samples.  The CAP further explains that a 
+follow-up Additional Site Investigation was completed in 2006 and 2007, which 
+included additional monitoring well installation, the installation of soil gas 
+monitor points, and soil and groundwater sampling. Another supplemental site 
+investigation was conducted later in 2007 which included additional monitoring 
+well installation, and sampling of groundwater and soil gas. Results indicated that 
+the highest concentrations of contaminants were found in the area of the former 
+USTs, and that most of the contaminant plume remains on site. Groundwater 
+flows southwest toward East Creek (LBG, 2009).  
+ 
+A certificate of completion for the property indicates that an institutional 
+control is in place for this property and that a 6-inch layer of clean topsoil was 
+placed over soil impacted by PAHs and hydroseeded. The certificate of 
+completion also states that subsurface soils 5.5-8.5 feet in depth are impacted by 
+residual petroleum contamination and that groundwater beneath the property 
+remains impacted by petroleum contaminates in excess of VGES but that the 
+plume is not a threat to down gradient properties or the environment (VTDEC3, 
+2016).  
+ 
+Foley Services Inc. (SMS #: 94-1627)  
+This property is located at 133 State Street and is approximately 350 feet 
+northeast of the Site. A First Letter issued to the property owners in 1994 
+described the removal of a 2,000 gallon UST from the site in June 1994 during 
+which petroleum contaminated soil with a peak PID reading of 1500 ppm was 
+encountered. All contaminated soil was backfilled (VTDEC, 1994b). 
+ 
+Griffin International (Griffin) submitted a Report on the Investigation of 
+Subsurface Petroleum Contamination for the property in September 1994. Griffin  
+analyzed groundwater at the site from three existing monitoring wells for VOCs; 
+methyl tertiary butyl ether (MTBE) and benzene were detected above VGES. 
+Groundwater at the site was measured to flow northwest (Griffin, 1994.). An 
+Annual Groundwater Monitoring Report prepared by Griffin from 2000 was also 
+available on the VTDEC website and was reviewed. Griffin analyzed 
+groundwater at the site from the three monitoring wells for VOCs; MTBE, 
+benzene, and 1,2,4-trimethylbenzene were detected above VGES (Griffin, 2000). 
+  
+ Based on follow-up correspondence with Kimberly Caldwell of VTDEC a 
+10,000-gallon #6 fuel oil UST was closed in place at the property in October 
+2016, and that additional work has yet to be completed.  A 2016 UST closure 
+report prepared by KAS documenting this work was reviewed; according to the 
+report no soil samples could be collected during tank closure to confirm that there 
+have been no releases from the UST (KAS, 2016).  
+ 
+In addition to the petroleum related concerns for this property the 1941 
+Mannings Directory and the 1962 and 1971 Sanborn Maps suggested that a dry 
+cleaner was formally on this property as well as an auto lacquering service.  
+According to Ms. Caldwell, no investigation has been conducted at that property 
+to assess potential impacts of the former dry-cleaning operations. 
+ 
+Suburban VT (Former Agway Bulk Plant; SMS#: 2003-3140) 
+ This property is located at 295 West Street and is located approximately 
+500 feet southwest of the Site. A SMAC letter issued to the property owners in 
+March 2014 was available on the VTDEC website for the property and was 
+reviewed for this ESA. According to the SMAC letter, contamination was found 
+at the property during a Phase I ESA conducted in September 2003. Subsequent 
+investigations identified stained soils and concrete, and petroleum related  
+groundwater contamination. An additional site investigation in 2006 identified 
+chlorinated solvents in groundwater at the property above VGES, including 
+tetrachloroethene (PCE), trichloroethene (TCE). The General Electric factory 
+located at 210 Columbian Avenue (see below) was identified as the possible 
+source of the chlorinated solvent contamination. In 2007, it was determined that 
+petroleum related groundwater contamination at the property was stable or 
+declining and that no further groundwater monitoring was necessary. The wells at 
+the property were abandoned in August 2012, the onsite building was demolished 
+in November 2013, and a notice to the deed was recorded in June 2012. 
+Contaminated soils were left on site under a minimum of 2 feet of clean fill 
+(VTDEC, 2014).  No other reports for this property were available on the VTDEC 
+website.  Considering this property is assumed to be hydraulically down gradient 
+and on the opposite side of the East Creek, it is unlikely that the associated 
+contamination would significantly contribute adversely to the environmental 
+quality at the Site. 
+ 
+210 Columbian Ave (SMS #: 2014-4470/former 87-0081) 
+This property is located at 210 Columbian Avenue and is located 
+approximately 400 feet west/southwest of the Site. This property was formerly 
+owned by the Columbian Marble Manufacturing Company, which operated a 
+marble cutting and finishing facility on the property.  The Columbian facility is 
+shown in the 1905 and 1916 Sanborn map.  In 1925, the facility is shown as the 
+United Marble Companies, Inc.  According to the 1948 map, the 210 Columbian 
+Avenue property was owned by Tampax Inc.: the city directories list Tampax Inc. 
+at 210 Columbian Avenue from 1949 to 1955.   The property is currently listed as 
+General Electric Aviation Plant #1. A Groundwater Monitoring Report prepared 
+by Tetra Tech in January 2015 for General Electric was available on the VTDEC 
+website for the property and was reviewed for this ESA. 18 wells are sampled 
+semi-annually at the site. Constituents of concern that were detected above VGES 
+at the site include PCE, TCE, and cis-1,2-dichloroethene (cDCE). Groundwater 
+flows south-southeast toward East Creek (Tetra Tech, 2015). No other reports for 
+this property were available on the VTDEC website; however, the VTDEC WMID
+indicates that an institutional control is in place for this property.  Considering 
+this property is assumed to be hydraulically down gradient and on the opposite 
+side of the East Creek, it is unlikely that the associated contamination would 
+significantly contribute adversely to the environmental quality at the Site.  
+ 
+  147 State Street (No SMS #) 
+The EDR Radius Map Report identified the property at 147 State Street as 
+a Historic Cleaner. Based upon review of the Sanborn maps, the EDR report, and 
+internet research, it appears this property has been a Laundromat (Washbucklers) 
+since 1987 and has no history as a dry cleaner.  Although, records suggest that dry 
+cleaning operations did not occur on this property, this does not eliminate the 
+potential for solvents having been used in the laundering process.  The Sanborn 
+maps also suggest that this property was a former filling station between at least 
+1962 and 1971.  JCO understands that no environmental assessment has been 
+performed on this parcel.   
+ 
+4.3.3 Underground Storage Tank List 
+The Site is listed with the VT DEC as an UST facility (VT DEC1, 2016; VT 
+DEC2, 2016).  The Site is assigned facility ID 7739194 and the facility name is Sharp 
+Building. An 8,500-gallon capacity fuel oil UST was installed at the Site in 1974 
+according to the record. The tank status is listed as Active.   
+
+4.3.4 Spills List 
+According to the WM-ID, no spills have occurred at the Site. However, one spill 
+occurred on Cleveland Avenue roadside in 2011. In that incident, 300 gallons of #2 fuel 
+oil was spilled by a fuel delivery truck (Report # WMD888). 
+ 
+Additionally, one spill occurred at the CVPS Rutland Gas Works property, which 
+is across Cleveland Avenue from the Site, in 2010. In that incident, a boom being used to 
+implement remedial action at the property washed downstream and sheens could be seen 
+on East Creek (Report #WMD484). 
+ 
+4.3.5 Landfills 
+There are no certified landfills within a 0.5-mile search radius of the nearest Site 
+boundary (EPA7, 1995; VT DEC1, 2016; VT DEC2, 2016; EPA8, 2016).  
+ 
+4.3.6 Institutional Controls/Engineering Controls Registries 
+An investigation of the records available at the Rutland City Clerk’s office 
+revealed that no institutional and/or engineering controls had been filed in the Land 
+Records for the Site as of February 3, 2017.  
+ 
+4.3.7 Voluntary Cleanup Sites 
+Vermont does not specifically have a voluntary cleanup program, but the 
+Brownfield Reuse Environmental Liability Limitation Act (BRELLA, effective July 1, 
+2008), acts as one for non-responsible parties.   
+ 
+4.3.8 Brownfield Sites 
+The Site is not listed on the WM-ID as a Brownfield site (VT DEC1, 2016; VT 
+DEC2, 2016; EPA8, 2016).  There are four Brownfield sites located within a 0.5-mile 
+radius of the nearest property boundary. Please see Tables 2 and 3 in Section 4.3.1 for 
+site details, the site numbers are the following: 95-1900, 2012-4305, 2008-3813, and 
+2013-4386 (VT DEC1, 2016; VT DEC2, 2016; EPA8, 2016).   
+ 
+4.4 LOCAL REGULATORY FILES 
+4.4.1 Health Department 
+Current city Health Officer Michael Brookman was reached for an interview on 
+December 8, 2016. Mr. Brookman has been the Health Officer since January 2014. Mr. 
+Brookman was aware of the fire that occurred in 2015 and indicated that a hole was burnt 
+through some of the flooring. Mr. Brookman also indicated that the State Department of 
+Health performed asbestos testing on demolition debris.  Mr. Brookman was not aware of 
+any additional incidents, fires, spills, or environmental concerns at the Site (Brookman, 
+2016).  
+ 
+4.4.2 Local Electric Utility Company 
+The Site building does not currently have electric service, but historically was 
+serviced by Green Mountain Power. The former CVPS substation abuts the Site to the 
+west. Multiple electric utility poles appeared to be within the property boundaries, with 
+three utility poles that had pole-mounted transformers. JCO spoke with Green Mountain 
+Power on March 20, 2017 to determine whether the utility poles on the property were 
+owned by Green Mountain Power, if the transformers are PCB free, and when the utility 
+poles were last replaced. The representative from Green Mountain Power indicated that 
+some of the poles on the property are owned by Green Mountain Power and some are 
+owned by Fairpoint Communications, but that all pole-mounted transformers are owned 
+by Green Mountain Power. According to the Green Mountain Power representative, there 
+is no record available regarding when the transformers were installed or of past 
+transformers on the property. The representative stated that one of the utility poles was 
+installed in 1953, and all other poles on the property were installed after 1989 but that 
+there is no guarantee that the pole-mounted transformers are the same age or newer than 
+the date of pole installation as older transformers are regularly re-used.  The 
+representative indicated that in order to determine the age of the transformers on the 
+property a line crew would need to inspect the transformers for an installation date.  
+ 
+4.5 POLYCHLORINATED BIPHENYLS 
+A materials inspection for PCB containing building materials was not performed as part 
+of this ESA, but given the age of building, it is possible that caulks, roofing materials, sealants, 
+paint, window glaze, tile mastic or other building materials that contain PCBs are present in the 
+building. In addition, three utility poles with pole-mounted transformers were observed within or 
+just outside to the property boundary. These transformers may have used PCB containing 
+dielectric fluid. In addition, old tube fluorescent lights, which may have used PCB-containing 
+ballasts, were present in the Site building. Furthermore, past flooding of East Creek may have 
+carried PCB-contaminated soils from the neighboring CVPS-Rutland City Gas Works property 
+onto the Site. Finally, PCBs have historically been a component of inks and paints and 
+considering the former use of the Site as a printing business it is possible that PCB containing 
+inks may have been used on Site and potentially released on to the floor.  Therefore, PCB 
+impacts to the building and/or surrounding property may have occurred.   
+ 
+4.6 NON-AAI/ASTM SCOPE CONSIDERATIONS 
+4.6.1 Asbestos and Lead Paint Issues 
+A lead based paint (LBP) assessment was not performed as part of this ESA, but 
+chipped and peeling painted surfaces were observed throughout the interior of the 
+building.  Given the age of the building, it is likely some of the paint may contain lead. 
+An ACM assessment was not performed as part of this Phase I ESA; however, asbestos 
+analysis of building materials from the demolished building on Site has been conducted. 
+Please see Section 3.1 or the referenced reports for details; the testing indicated that 
+building debris including hardboard, siding, caulking, felt paper, and cement board 
+contain asbestos. Sampling and analysis of potential ACM has not been conducted on the 
+existing building, but given the age of the building, it is possible that some building 
+materials contain asbestos. In addition, the proximity of the Site to the active railroad 
+causes an additional asbestos risk given that rail car brake systems formerly used asbestos 
+containing material. The presence of asbestos containing materials should be assessed by 
+a certified asbestos contractor. 
+ 
+4.7 HISTORIC RECOGNIZED ENVIRONMENTAL CONDITION (HREC) 
+ A HREC is defined by ASTM in the E1527-13 standard as “a past release of 
+hazardous substance(s) that has been addressed to the satisfaction of the current and 
+applicable regulatory authority or meeting unrestricted use criteria established by a 
+regulatory authority, without subjecting the property to any required controls (for 
+example, property use restrictions, activity and use limitations, institutional controls, or 
+engineering controls).” HRECs are not considered RECs. No HRECs were identified for 
+the Site. 
+ 
+5.0 PROPERTY RECONNAISSANCE 
+A Site reconnaissance was conducted on February 3, 2017 by Kurt Muller and 
+Stephanie Hunt of JCO. Mr. Muller and Ms. Hunt were accompanied by Elisabeth Kulas 
+(Housing Trust of Rutland County), Kimberly Caldwell (VT DEC) and John Ruggiero 
+(property owner).  The Site reconnaissance included an inspection of accessible interior 
+and exterior portions of the Site.  The Site reconnaissance was a non-intrusive (i.e. no 
+sampling or screening performed) investigation that focused on identifying indications of 
+any existing or potential risks to human health or the environment. 
+   
+The weather conditions during the visit were partly sunny with a temperature of 
+approximately 27 degrees Fahrenheit and several inches of snow cover. Site conditions 
+on the day of the reconnaissance are documented in the photographs included as 
+Appendix 8 of this report. 
+5.1   EXTERIOR OBSERVATIONS 
+The exterior layout of the Site (parking lots, green space, building locations, etc.) 
+is shown on Figure 2.  The existing site building occupies the northern half of the 
+property; the demolished building is off the south wall of the existing building and all 
+construction debris remains on Site within the foundation of the demolished building. 
+The southern wall of the existing building was also demolished and multiple windows are 
+broken, exposing this building to the elements. The area north of the existing building is 
+an asphalt parking lot, the areas east of the existing building and south of the demolished 
+building appear to be green space (unconfirmed due to snow cover), and the area west of 
+the existing and former buildings is green space with a concrete walkway.  A metal 
+security fence defines the eastern property boundary.  
+ 
+Multiple debris piles were observed on the green spaces east and south of the Site 
+building. The piles appeared to contain stumps, tree cuttings, scrap metal, general trash 
+(plastic bottles, plastic bags, etc.), tires, and old lumber (reportedly from the demolished 
+building); many of the piles or portions of the piles were obscured by snow.  In addition, 
+two unlabeled drums were observed on the adjoining property leaning against the security 
+fence that marks the Site’s eastern boundary. The fill that is discussed in Section 3.3.1 
+was observed on the southernmost part of the foundation of the former building. A 
+minimum of nine utility poles were observed to be either within or just outside of the 
+property boundary; pole-mounted transformers were observed on three of the utility 
+poles, one of which appeared to have leaked in the past.  
+ 
+What appeared to be a fill and vent pipe were observed on the north exterior wall 
+of the Site building; these were likely formerly connected to a since removed above 
+ground storage tank (AST) within the building.  It should be noted that the former boiler 
+room was identified on the opposite side of the northern exterior wall.  In addition, a 
+three-port fill pipe and vent pipe were observed on the eastern side of the Site building, 
+towards the south end of the building. The tank these pipes are connected to appeared to 
+be within a concrete vault in the basement of the building. Odor from within the vent pipe 
+indicated that there is residual fuel present. These pipes may be connected to the 8,500gallon
+fuel oil tank registered to the property. Three pipes were also observed on the west 
+exterior wall of the Site building; these pipes are assumed to be related to the sprinkler 
+system in the building as the sprinkler distribution system is in the same location on the 
+interior of the building. 
+ 
+5.2   INTERIOR OBSERVATIONS 
+The property consists of a large, unoccupied commercial building with two stories 
+and a basement. The north section of the building is of metal frame construction with tile 
+faced masonry walls and wood floor and roof support systems.  The demolished building 
+was a wood frame structure that had two stories and a basement. The existing building is 
+approximately 180 feet by 95 feet; the demolished building was approximately 180 feet 
+by 60 feet. The building was formerly lit with tube fluorescent lights, which may have 
+used PCB-containing ballasts. In addition, the majority of electrical equipment was 
+removed from the building, so it is possible that transformers or other electrical devices 
+or machinery that may have contained PCBs were once utilized at the facility. 
+ 
+ The Site building was accessed through a door on the northwest corner of the 
+building, which leads to a two-story staircase that accesses the first and second floors of 
+the building. This staircase had peeling paint, which given the age of the building, may 
+contain lead. A second stairwell also located near the northwest corner of the building 
+leads from the first floor to the basement. A loading dock with an overhead door is 
+located along the southern wall near the southeast corner of the building, and an elevator 
+shaft is located just north of the loading dock. Various debris was located in the elevator 
+shaft, including old doors, guano and bird feathers, and insulation. 
+
+The first and second floors are completely empty, with the exception of some 
+empty paint cans, fallen insulation, some lumber, and the occasional piece of furniture or 
+television. What appeared to be staining was noted on the wood floors on the second 
+floor; the staining may also be from ponding water from water entering the building 
+through the windows or roof. One of the stained areas appeared to contain a hard waxlike
+material.   
+ 
+In the basement, what appear to be two former utility rooms are were identified 
+on either side of the stairwell.   The first on the west side of the staircase (along the 
+northern exterior wall) was likely the former boiler room and may have formerly 
+contained an AST based on pipes entering that room.  The second room was located on 
+the east side of the staircase where a chimney and an electrical panel are located.  
+Standing water was present in this room, obstructing the floor. A pipe which was 
+insulated with potential ACM was observed in this room as well. A bathroom and what 
+appeared to be a storage closet are located in the far southwest corner of the basement. 
+According to Mr. Ruggiero, the basement floor was formerly covered with sediment that 
+entered the property during the flooding caused by Hurricane Irene in August 2011.  The 
+sediment had since been removed.  Four “pits” were noted in the basement floor which 
+appeared to be approximately 2 ft by 3 ft and of unknown depth. Two of the pits 
+contained pipes and soil, while the other three appeared to be filled with sediment, 
+although it is possible that pipes were also located in the pits and just covered with 
+sediment.  In addition, what appeared to be a sewer line clean out was observed in the 
+basement directly next to a plastic 55-gallon drum. The drum was labeled BARKEM404,
+which is a water additive. A sprinkler distribution system was also observed in 
+the basement. 
+ 
+6.0  USER RESPONSIBILITIES 
+In order to qualify for one of the Landowner Liability Protections (LLP) offered 
+by the Small Business Liability Relief and Brownfields Revitalization Act of 2001, the 
+user(s) and/or grantee(s) or a party on behalf of the user(s) and/or grantee(s) must collect 
+the following information, if applicable, and should make the information available to the 
+environmental professional upon request: 
+ 
+1. Environmental cleanup liens that are filed or recorded against the Site; 
+2. Activity and land use limitations that are in place on the Site or that have 
+been filed or recorded in a registry; 
+3. Specialized knowledge or experience of the person seeking to qualify for 
+the LLPs; 
+4. Relationship of the purchase price to the fair market value of the property 
+if it were not contaminated; 
+5. Commonly known or reasonably ascertainable information about the 
+property;  
+6. The degree of obviousness of the presence or likely presence of 
+contamination at the property and the ability to detect the contamination 
+by appropriate investigation. 
+ 
+The information listed above was addressed by Ed Bove of RRPC and Elisabeth 
+Kulas of Housing Trust of Rutland County, for which this ESA is being performed on 
+behalf of. A copy of a completed User Questionnaires pertaining to the Site has been 
+included with this report as Appendix 9. 
+ 
+7.0 RECOGNIZED ENVIRONMENTAL CONDITIONS & CONCLUSIONS 
+JCO has performed a Phase I Environmental Site Assessment in conformance 
+with the scope and limitations of ASTM Practice E-1527-13 of the former Lynda Lee 
+property located at 10 Cleveland Avenue, Rutland, Vermont (the Site).  Any exception 
+to, or deletions from, this practice are described in Section 8.1 of this report.  This 
+assessment has revealed no evidence of recognized environmental conditions (RECs) or 
+controlled recognized environmental conditions (CRECs) in connection with the 
+property except for the following:    
+
+RECS: 
+ 
+1. Deposition of industrial-related pollutants to shallow soil: The Site and the areas 
+immediately surrounding the Site were historically used for a variety of industrial 
+activities including a foundry, machine shop, manufactured gas facility, lumber yard, 
+offset printing (which may have utilized PCB containing inks), textile manufacturing, 
+and railcar traffic. In addition, the Site was formerly heated using a coal-fired furnace 
+and fuel oil. Industrial activities often involve the burning of hydrocarbons, which 
+typically result in area-wide PAH and metals deposition to shallow soil. The Site also 
+received fill that was excavated from a stormwater construction project and 
+stockpiled on the southern portion of the Site; it is possible that the fill was impacted 
+by industrial-and/or petroleum-related pollutants. 
+ 
+Opinion:  It is the Environmental Professional’s opinion that there is high 
+likelihood that shallow soil at the Site may be adversely impacted.  Should 
+additional information regarding the disposition of surface soil related to 
+surrounding industrial activities be desired, representative near surface soil 
+samples could be collected from the Site and analyzed for PAHs, metals, and 
+screened for VOCs to ascertain if the former industrial activities and the 
+placement of fill in southern portion of the Site may have adversely impacted 
+shallow soil quality at the Site.   
+ 
+2. PCB impacts to shallow soil: Three utility poles with pole-mounted transformers 
+were observed at the Site. In addition, past flooding from East Creek may have 
+deposited PCB-impacted soils from the neighboring manufactured gas plant on the 
+Site.  
+ 
+Opinion:  It is the Environmental Professional’s opinion that there is a moderate 
+chance of PCB contamination in shallow soil at the Site. Should additional 
+information regarding the disposition of surface soil related to PCBs be desired 
+shallow soil samples could be collected in the vicinity of the utility poles with 
+pole-mounted transformers and intermittently on the Site to assess if the 
+transformers leaked PCB containing fluids or if PCB impacted material from 
+neighboring properties may have been introduced to the Site during previous 
+flooding.   
+ 
+3. Possible PCB-containing electrical equipment and building materials: Considering the 
+age of the building, it is possible that electrical equipment such as fluorescent tube 
+lights utilized PCB containing oils.  Staining, which appeared to be oily in nature, 
+was observed in the building; it is possible that inks used by Sharp Offset Printing 
+contained PCBs. In addition, PCB-containing building materials (such as roof sealant, 
+mastic, paint, caulk, window glaze, etc.) may be present at the Site. Furthermore the 
+majority of electrical equipment appeared to be removed from the building prior to 
+the Site visit, so it is possible that transformers, capacitors, or other older electrical 
+equipment  and/or machinery that may have used PCB containing fluid were once 
+utilized at the facility and were since removed. 
+ 
+Opinion:  It is the Environmental Professional’s opinion that there is a moderate 
+chance of PCB contamination in the building. Should additional information 
+regarding the possible presence of PCBs in the building be desired, a PCBbuilding
+materials inspection could be conducted by a qualified environmental 
+contractor and the findings summarized in a report.  Any suspect electrical 
+equipment could be inspected and if appropriate, sampled for PCBs. This 
+inspection could include an evaluation of the light ballasts and older electric 
+equipment for possible PCBs as well as the collection of bulk samples of floor 
+material (wood) for PCB analysis. 
+ 
+4. Underground storage tanks:  The 1962 and 1971 Sanborn Maps (the two most recent 
+maps) include the label “Fuel Oil Tks Under Conc. Fl” on an enclosure near the 
+southeast corner of the demolished building. There is no record of the presence of 
+these tanks with the exception of the Sanborn maps.  Additionally, a three-port fill 
+and vent pipe, emitting an obvious petroleum odor, were observed on the eastern 
+exterior wall of the building; these pipes are possibly connected to the 8,500 gallon 
+fuel oil tank registered to the Site. The current property owner was not aware of any 
+tanks on the property.  Finally, a 1995 JCO report associated with the neighboring 
+Former Korner Pocket Site, indicated that elevated PID readings were reported in the 
+northeast corner of the basement of the subject Site.  This report suggested that a 
+7,500 gallon #2 fuel oil UST is present in this immediate area outside the northeast 
+wall of the subject Site. 
+ 
+Opinion:  It is the Environmental Professional’s opinion that there is a high 
+likelihood that as many as three abandoned USTs exist at the Site. Should 
+additional information regarding the presence of these USTs be desired, either 
+exploratory test pitting and/or ground penetrating radar services could be used to 
+evaluate the presence of these USTs. The State Vermont requires abandoned USTs 
+be appropriately decommissioned.  If evidence of a release is confirmed during tank 
+removal and additional information is desired regarding soil and groundwater 
+quality in the vicinity of these USTs, soil and groundwater  samples could be 
+collected and analyzed for VOCs, SVOCs, and possible lead (depending on the 
+presumed age and residual contents of the tanks, i.e. old leaded gasoline). 
+ 
+5. Floor pits: Four floor pits and what appeared to be a sewer clean out containing 
+sediment were observed in the basement of the Site building.  
+Opinion: It is the Environmental Professional’s opinion that there is a moderate 
+chance that the sediment in these floor pits is contaminated. Should additional 
+information regarding the presence of contamination in this sediment be desired, 
+the contents of these pits and clean out could be screened for VOCs with a PID.  
+Sediment present in the voids could also be sampled and analyzed of VOCs, PCBs, 
+metals and PAHs to analytically confirm potential contaminant constitutes.  
+ 
+6. Railroad Corridor: The Site is abutted by The Vermont Railway to the south. Considering the 
+proximity to the tracks, it is likely that via atmospheric deposition, partially burnt 
+hydrocarbons in the form of PAHs may be present in shallow soils on the Site.  Railroads 
+also utilize herbicides to control vegetation along the rails and have historically used ACM in 
+rail car brake systems.  
+ 
+Opinion:  It is the Environmental Professional’s opinion that there is a moderate 
+chance that the adjacent rail corridor has adversely impacted soil quality at the 
+Site. Should additional information regarding the soil quality in the vicinity of the 
+rail corridor be desired near surface soil samples could be collected in the southern 
+portion of the Site and analyzed for PAHs, PCBs, metals, ACM and herbicides.   
+ 
+7. Groundwater Related Neighboring Property:   The abutting hazardous waste site 
+Former Korner Pocket [SMS#: 94-1727] has had reported groundwater impacts above 
+the VGES.  Although the Korner Pocket site was closed by VTDEC in 2012, a 1995 
+report for the site suggests the possible presence of VOC impacts and a UST outside 
+the northeast corner of the building at the subject Site.   
+  
+Opinion:  It is the Environmental Professional’s opinion that there is a moderate 
+chance that impacted groundwater from the Former Korner Pocket may have 
+migrated and adversely impacted groundwater quality at the Site. Should additional 
+information regarding groundwater quality be desired groundwater monitoring 
+wells could be installed, samples collected, and analyzed for VOCs, SVOCs, and 
+possibly PCBs.   
+ 
+RECs beyond the Scope of ASTM 1527-13 and AAI 
+   
+1. Given the age of the building, LBP may coat surfaces of interior and exterior walls of 
+the Site.  
+  
+Opinion: In order to confirm or deny the presence of LBP on Site, an inspection 
+should be conducted by a certified lead paint inspector and a report generated 
+outlining the findings. 
+ 
+2. ACM was identified in the debris of the demolished Site building. Given the age and 
+construction of the existing Site building, ACM may be present in that building as 
+well.  
+ 
+Opinion: An ACM inspection should be conducted by a certified ACM inspector 
+and a report should be generated outlining the findings. This report should include 
+a rough cost estimate for abatement of any ACM identified.  
+ 
+Potential Offsite Issues for Consideration 
+Neighboring Properties:  Eighteen hazardous waste sites (six active and twelve inactive) 
+are located within a 0.25-mile radius of the Site.  The abutting site to the west (CVPSRutland
+City Gas Works [SMS #: 77-0137]), identified groundwater impacts above the 
+VGES and continues to be monitored due to elevated concentrations of PAHs, VOCs, 
+and PCBs in groundwater.  Also, according to the 1962 and 1971 Sanborn maps, a former 
+dry cleaner was located at 133 State Street, the current Foley Services Inc. [SMS #: 94
+1627] property.  Although a petroleum assessment has been performed and subsurface 
+petroleum impacts have been reported, no assessment has been conducted to evaluate the 
+presence of chlorinated VOCs in the sub-surface.  Additionally, a former filling station 
+and currently a laundry mat occupy the property located 147 State Street.   Although not 
+a State listed hazardous site, JCO understands that no environmental assessment of this 
+property has occurred.  
+Opinion:  It is the Environmental Professional’s opinion that there is a possibility 
+that impacted groundwater and/or vapor from neighboring properties may have 
+migrated onto the Site. Should additional information regarding groundwater or 
+vapor quality be desired groundwater monitoring wells and soil gas monitoring 
+points could be installed, samples collected, and analyzed for VOCs, and possibly 
+SVOCs, and PCBs.   
+ 
+ 
+8.0 DATA GAPS/LIMITATIONS 
+8.1 DATA GAPS 
+ The property includes multiple parcels; ownership history for the parcels was 
+difficult to track and the ownership history summarized in this report may include land 
+transfers not including the subject parcels or may be incomplete. 
+ 
+The 1962 and 1971 Sanborn Maps (the two most recent maps) include the label 
+“Fuel Oil Tks Under Conc. Fl” on an enclosure off the east side of the demolished 
+building, near the southeast corner of the building. There is no record of the presence of 
+these tanks with the exception of the Sanborn maps.  The current property owner was not 
+aware of any tanks on the property. The presence of USTs in this location could not be 
+confirmed or denied.  
+ 
+During the site visit on February 3, 2016 there was a snow cover of several inches 
+on the ground, making it difficult to identify exterior features such as stressed vegetation, 
+contents of debris piles, and small scale topographic features.  
+ 
+Standing water was encountered in the former boiler room along the north wall of 
+the building. Due to the water the condition of the floor could not be inspected during the 
+Site visit. 
+ 
+The majority of electrical equipment appeared to be removed from the building 
+prior to the Site visit, so it is possible that transformers or other electrical devices that 
+may have contained PCBs were once utilized at the facility and were since removed.  
+Furthermore, Green Mountain Power does not have a record of the age or the 
+composition of the dielectric fluid of the current pole-mounted transformers or former 
+transformers (if applicable) located on the property. 
+   
+The property owner accepted fill on the Site from a stormwater construction 
+project; according to the property owner the fill was temporarily stored on the southern 
+portion of the property. Some remaining fill was observed on the foundation of the 
+former building. The property owner stated that a construction company, Kingsbury 
+Construction, provided the fill ensured that the fill was tested and was clean. No records 
+were provided to corroborate that the fill was clean. 
+ 
+Although these data gaps are important to note, it is the opinion of JCO that they 
+did not significantly impact our ability to identify the RECs at the Site.  Should additional 
+information be located or provided that is related to these data gaps JCO reserves the 
+right to change our opinion.   
+ 
+8.2 LIMITATIONS 
+The conclusions of this ESA were based upon information obtained and made 
+available to JCO from the following sources: the VT DEC; the Federal EPA; John 
+Ruggiero (property owner); Elisabeth Kulas, Housing Trust of Rutland County; the 
+Rutland Health Officer; and from information gathered during the Site reconnaissance.  
+
+This information has been intended for the sole use of the RRPC for specific application 
+to the Property at 10 Cleveland Avenue, Rutland, Vermont.  No other uses, expressed or 
+implied, are warranted.  The design of the investigation was based on sound scientific 
+techniques and experience with similar investigations.  Should additional information 
+become available pertaining to environmental concerns that may be associated with the 
+Site, the information should be made available to JCO so that we may re-evaluate our 
+conclusions. 

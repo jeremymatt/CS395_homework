@@ -1,0 +1,760 @@
+	
+Dear Ms. Kytle and Western Slopes Business Association (501c3 located in Richmond):
+The Johnson Company is pleased to present you with this report of our findings of a Phase I 
+Environmental Site Assessment of the Former Saputo Cheese/Richmond Creamery site, which is 
+composed of two parcels currently owned by Richmond Community Senior Center, Inc., located 
+at 74 Jolina Court and 125 Bridge Street in Richmond, Vermont, respectively.  This ESA was 
+conducted in accordance with the scope and limitations of the American Society for Testing and 
+Materials' (ASTM) Standard Practice for Environmental Site Assessments E 1527-13 and in 
+conformance with 40 CFR Part 312, Standards and Practices for All Appropriate Inquiries.  
+
+We appreciate being of assistance to you on this project.  Please do not hesitate to contact either 
+Jeremy Matt or me should you have questions regarding the following information.
+
+Sincerely,
+
+THE JOHNSON COMPANY, INC.
+
+ 
+ENVIRONMENTAL PROFESSIONAL DECLARATION
+Phase I Environmental Site Assessment Report
+Former Saputo Cheese/Richmond Creamery
+Richmond, Vermont
+
+
+We declare that, to the best of our professional knowledge and belief, we meet the definition of 
+Environmental Professional as defined in 312.10 of 40 CFR Part 312.   
+
+We have the specific qualifications based on education, training, and experience to assess a 
+property of the nature, history, and setting of the subject property.  We have developed and 
+performed the all appropriate inquiries in conformance with the standards and practices set forth 
+in 40 CFR Part 312.  
+
+EXECUTIVE SUMMARY
+
+The Johnson Company, Inc. of Montpelier, Vermont was retained by Buttermilk Properties of 
+Waterbury Center, Vermont (Buttermilk) and Western Slopes Business Association (WSBA; 
+501c3 located in Richmond) to conduct a Phase I Environmental Site Assessment (ESA) of the 
+former Saputo Cheese/Richmond Creamery facility located on two parcels at 74 Jolina Court 
+(Parcel 1) and 125 Bridge Street (Parcel 2) in Richmond, Vermont (the Site).  The Johnson 
+Company understands that Buttermilk and WSBA will be using this Phase I ESA to support a 
+potential property transfer and redevelopment of the Site which will include both commercial 
+and residential use. 
+
+This ESA was performed by personnel from JCO who meet the definition of Environmental 
+Professional as defined in 40 CFR Part 312.  This ESA included reviewing existing 
+documentation, available aerial photographs and topographic maps, determining the regulatory 
+status of the Site, contacting personnel regarding past and present uses of the Site, investigating 
+the potential for past releases of petroleum products and/or hazardous substances at the Site, and 
+conducting a site reconnaissance to visually inspect accessible portions of the Site to ascertain 
+the presence of recognized environmental conditions (RECs) in the form of present or potential 
+release(s) of hazardous substances or petroleum products. In addition, these sources were 
+investigated for the presence of historic recognized environmental conditions (HRECs) - a past 
+release of hazardous substance(s) that has been addressed to residential use standards or 
+unrestricted use criteria - and controlled recognized environmental conditions (CREC) - a past 
+release of hazardous substance(s) that has been addressed to non-residential use standards and is 
+subject to some type of control - at the Site.  As such, a HREC is not a REC when the remaining 
+environmental conditions are compliant with the most current regulatory criteria; and a CREC is 
+a REC.
+
+The Johnson Company has performed this Phase I Environmental Site Assessment in 
+conformance with the scope and limitations of ASTM Practice E-1527-13, for the Former 
+Richmond Creamery property in Richmond, Vermont.  Any exception to, or deletions from, this 
+practice are described in Section 8.1 of this report.  This assessment has revealed no evidence of 
+RECs in connection with the property except for the following:  
+
+Known Soil Contamination: Polycyclic aromatic hydrocarbons (PAHs) and metals were 
+identified in surficial soils at concentrations above applicable soil screening levels during 
+the 2010 Johnson Company Phase II ESA.  An Analysis of Brownfield Cleanup 
+Alternatives (ABCA) and Remedial Action Work Plan (RAWP) has been prepared for 
+the Site.  The actions detailed in these documents are currently being implemented at the 
+Site.
+
+Known Soil Contamination: Metals were detected in groundwater at concentrations 
+above Vermont Groundwater Enforcement Standards (VGES) and a corrective action is 
+detailed in the September 2015 RAWP.
+
+The following items are beyond the scope of a Phase I ESA (as defined by ASTM 1527-13) and 
+therefore are not considered formal RECs; however these items should be considered during any 
+future investigation, construction, or renovation planning:
+
+Containerized potentially hazardous materials in the former factory and storage buildings.  
+Some of these containers were observed to be uncovered, which presents risk for spills or 
+releases.  These containerized hazardous materials must be managed appropriately during 
+Site redevelopment to prevent releases.
+
+A 10,000-gallon above ground storage tank containing some residual fuel oil sludge is 
+present on the Site and an abandoned, partially buried wastewater UST is also present.  
+The sludge from the AST & UST should be removed and the tanks should be cleaned and 
+removed to prevent potential future releases. 
+
+
+1.0  INTRODUCTION
+      The Johnson Company, Inc. of Montpelier, Vermont (JCO) was retained by Buttermilk 
+Properties of Waterbury Center, Vermont (Buttermilk) and Western Slopes Business Association 
+(WSBA; 501c3 located in Richmond) to conduct a Phase I Environmental Site Assessment 
+(ESA) of the former Saputo Cheese/Richmond Creamery facility located on two parcels at 74 
+Jolina Court (Parcel 1) and 125 Bridge Street (Parcel 2) in Richmond, Vermont (the Site).  The 
+location of the Site is depicted in Figure 1. 
+      
+      The purpose of this ESA is to identify Recognized Environmental Conditions (RECs) 
+associated with the Site that indicate the presence or likely presence of hazardous substances or 
+petroleum products resulting from conditions associated with an existing release, past release, or  
+a material threat of a release at the Site.  Based on information provided by the current property 
+owner (Richmond Community Senior Center, Inc.), review of previous investigation reports, 
+discussion with the Town of Richmond and on inspections of the Site by JCO employees, JCO 
+understands that the facility was an active creamery and cheese making facility until 1999.  The 
+property sat vacant until 2016 and the on-Site buildings fell into various states of disrepair.  In 
+2016, Buttermilk began redevelopment activities, starting with asbestos abatement, demolition of 
+all on-site structures, and underground storage tank (UST) closure.  The proposed redevelopment 
+includes commercial and residential spaces.  
+        
+      This ESA included reviewing existing information made available and/or that was 
+reasonably ascertainable regarding current and past usage of the Site, determining the Site's 
+regulatory status, contacting appropriate personnel regarding current and past uses of the Site, 
+investigating past, present and/or the potential for releases of hazardous substances at the Site, 
+and conducting a reconnaissance to visually inspect the accessible portions of the Site.  
+      
+      This ESA was performed by JCO personnel from who meet the definition of 
+Environmental Professional as defined in 40 CFR Part 312, in conformance within the scope and 
+limitations of ASTM E 1527-13 in compliance with 40 CFR Part 312, Standards and Practices 
+for All Appropriate Inquiries.  
+
+      Credentials of JCO personnel involved with the preparation of this ESA are included as 
+Appendix 1.
+2.0  SITE DESCRIPTION
+      The Site, as defined in this report, consists of a former food product manufacturing 
+facility and surrounding property owned by Richmond Community Senior Center, Inc.  The Site 
+has historically been divided into four parcels, but now consists of two contiguous parcels:  
+Parcel 1 (approximately 0.16 acres); and Parcel 2, which is currently composed of three formerly 
+separate parcels merged into one parcel of approximately 5.84 acres.  The Site abuts the northern 
+and eastern sides of the Town of Richmond cemetery and is accessed from a gravel roadway 
+identified as Jolina Court, which extends from Bridge Street in an easterly direction.
+2.1	SETTING AND SURROUNDING DEVELOPMENT
+      The land surrounding the Site is primarily used for commercial and agricultural purposes, 
+with the nearest residential properties approximately 200 feet to the northeast.  The Site is 
+bounded by a cemetery to the west, the New England Central Railroad tracks to the northeast, 
+and the Winooski River floodplain to the south.  The neighboring property to the southeast of the 
+Site is a field used for agricultural purposes, which is partially within the Site boundary.  The 
+Richmond Town Offices (Post Office, Town Office, and Library) are located on Bridge Street, 
+directly to the southwest of the Site, separated from the Site buildings by sparse woods and steep 
+slopes.  The Chittenden East Supervisory Union office and preschool is also located in the town 
+office complex.  The Site and surrounding properties are depicted on Figure 2.
+      
+      The following structures were formerly present on Parcel 1:  a former cheese processing 
+factory (the basement footprint is approximately 14,440 square feet, although the first and 
+second floors are smaller) that was operational between circa 1900 and 1999, a former storage 
+shed (approximately 550 square feet) and boiler building (approximately 2,200 square feet), a 
+small steel shed (approximately 150 square feet), brushy vegetation, a dirt roadway, a wooded 
+slope, and a small portion of a field used for agricultural purposes that is considered to be in the 
+Winooski River floodplain.  Parcel 2 formerly hosted a dilapidated building that was formerly a 
+blacksmith shop (approximately 2,980 square feet).  All on-site buildings were in poor repair and 
+have been demolished.  Topographically, the ground surface generally slopes towards the 
+southwest and southeast in the direction of the Winooski River floodplain.  A Site Layout Map is 
+included in Figure 3. 
+2.2	HEATING, WATER AND SEWER
+      During operation, the factory was originally heated with a fuel oil fired boiler, but was 
+converted to use propane-heating units.  Although the exact date of this conversion is not known, 
+the 2002 H&N ESA identified a 10,000 gallon propane tank, and boilers are described as using 
+propane "in recent years".  According to Mr. Caswell (former Property Owner), the 10,000 
+gallon propane tank was removed in 2003 for insurance purposes.  A 10,000ñ gallon above 
+ground storage tank (AST) used to store #6 heating oil remains at the Site and is located 
+approximately 50 feet northeast of the former boiler building.  Although some heating oil sludge 
+remained, the tank appeared to be in good condition with only minor rust, minimal pitting, and 
+no visible evidence of leaks or staining of the nearby soil.  It was noted in the Environmental 
+Questionnaire (originally completed by Mr. Scott Ingalls, former partner of Casing 
+Development, LLC for the October, 2008 Phase I ESA) that minor releases may have occurred at 
+the fuel oil tank while being filled, although no release was ever witnessed.  This AST appeared 
+to have been formerly connected to the boiler house by overhead piping, but no pumps are 
+present and it appears that the piping has been disconnected from the AST.  Shallow surface soil 
+sampling was performed in the immediate vicinity of this AST during the April 2010, Phase II 
+ESA.  Analytical results from this sampling were below the applicable screening levels, 
+suggesting that a significant fuel oil release had not occurred.  Note that the Environmental 
+Questionnaire was subsequently updated by Mr. Craig Caswell of Casing Development, LLC for 
+the September 2015 Phase I ESA, and updated by Ms. Mary O'Neil, President of the Richmond 
+Community Senior Center for the June 2016 Phase I ESA.  Most recently the Environmental 
+Questionnaire was updated by ________ of _______ for this Phase I ESA. 
+      
+      An anhydrous ammonia refrigeration system was utilized when the factory was 
+operational.  The primary receiver was cleared of ammonia in August 2013, and the remainder of 
+the system was decommissioned in ___.  There was no visible evidence of leaks, although an 
+ammonia release in 1997 was listed on the Federal Emergency Response Notification and 
+VTDEC database.  Mr. Tom Levesque, the town of Richmond Fire Chief, was interviewed on 
+September 24, 2015 and indicated he had responded to an ammonia release.  The release is 
+discussed in further detail in Section 4.2.6 and Section 4.4.1.  
+
+      Potable water is supplied by the Richmond municipal water supply.  According to 
+correspondence with the Richmond Town Administrator, the Town of Richmond began 
+providing municipal water services in 1955, and the Richmond Creamery connected to the 
+municipal water supply sometime after this service became available, and before 1985 
+(Rodjenski, 2008).  Prior to this connection, an on-Site water supply well was active.  This well 
+is located in a concrete tower and is not easily accessible.  
+      
+      During the later portion of factory operations, wastewater generated at the facility was 
+managed by the Richmond Wastewater treatment facility.  Wastewater, comprised mostly of 
+whey water, a by-product of the cheese-making processes, was stored in a large equalization and 
+aeration tank and was routinely tested prior to conveyance to the municipal wastewater facility.  
+According to the former co-owner, Mr. Ingalls, this tank was removed between 2003 and 2004 
+for use at the Hinesburg Saputo Cheese Factory.  After removal of the tank, the wastewater 
+collection pipes on either side were connected and insulated with an earthen berm to prevent 
+freezing.  Additionally, an abandoned smaller tank also previously used for wastewater processes 
+at the factory remains onsite directly to the northeast of the berm.  According to correspondence 
+with the Richmond Town Administrator, the Richmond Creamery was connected to municipal 
+wastewater treatment in 1971, when Town of Richmond began providing municipal wastewater 
+services.  Prior to the 1971 connection, all wastes (process, sanitary) were discharged directly 
+into the Winooski River (Rodjenski, 2008).  As such, it is unlikely that a septic system or leach 
+field was ever constructed on-Site.
+      
+      Electricity to the Site was provided by Green Mountain Power (GMP) via overhead lines.  
+Based on conversations with GMP field staff (GMP, 2008), the overhead lines and transformers 
+were removed at the request of the property owner between 2001 and 2003. 
+2.3	GEOLOGY AND HYDROGEOLOGY
+      The Vermont Agency of Natural Resources (VTANR) Natural Resources Atlas (NRA) 
+maps the surficial geology at the site as "Postglacial fluvial deposit", composed of sand and 
+gravel formations from river-transported deposits (ANR1, 2017). These deposits are associated 
+with the Winooski River corridor. 
+      
+      The northern portion of the Site soil is defined as Duane and Deerfield soils which are 
+described as moderately well drained fine sands with high loam content to 15 inches, and high 
+gravel content below 4 inches. The depth to water table within this soil formation is typically 18-
+24 inches.   The southern portion of the Site is mapped as Hadley, a very fine sand loam (ANR1, 
+2017).  
+      
+      The bedrock in the area is the Underhill Formation, which is described as silvery-green 
+quartz-muscovite-chlorite schist and phyllite, commonly with albite and magnetite, locally 
+contains dolomite (Ratcliffe, et al. 2012).
+      
+      The direction of groundwater flow was not directly measured during this ESA.  However 
+the groundwater elevation data collected during the 2010 JCO Phase II ESA suggests 
+groundwater flows towards the southeast towards the Winooski River.
+      
+2.4	THREATENED SPECIES AND WETLANDS
+      The VTANR NRA lists one rare, threatened, or endangered species (an invertebrate 
+animal, no name listed) and one "significant natural community" (silver maple-ostrich fern 
+riverine floodplain forest) at locations potentially down-gradient of the Site.  In addition, one 
+rare, threatened or endangered species, three uncommon species, and four significant natural 
+communities are mapped within 1 mile of the Site at locations which are presumed to be up-
+gradient or cross-gradient of the Site (ANR1, 20167).
+3.0  SITE HISTORY AND REVIEW OF EXISTING INFORMATION
+3.1	HISTORICAL REVIEW
+3.1.1	Land Records
+      A search of the Land Records in the Richmond Town Clerk's office on the day of the Site 
+walkover, June 1, 2016, identified two parcels within the boundaries of the Site.  Parcel 1 is a 
+0.16 acre parcel, located at 125 Bridge Street.  Parcel 2 is a 5.84 acre parcel, located at 74 Jolina 
+Court.  The current owner of both parcels was listed as Community Senior Center, Inc.  Note that 
+the prior owner, Casing Development, LLC, acquired two additional parcels (Parcels 3 and 4) 
+within the boundary of Parcel 1 in 2004 from Canadian National Railroad.  Because these two 
+parcels appear to have been created by conflicting deed descriptions and outdated surveying 
+methods, the prior history of these parcels was not researched as part of this report. 
+      
+      During the June 1, 2016 records review, it was noted that Peak Properties filed a Notice 
+of Claim on October 7, 2015 (book 231, page 582).  This Notice was released on March 29, 2016 
+(book 233, page 660).
+      
+      Note that JCO staff are not title attorneys - any prospective purchaser should retain the 
+services of a qualified title professional to review the Site's title history.  Details of historical 
+ownership transfers obtained from the Richmond Town Clerk's office and Mr. Ingalls are 
+summarized in Table 1.  
+3.1.2	U.S.G.S. Topographic Maps
+      The 1919, 1921, 1924, 1944, 1948, 1980, and 2012 15-minute United States Geological 
+Survey (USGS) topographic quadrangle maps for the target area were provided by 
+Environmental Data Resources, Inc. (EDR) and reviewed as part of this ESA. The maps are 
+included in Appendix 2. With the exception of the 2012 map which does not show any 
+structures, all of the maps show a building at the approximate location of the factory, to the 
+southwest of the railroad line.  The 1948 and 1980 maps shows what appears to be a railroad 
+spur leading to the factory, and some additional buildings to the southwest of the Site on Bridge 
+Street.  The historical maps indicate that the Site and neighboring properties have not 
+significantly changed since 1924.
+3.1.3	Aerial Photographs
+      Aerial photographs from 1960, 1976, 1984, 1986, 1992, 1994, 1999, 2006, 2008, 2009, 
+2011 and 2012 were provided by EDR and reviewed as part of this ESA. The aerial photos are 
+included as Appendix 2. The 1960 and 1978 aerial photographs were of poor quality and while 
+structures do appear to be present at the Site within the footprint of the former cheese factory, 
+detailed features could not be deciphered. All other aerial photos depict the Site in the current 
+configuration, with an increasing amount of vegetation around the Site from past to present. 
+3.1.4	Sanborn Fire Insurance Maps
+      Historical Sanborn Fire Insurance Maps from 1894, 1899, 1904, 1910, 1926, and 1939 
+were provided by EDR. The maps are included in Appendix 2.  The 1894, 1899, 1904, and 1910 
+Sanborn maps show only the area around the blacksmith shop.  This shop is shown as general 
+storage on the 1894, 1899, and 1904 maps and as the Vermont Condensed Milk Co on the 1910 
+map.  The blacksmith shop is labeled "blacksmith & wheelwright" on the 1926 map and as 
+"grain" on the 1939 map.  The creamery building is shown on the 1926 and 1939 Sanborn maps 
+and is labeled as "Richmond Cooperative Association Creamery".  There were three structures 
+shown with the label "Oil Tanks" on the 1926 and 1939 maps to the north of the factory 
+building, at the edge of the Jolina Court roadway.  A magnetometer survey of the area was 
+conducted during the 2010 Phase II ESA and no evidence of buried tanks was found in this area.
+      
+3.1.5	City Directories
+The Cole Information Sources for Richmond were provided by EDR (provided in Appendix 2). 
+No information for the Site is available prior to 2013. In 2013, the "Vermont Land Trust 
+Champlain Valley" at #13 Jolina Ct. This is presumably the structure on the northern corner of 
+Jolina Ct and Bridge St (parcel ID#: 519-163-10004) and is not part of the Site.  No other 
+information was available through city directories. 
+3.1.6	Environmental Questionnaire
+      The Johnson Company's standard Environmental Questionnaire was provided to Mr. 
+Scott Ingalls and was received by JCO on October 3, 2008 as part of the October 2008 Phase I 
+ESA.  This questionnaire was updated by Mr. Craig Caswell on June 3, 2015 for inclusion in the 
+September 2015 Phase I ESA report.  On May 24, 2016 this questionnaire was further updated 
+by Ms. Mary O'Neil, President of the Richmond Community Senior Center for this Phase I ESA. 
+A copy of the completed questionnaire is included in Appendix 3.
+3.2	INTERVIEWS
+3.2.1	Current Owner
+      The current property owner (Richmond Community Senior Center, Inc.; RCSC) 
+purchased the Site on March 25, 2016.  In the environmental questionnaire, Ms. Mary O'Neil 
+(President, RCSC) stated that "RCSC has no independent knowledge or information that 
+conflicts with the responses set forth above [in the Environmental Questionnaire]" and that "to 
+the best of RCSC's knowledge, there has been no change of circumstance or condition with 
+respect to the Site during its term of ownership".  Because RSCS does not have any additional 
+information regarding the Site, a representative of RCSC was not interviewed.
+3.2.2	Past Owner/Occupant
+      Mr. Scott Ingalls (co-owner of the Site in 2008) accompanied JCO staff on the September 
+23, 2008 Site visit, and answered questions regarding environmental conditions at the Site to the 
+best of his ability.  Mr. Ingalls had some knowledge of the history of the Site and previous 
+factory operations.  
+      
+      Prior to the property transfer to Casing Development in 2002, Saputo Cheese Factory 
+owned and operated the Site.  A representative from Saputo Cheese was interviewed as part of 
+the 2002 Heindel & Noyes Phase I ESA, the executive summary of which is included in 
+Appendix 4.
+3.2.3	State/Local Officials
+      Representatives of the Richmond Fire Department and Police Department were 
+interviewed regarding hazardous materials incidents at the Site.  Details of these interviews are 
+provided in Sections 4.4.1 and 4.4.2 below.
+3.2.4	Neighboring or Nearby Property Owner/Occupant	  
+      The Town of Richmond is a neighboring land owner.  Mr. Geoffrey Urbanik, Town 
+Manager, was interviewed on August 7, 2017 regarding hazardous materials incidents at the Site 
+as a representative of the Town of Richmond.  Mr. Urbanik said that he was not aware of any 
+incidences regarding hazardous material releases or threats to human health or the environment 
+(Urbanik, 2017).
+3.3	PRIOR INVESTIGATIONS
+      Prior investigations & remedial actions at the Site have included 1) a Phase I 
+Environmental Site Assessment (ESA) report was issued by Heindel and Noyes (H&N) on 
+December 2, 2002; 2) a Phase I ESA conducted by JCO dated October 29, 2008; 3) a Phase II 
+ESA conducted by JCO dated April 9, 2010; and 4) partial decommissioning of the ammonia 
+refrigeration system conducted on August 8, 2013 by ENPRO Services of South Burlington, VT.  
+Additional discussion is provided in the sections below and the complete reports have been 
+archived with the VTDEC. 
+3.3.1	H&N 2002 Phase I ESA	  
+      In 2002, Heindel & Noyes was retained to perform a Phase I ESA of the Former 
+Richmond Creamery.  Recognized Environmental Conditions (RECs) identified at the Site by 
+Heindel & Noyes include the presence of an ammonia refrigeration system, the presence of 
+above-ground storage tanks (ASTs) and USTs, the potential for impacts from former Site 
+activities and activities adjacent to the Site such as PAH impacts from the railroad and PCB 
+impacts from oil-containing electrical equipment, the presence of a variety of potentially 
+hazardous trash and debris, and the potential presence of lead-based paint and/or asbestos-
+containing materials (ACM) in the building.  Additional details regarding the specific RECs 
+identified by Heindel & Noyes are available in the 2002 report which had been filed with the 
+VTDEC. 
+3.3.2	The Johnson Company 2008 Phase I ESA	  
+      In 2008 JCO was retained by Chittenden County Regional Planning Commission 
+(CCRPC) to perform a Phase I ESA that confirmed the RECs that were identified in the 2002 
+Heindel and Noyes assessment.  The JCO Phase I ESA also identified the presence of a buried 
+concrete structure to the south of the factory building and the possible presence of USTs owned 
+by Standard Oil Company.  Additional details are available in the JCO Phase I ESA which has 
+been filed with the VTDEC.
+3.3.3	Phase II ESA: The Johnson Company 2010
+      JCO was again retained by CCRPC to perform a Phase II ESA to address the RECs 
+identified in the JCO Phase I ESA.  This work included: 
+1)	Collection of soil samples for laboratory analysis and for metals field screening.
+Findings: Soils contaminated with metals and PAHs above applicable screening 
+values exist at the Site.  The degree of impacts is greater to the north (near the 
+railroad corridor) and lesser farther to the south.
+2)	Installation and sampling of monitoring wells.
+Findings: Groundwater samples contained metals at concentrations above Vermont 
+groundwater enforcement standards (VGES).  However, no on-site sources of 
+contamination were identified and after review of the data and consultation with 
+VTDEC it was determined that no additional groundwater sampling would be 
+required.
+3)	Collection of soil and interior bulk concrete samples for PCB analysis.
+Findings: PCBs were not detected at concentrations above the laboratory detection 
+limits in any samples
+4)	Inspection of the building for asbestos, lead paint, and mold.
+Findings: Asbestos, lead paint and mold were detected in samples collected from 
+within the main building.  The asbestos assessment conducted during the 2010 
+Phase II ESA was considered preliminary. 
+2015 Update: Additional sampling was conducted in the spring of 2015 by Clay 
+Point Associates to develop the formal abatement design plan.  This sampling 
+confirmed the presence of asbestos and lead paint and further defined the extents 
+of these materials.
+5)	Inspection of the exterior concrete pit.
+Findings: The concrete pit was found to contain concrete rubble and no evidence 
+of volatile organic compounds (VOC) impacts was found.  The purpose of this pit 
+was not determined.
+6)	A hazardous waste inventory.
+Findings: A variety of potentially hazardous wastes were identified during the 
+Phase II ESA.  
+2015 Update: Based on the September 23, 2015 Site walkover conducted by JCO, 
+the bulk of this material is no longer present at the Site.  However the removal was 
+not overseen by JCO and no documentation of the removal has been provided.
+7)	Inspection of the ammonia refrigeration system.
+Findings: Approximately 125 gallons of ammonia were identified in the receiver of 
+the ammonia refrigeration system.  
+2015 Update: In August 2013 the anhydrous ammonia receiver was 
+decommissioned, see Section 3.3.4, below.
+8)	An assessment of the water supply well.
+Findings: The water supply well is equipped with an approximately 15-foot 
+concrete tower and could not be safely accessed and therefore samples were not 
+collected from the well.  No details (casing diameter, depth, closure status, etc.) are 
+known about this well.
+9)	Characterization of the sump inside the building.
+Findings: VOCs and PAHs were not detected in the aqueous sample collected from 
+the sump.  Arsenic was detected at concentrations slightly above VGES; no other 
+exceedances were reported.
+3.3.4	Partial Ammonia System Decommissioning
+      On August 8, 2013 ENPRO of South Burlington, Vermont oversaw the decommissioning 
+of the anhydrous ammonia receiver (the main tank associated with the ammonia refrigeration 
+system which contained residual refrigerant).  The actual decommissioning was conducted by 
+Tanner Industries, Inc. of Southampton, PA.  According to a summary email from ENPRO dated 
+February 26, 2014, approximately 77 gallons of anhydrous ammonia were removed and sent for 
+recovery and the tank was purged with nitrogen.  According to ENPRO, the receiver is 
+reportedly free of anhydrous ammonia and can be considered scrap metal.  However, this effort 
+did not include decommissioning of any other portions of the refrigeration system (including 
+piping and a potential ice maker).  While at least some of the valves appear to be open and the 
+gauges are reading zero, the ammonia refrigeration technician could not confirm that the rest of 
+the system is free of anhydrous ammonia. 
+3.3.5	Phase II ESA: The Johnson Company 2015
+      In 2015 The Johnson Company was retained by Buttermilk Properties and non-profit 
+partners (Northwest Regional Planning Commission and Rutland Regional Planning 
+Commission) to conduct a Phase I ESA of the Site.  This assessment identified soil 
+contamination (PAHs and metals) and groundwater contamination (metals) as RECs at the Site.  
+In addition to the official RECs, the 2015 Phase I ESA identified the following non-scope items: 
+containerized potentially hazardous materials in the former factory and storage buildings; the 
+10,000-gallon fuel oil storage AST and the wastewater UST; potential residual ammonia in the 
+refrigeration system; asbestos in on-site buildings, primarily in the main factory building, and a 
+small oil stain on the concrete floor of the boiler building (considered to be a de minimis 
+condition).  The executive summary of this ESA is provided in Appendix 4. 
+3.3.6	Asbestos Abatement, Building Demolition, and UST Closure (2016-2017)
+      Between October 3, 2016 and December 1, 2016 demolition of the on-site buildings was 
+conducted.  
+
+4.0  REGULATORY STATUS
+4.1	ENVIRONMENTAL LIENS
+      	A search of the files at the Richmond Town Clerk's office on May 18, 2017 revealed no 
+environmental liens on the property.  However, it is noted that JCO are not title attorneys.
+4.2	FEDERAL REGULATORY FILES
+	A database radius search report was provided by EDR (EDR, 2017).  Information for the 
+following sub-sections was taken from the EDR report.  If the EDR results suggest that a more 
+detailed assessment of a particular property or regulatory category is warranted, then the reason 
+and additional search results will be detailed below.  Otherwise, all information provided in this 
+section was obtained from the EDR Radius Map Report. The EDR Radius Map Report is 
+included as Appendix 2.
+4.2.1	Federal National Priority List (NPL)
+      The Site is not listed on the National Priority List (NPL), i.e., Superfund site, nor is any 
+property within a one mile search radius of the Site.
+4.2.1.1	Delisted NPL sites 
+		Neither the Site nor any other properties within the one mile search radius are 
+delisted NPL sites.
+4.2.2	Comprehensive Environmental Response, Compensation and Liability Information 
+System (CERCLIS) List
+      The Site does not appear on the CERCLIS database and no other listed CERCLIS sites 
+were identified within a 0.5 mile search radius of the Site.
+4.2.2.1	No Further Remedial Action Planned (NFRAP) site list
+      Neither the Site nor any sites within a 0.5 mile search radius are listed as 
+CERCLIS designated sites with a no further remedial action planned (NFRAP) status.
+4.2.3	Federal Resource Conservation and Recovery Act (RCRA) Generators
+      No RCRA generators are listed at the Site.  Two conditionally exempt small quantity 
+generators (CESQGs) are located within 1/8-mile of the Site.
+4.2.3.1	RCRA Corrective Action Sites (CORRACTS) List
+      The Site is not on the list of RCRA Corrective Action sites for EPA Region 1, nor 
+is any property within a one mile search radius of the Site.
+4.2.4	RCRA Treatment, Storage and Disposal (TSD) Facilities
+      There are no transportation and disposal (TSD) facilities listed within a 0.5 mile search 
+radius of the Site.
+4.2.5	Federal Institutional Control/Engineering Registries
+      There are no federally-registered controls within a 0.5 mile search radius of the Site.
+4.2.6	Federal Emergency Response Notification (ERNS) List
+      	According to a query on the National Response Center website at the time of this report 
+(NRC, 2017), there was a spill of anhydrous ammonia reported on November 14, 1997, related to 
+operations at the Site.  The responsible party is listed as Richmond Cheese Company on Railroad 
+Street in Richmond, Vermont.  According to the incident report, an unknown amount of 
+anhydrous ammonia was released from a pump attached to seven 150 lb. cylinders.  The cause of 
+the incident is listed on the incident report as "under investigation" and the incident report 
+indicated the release was as contained within the building and there was no release to the 
+environment.  This spill is also listed on the VTANR Waste Management Interactive Database 
+(WMID) as spill number WMD400 (ANR2, 2017).
+4.2.7	EPA On-Scene Coordinator Emergency Environmental Response
+      The EPA On-scene Coordinator (EPA OSC) program performs rapid responses to remove 
+direct contact risks by trespassers or the public.  The EPA OSC records are not part of the 
+standard EDR database search, therefore JCO conducted a separate search of OSC records.  As 
+of August 7, 2017 no OSC sites were listed within a 1.0-mile search radius of the Site (EPAOSC, 
+2017).
+4.3	STATE/TRIBAL REGULATORY FILES
+	There are no recognized tribal or American Indian-owned lands within Vermont; 
+therefore, no tribal files were searched during this ESA.
+4.3.1	Hazardous Sites List
+      The Site is listed on the hazardous site list with Vermont Site Management Section 
+number 20083835. Please see Section 3.3 for more information on previous investigations at the 
+Site.  Based on The Johnson Company's review of the EDR Radius Map Report and on the 
+Vermont Agency of Natural Resources (ANR) Natural Resources Atlas (NRA), two active sites 
+and five closed sites were identified to be within the 1-mile search radius of the Site (EDR, 2017; 
+ANR1, 2017). These properties are identified on Table 2. 
+      
+      Based on the surrounding topography and on the groundwater potentiometric data 
+collected during the Phase II ESA, a total of three sites are considered to be either potentially up-
+gradient or potentially cross-gradient to the Site.  These sites are the GC Morris Residence, the 
+Richmond Dental Clinic, and Harrington's Richmond.  
+
+GC Morris Residence (Medium Priority, SMS# 2012-4295):
+      The project status for the GC Morris Residence (located approximately 1,500-feet 
+northwest of the Site) indicated that a 1,000-gallon heating oil tank was removed, that the tank 
+was found to be in poor condition, and that additional work was required to determine the extent 
+of contamination.  The initial site investigation conducted by Leggette, Brashears & Graham, 
+Inc. did not identify any evidence of petroleum contamination in three soil borings advanced 
+around the former UST location.  Similarly, no exceedances of the Vermont Groundwater 
+Enforcement Standards (VGES) were reported in any of the samples collected from the site 
+(LBG, 2012).   
+
+Richmond Dental Clinic (SMAC, SMS# 2004-3292):
+      The Richmond Dental Clinic is located at 72 Bridge Street in Richmond Vermont 
+(approximately 600 feet northwest of the Site).  According to a February 2005 report prepared by 
+KAS, Inc., of Williston, Vermont, petroleum impacts to subsurface soils were detected during 
+the removal of a 1,000 gallon fuel oil UST in November 2004 (KAS, 2005).  Four shallow 
+monitoring wells were subsequently installed, no petroleum compounds were reported above 
+laboratory detection limits, and it was determined by the VTDEC that the source(s), nature, and 
+extent of the petroleum contamination had been adequately defined to be confined to on-site 
+soils.  The wells were subsequently closed (ANR2, 2017).
+
+Harrington's Richmond (NFAP, SMS# 91-1114):
+      The Harrington's Richmond property is located approximately 1,100-feet east of the Site.  
+Based on a review of the data available on the WMID regarding this site, it is unclear why this 
+property was initially listed as a hazardous waste site.  However, a 1991 investigation of the 
+property by Heindel & Noyes found asbestos-containing materials in the building, but did not 
+find any other recognized environmental conditions.  The report concluded that the floor drains 
+at the facility were connected to the municipal sewer system and stated that no detectable 
+petroleum hydrocarbons were reported in samples collected from points adjacent to the two 550-
+gallon fuel oil tanks which provide heat to the facility (H&N, 1991).  
+      
+      Based on the surrounding topography, it is considered unlikely that groundwater or vapor 
+contamination from any of the remaining four sites within one mile would have migrated to the 
+Site.  Based on these findings, it is considered unlikely that environmental impacts to the Site 
+from the eight hazardous waste sites located within one mile of the nearest property boundary 
+have occurred. 
+4.3.2	Underground Storage Tank List
+      	There are no registered active underground storage tanks (USTs) at the Site (ANR2, 
+2017).  However, one partially buried, unregistered, wastewater UST was formerly located at the 
+Site.  Based on the data collected during the JCO Phase II ESA, the soils surrounding this tank 
+did not appear to have impacted by petroleum releases.  In addition, a UST was encountered 
+beneath the main creamery building during demolition.  This tank was subsequently closed (see 
+Section 3.3 for additional details).
+      
+      There are listed USTs on adjacent properties at the Blue Seal Feeds building at 13 Jolina 
+Court, at the Richmond Town Center on Bridge Street, and at Richmond Dental at 72 Bridge 
+Street (one UST on each property).  The tanks at all three locations are listed as pulled.  
+4.3.3	Spills List
+      As discussed in Section 4.2.6, an Anhydrous Ammonia release was reported at the Site on 
+November 14, 1997.  The WMID also lists an incident involving "unknown liquid flowing from 
+pipe" which was reported on April 15, 1994.  No additional details are provided (ANR2, 2017; 
+NRC, 2017).
+4.3.4	Landfills
+      There are no certified landfills within a 0.5 mile search radius of the Site (EDR, 2017).
+4.3.5	Institutional Controls/Engineering Controls Registries
+      An investigation of the records available at the Richmond Town Clerk's office revealed 
+that no institutional and/or engineering controls had been filed in the Land Records for the Site 
+as of June 1, 2016.
+4.3.6	Voluntary Cleanup Sites
+      Vermont does not specifically have a voluntary cleanup program, but the Brownfield 
+Reuse Environmental Liability Limitation Act (BRELLA, effective July 1, 2008), acts as one for 
+non-responsible parties.  
+4.3.7	Brownfield Sites
+      The Site is enrolled in the Brownfield Cleanup Program.  Additional details regarding the 
+environmental conditions at the Site are provided in this report.  No other sites within 0.5 miles 
+from the Site property boundary are enrolled in the program (EDR, 2017).  
+4.4	LOCAL REGULATORY FILES	
+4.4.1	Fire Department
+      The Richmond Fire Department was contacted on September 24, 2015 regarding 
+hazardous materials incidents at the Site.  Fire Chief Tom Levesque informed The Johnson 
+Company that his department had responded to an ammonia leak at the Saputo Cheese Factory 
+approximately 16 years ago.  Mr. Levesque stated that the ammonia spill was the result of a 
+malfunctioning pump, and that the ammonia release was contained within the factory, although a 
+strong ammonia smell was present outside the factory at the time of the release.  Other than a 
+non-emergency inspection of the ammonia system which occurred approximately 2-years ago, 
+Mr. Levesque did not recall any other responses to releases or spills of hazardous substances 
+during his 40+ years with the Richmond Fire Department (Levesque, 2015).  On June 6, 2016 
+Chief Dennis Gile (45 years tenure with the fire department) was contacted regarding hazardous 
+materials incidents at the Site.  Chief Gile stated that there have been no changes to the property 
+with respect to hazardous materials that he is aware of.  He did state that some efforts have been 
+made to keep trespassers out of the building (Gile, 2016).
+4.4.2	Police Department
+      Richmond Police Chief Alan Buck, four years tenure as police chief, was interviewed on 
+August 7, 2017 regarding hazardous materials incidents at the Site.  Chief Buck indicated that he 
+was not aware of any such incidences at the Site (Buck, 2017).  
+4.4.3	Local Electric Utility Company (Polychlorinated biphenyls)
+	Electricity to the Site was served by Green Mountain Power (GMP) via overhead lines.  
+According to telephone communication with GMP field operations personnel (GMP, 2008); all 
+overhead lines and transformers were removed sometime between 2001 and 2003 at the request 
+of the property owner.  Observations made during the Site visit on September 23, 2015 confirm 
+that no overhead power lines or transformers were present at the Site, and Mr. Caswell further 
+confirmed this in the Environmental Questionnaire.
+4.5	NON-AAI/ASTM SCOPE CONSIDERATIONS
+4.5.1	Asbestos and Lead Paint Issues
+      Asbestos and lead-based paint inspections conducted during the 2010 Phase II ESA and 
+in 2015 as part of the asbestos abatement design process.  These inspections identified both 
+asbestos and lead paint in on-site buildings.  Additional details regarding asbestos and lead paint 
+abatement activities are provided in Section 3.3.3.  In addition, a section of suspected asbestos-
+containing cementitious pipe was observed on the Site surface during the August 26, 2017 Site 
+walkover.  Additional details regarding the pipe are provided in Section 5.1.
+5.0  SITE RECONNAISSANCE
+      A Site walkover was conducted on August 26, 2017 by Jeremy Matt of JCO.  The 
+weather conditions on the day of the Site visit were sunny, approximately 75 degrees, with light 
+wind.  Photos taken during the Site visit are documented in the photo plates included as 
+Appendix 5 of this report.  
+5.1	EXTERIOR OBSERVATIONS
+      The exterior portions of the Site consist of open, lightly vegetated land in the vicinity of 
+the former structures and denser brushy and woody vegetation around the edges of the Site.  
+With the exception of a small steel-sided shed (see Section 5.2 below for additional discussion of 
+this shed) and a concrete tower housing a water supply well, no structures are present at the site.  
+The Site surface in the vicinity former buildings (the main creamery building, the boiler room, 
+and the blacksmith shop) has been disturbed by the recent demolition activities and has been 
+mulched and seeded to reduce the potential for erosion.  In addition, approximately 12-inch 
+diameter "coir logs" (bundles of organic material such as coconut fiber or straw used as erosion 
+control devices) were noted at the downhill edges of the disturbed area.  
+      
+      During the walkover, the Site surface was inspected for any staining or evidence of 
+potential contamination.  The following observations were made during the walkover:
+*	In the footprint of the former blacksmith shop, a approximately 3-foot long, 4-
+inch diameter piece of cementitious pipe was noted.  This pipe may be asbestos-
+containing.  This pipe appeared to have been encountered during excavation 
+activities and placed next to a trench box.  The pipe was placed directly on the 
+Site surface and was not covered with poly sheeting.  
+*	A concrete ring which appeared to be approximately the size of a typical utility 
+hole, was observed near the eastern end of the former blacksmith shop.  The 
+purpose of this structure is not known.
+*	No evidence of significant erosion of Site soils was noted.  In particular, no 
+erosion rills were noted and no sediment had collected against the downgradient 
+coir logs.
+*	Isolated piles of building materials (slate roofing tiles, lumber, and bricks) were 
+noted stored on the Site.  These materials did not appear to be hazardous
+*	An approximately 1-foot diameter patch of dark, possibly stained soils were noted 
+in the approximate vicinity of the former #6 fuel oil AST.  It is unclear if this 
+material originated from the AST or from a vehicle (the patch was situated 
+between to very deep vehicle ruts).  However, the material appeared to have been 
+in its current location for an extended period of time and did not appear to be 
+related to closure of the AST.  It is considered likely that this is a de minimis 
+condition.
+*	No evidence of releases (staining, odors, etc) were noted in the vicinity of the 
+former wastewater UST located to the southeast of the former creamery building.
+*	Some miscellaneous debris (broken concrete, PVC piping, short sections of metal 
+pipe, etc) was observed on the Site.  These materials were primarily noted around 
+the edges of the Site in areas of denser vegetation and largely did not appear to be 
+associated with the demolition activities at the Site.
+*	A pit covered by a concrete slab was observed during the 2008 Phase I ESA 
+walkover.  No evidence of this pit was noted during the August 26, 2017 Site 
+walkover and it is presumed that this pit was demolished and backfilled during 
+demolition of the main creamery building. 
+*	The well formerly located within an approximately 15 foot concrete tower at the 
+northeast corner of the Site has reportedly been closed.  However, the interior of 
+the tower was not observed because the top of the tower was not safely accessible.  
+Therefore, it was not possible to confirm if the well had been closed.  It should be 
+noted that no evidence of recent activity (broken vegetation, footprints, etc) were 
+noted near the well tower.  According to the Richmond Town Manager (Mr. 
+Ronald Rodjenski) who was interviewed for the 2008 Phase I ESA, the well has 
+not been used since the Site was connected to the Town of Richmond municipal 
+water supply, and was not listed on the VTDEC well database (ANR2, 2016).  
+
+      The approximate location of oil storage tanks documented on the 1926 and 1939 Sanborn 
+Maps was inspected during the 2008 Phase II ESA with a magnetometer.  No tanks were located 
+during this survey.
+      
+      The former rail spur that crossed the northeastern corner of the Site was also not 
+observed.  Idling locomotives can be a source of polynuclear aromatic hydrocarbons (PAHs) in 
+shallow soils, and there is the potential that spills may have occurred from rail cargo in this area.  
+The April 2010 Phase II ESA confirmed the presence of PAHs in surface soil and remediation of 
+these soils is described in the September 2, 2015 RAWP that was prepared by JCO. 
+5.2	INTERIOR OBSERVATIONS
+      The steel shed is located to the south of the main creamery building (near the former 
+partially buried wastewater UST).  During the previous Phase I ESA walkover, drums of 
+hazardous materials were noted in this building.  These drums were no longer present as of the 
+August 26, 2017 walkover and reportedly have been transported off-site for appropriate disposal.  
+However, as of the date of this report, formal disposal documentation has not been provided to 
+JCO.  No staining or other evidence of releases were noted in this building.  
+       
+6.0  USER RESPONSIBILITIES
+      In order to qualify for one of the Landowner Liability Protections (LLP) offered by the 
+Small Business Liability Relief and Brownfields Revitalization Act of 2001, the user(s) and/or 
+grantee(s) or a party on behalf of the user(s) and/or grantee(s) must collect the following 
+information, if applicable, and should make the information available to the environmental 
+professional upon request:
+      
+1.	Environmental cleanup liens that are filed or recorded against the Site;
+2.	Activity and land use limitations that are in place on the Site or that have been 
+filed or recorded in a registry;
+3.	Specialized knowledge or experience of the person seeking to qualify for the 
+Limited Liability Protections (LLPs);
+4.	Relationship of the purchase price to the fair market value of the property if it 
+were not contaminated;
+5.	Commonly known or reasonably ascertainable information about the property; 
+6.	The degree of obviousness of the presence or likely presence of contamination at 
+the property and the ability to detect the contamination by appropriate 
+investigation.
+
+      The information listed above was addressed by Ms. Greta Brunswick of the Northwest 
+Regional Planning Commission and Mr. Christopher Yates of the Town of Highgate, for which 
+this ESA is being performed on behalf of. A copy of a completed User Questionnaires pertaining 
+to the Site has been included with this report as Appendix 5.
+7.0  CONCLUSIONS & OPINIONS
+      JCO has performed a Phase I Environmental Site Assessment in accordance with the 
+scope and limitations of ASTM Practice E-1527-13 of the former Saputo Cheese/Richmond 
+Creamery site at 74 Jolina Court and 125 Bridge Street in Richmond, Vermont (the Site).  Any 
+exception to, or deletions from, this practice are described in Section 8.1 of this report.  
+      
+      This assessment has revealed no evidence of recognized environmental conditions 
+(RECs, CRECs, or HRECs) in connection with the property except for the following (see 
+Sections 7.1, 7.2, and 7.3 below).
+7.1	RECOGNIZED ENVIRONMENTAL CONDITIONS
+      Based on review of the available data, JCO has identified the following RECs at the Site:
+
+Known Soil Contamination: Polycyclic aromatic hydrocarbons (PAHs) and metals were 
+identified in surficial soils at concentrations above applicable soil screening levels during 
+the 2010 Johnson Company Phase II ESA.  An Analysis of Brownfield Cleanup 
+Alternatives (ABCA) and Remedial Action Work Plan (RAWP) has been prepared for 
+the Site.  The actions detailed in these documents are currently being implemented at the 
+Site.
+Known Groundwater Contamination: Metals were detected in groundwater at 
+concentrations above Vermont Groundwater Enforcement Standards (VGES) and a 
+corrective action is detailed in the September 2015 RAWP.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+7.2	CONTROLLED RECOGNIZED ENVIRONMENTAL CONDITIONS
+      Based on review of the available data, JCO has not identified any CRECs at the Site.
+7.3	HISTORIC RECOGNIZED ENVIRONMENTAL CONDITION (HREC)
+      A HREC is defined by ASTM in the E1527-13 standard as "a past release of hazardous 
+substance(s) that has been addressed to the satisfaction of the applicable regulatory authority or 
+meeting unrestricted use criteria established by a regulatory authority, without subjecting the 
+property to any required controls (for example, property use restrictions, activity and use 
+limitations, institutional controls, or engineering controls)." HRECs are not considered RECs 
+when the remaining environmental conditions are compliant with the most current regulatory 
+criteria.  This assessment has revealed no evidence of HRECs in connection with the property.   
+7.4	ADDITIONAL CONSIDERATIONS
+	The following items are not formal RECs either because there is not sufficient 
+information to reasonably suspect that a release of contamination has occurred or because they 
+are beyond the scope ASTM 1527-13.  However it is the environmental professional's opinion 
+that these items should be considered when making decisions regarding the redevelopment of the 
+Site. 
+Asbestos Containing Materials: The potential presence of asbestos-containing materials 
+is beyond the scope of ASTM 1527-13.  However, it is the Environmental Professional's 
+opinion that the section of cementitious pipe may be asbestos containing.  
+Stained Soil Near the Former Fuel Oil AST: The patch of possibly stained soils is 
+potentially an aged release, but does not appear to be related to the closure of the former 
+#6 fuel oil AST.  It is the Environmental Professional's opinion that this constitutes a de 
+minimis condition.
+8.0  DATA GAPS/LIMITATIONS
+8.1	DATA GAPS
+      While the majority of the Site was inspected, dense vegetation around the perimeter of 
+the Site made detailed inspection of the entire surface of the Site infeasible.  Because these areas 
+were previously inspected and sampled during the Phase II ESA and during intervening Site 
+walkovers, this data gap does not affect the conclusions of this report.
+      
+      The interior of the concrete well tower, which is approximately 15-20 feet tall, could not 
+be safely accessed or inspected.  Photographs of the top of this tower, taken in June 2009, are 
+included in Appendix 5.  This data gap does not affect the conclusions of this report.
+8.2	LIMITATIONS
+      The conclusions of this ESA were based upon information obtained and made available 
+to JCO from the following sources: the Richmond Town Clerk; EDR; the VTDEC; the Federal 
+EPA; and from information gathered during the Site reconnaissance and interviews.  This 
+information has been intended for the sole use of Buttermilk Properties and Western Slopes 
+Business Association.  No other uses, expressed or implied, are warranted.  The design of the 
+investigation was based on sound scientific techniques and experience with similar 
+investigations.  Should additional information become available pertaining to environmental 
+concerns that may be associated with the Site, the information should be made available to JCO 
+so that we may re-evaluate our conclusions.
+
+
+

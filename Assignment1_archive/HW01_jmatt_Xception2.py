@@ -27,7 +27,7 @@ if on_windows:
     data_directory = 'D:\\Data\\Sketches\\png'
     path_delim = '\\'
 else:
-    data_directory = '../data/places_200'
+    data_directory = '../data/places_300'
     path_delim = '/'
     
     
@@ -39,10 +39,11 @@ img_width = 299
 
 train_datagen = IDG(
     samplewise_std_normalization=True,
-    shear_range = 0.2,
-    zoom_range = 0.2,
+    shear_range = 0.25,
+    zoom_range = 0.25,
     horizontal_flip = True,
-    validation_split = 0.2)
+    vertical_flip = True,
+    validation_split = 0.33)
 
 batch_size = 100
 class_mode = 'categorical'
@@ -72,7 +73,7 @@ num_classes = train_generator.num_classes
 
 load_from_file = True
 if load_from_file:
-    model = load_model('../output/Xception_places_200_FT_NT11.h5')
+    model = load_model('../output/Xception_places_200_FT_NT11_0.h5')
     for layer in model.layers:
         layer.trainable=False
 else:
@@ -129,7 +130,7 @@ else:
 
 
 #number of layers counting from the end that will be trainable
-num_trainable = [11]
+num_trainable = [11,67]
 for ind,nt in enumerate(num_trainable):
     for layer in model.layers[-1*nt:]:
         layer.trainable = True
@@ -153,8 +154,8 @@ for ind,nt in enumerate(num_trainable):
             validation_steps = validation_generator.samples // batch_size,
             epochs = nb_epochs)
         
-    name = 'Xception_places_200_FT_NT{}_2'.format(nt)
-    model.save(f'../output/{name}.h5')
+        name = 'Xception_places_200_FT_b1_NT{}_{}'.format(nt,i)
+        model.save(f'../output/{name}.h5')
 
 
 

@@ -34,6 +34,7 @@ LSTM_hidden_units = 64
 batch_size = 128
 num_chars = 256
 num_units = 256
+num_to_generate = 500
 
 model = Sequential()
 model.add(LSTM(
@@ -86,20 +87,34 @@ y = y[:useable_samples]
 # checkpoint = ModelCheckpoint(filepath, monitor='loss', verbose=1, save_best_only=True, mode='min')
 # callbacks_list = [checkpoint]
 
-model.fit(X, y, epochs=5, batch_size=batch_size)
+epochs = 20
+for i in range(100):
+    model.fit(X, y, epochs=epochs, batch_size=batch_size)
+        
     
+    weights = model.get_weights()
+    
+    trained_model.set_weights(weights)
+    
+    seed = np.array(X[100])
+    
+    seed_str = ''.join(onehot_to_char(seed))
+    
+    print('Using seed of length {} ({}) generated {} characters after {} epochs:'.format(
+                seed.shape[0],
+                ''.join(onehot_to_char(seed)),
+                num_to_generate,
+                (i+1)*epochs))
+    chars = generate_text(trained_model,num_to_generate,seed)
+    print_text(chars)
 
-weights = model.get_weights()
-
-trained_model.set_weights(weights)
-
-seed = np.array(X[0])
-
-op = trained_model.predict(seed.reshape((1,time_steps,num_chars)))
-nc = (op==op.max()).astype(int)
 
 
-onehot_to_char(nc)
+# op = trained_model.predict(seed.reshape((1,time_steps,num_chars)))
+# nc = (op==op.max()).astype(int)
+
+
+# onehot_to_char(nc)
 
 
 # output = pred_model.predict(seed.reshape((1,time_steps,num_chars)))

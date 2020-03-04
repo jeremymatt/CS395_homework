@@ -78,7 +78,7 @@ if load_from_file:
 else:
 
     xception = applications.resnet_v2.ResNet50V2(
-        include_top=True, 
+        include_top=False, 
         weights='imagenet', 
         input_shape=(224,224,3), 
         pooling='avg')

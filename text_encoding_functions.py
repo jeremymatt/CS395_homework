@@ -170,7 +170,31 @@ def make_samples(one_hot,time_steps,num_predict):
     
     
     
+def print_text(one_hot):
     
+    chars = onehot_to_char(one_hot)
+    
+    print(''.join(chars))
+    
+    
+def generate_text(trained_model,num_to_generate,seed):
+    time_steps,num_chars = seed.shape
+    
+    chars = np.zeros((num_to_generate,num_chars))
+    chars[:,0] = 1
+    
+    
+    for i in range(num_to_generate):
+        output = trained_model.predict(seed.reshape((1,time_steps,num_chars)))
+        
+        new_char = (output == output.max()).astype(int)
+        
+        chars[i] = new_char
+        
+        seed[:-1] = seed[1:]    
+        seed[-1] = new_char
+        
+    return chars
     
     
     

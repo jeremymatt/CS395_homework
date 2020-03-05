@@ -21,6 +21,10 @@ from keras import Model
 
 from text_encoding_functions import *
 
+file = 'RNN_output.txt'
+old_stdout = stdout
+stdout = open(file,'w')
+
 path_base = './data'
 # files = [f for f in os.listdir('./data') if ((os.path.isfile(f))&(f.split('.')[-1] == 'txt'))]
 # files = [f for f in os.listdir('data\\') if ((os.path.isfile(f))&(True))]
@@ -109,6 +113,7 @@ for i in range(100):
     print_text(chars)
 
 
+stdout = old_stdout
 
 # op = trained_model.predict(seed.reshape((1,time_steps,num_chars)))
 # nc = (op==op.max()).astype(int)

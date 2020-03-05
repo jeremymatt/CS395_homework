@@ -113,11 +113,10 @@ with open(file,'w') as outfile:
         
         seed_str = ''.join(onehot_to_char(seed))
         
-        outfile.write('Using seed of length {} generated {} characters after {} epochs (ending accuracy:{:0.4f}).\nSeed: \'{}\'\n'.format(
+        outfile.write('Using seed of length {} generated {} characters after {} epochs.\nSeed: \'{}\'\n'.format(
                     seed.shape[0],
                     num_to_generate,
                     sum(epochs_list[:ind+1]),
-                    model.history.history['accuracy'][-1],
                     ''.join(onehot_to_char(seed))))
         chars = generate_text(trained_model,num_to_generate,seed)
         text = onehot_to_char(chars)

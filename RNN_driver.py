@@ -22,20 +22,18 @@ import pickle
 
 from text_encoding_functions import *
 
+#Find all the training files in the data directory
 path_base = './data'
-# files = [f for f in os.listdir('./data') if ((os.path.isfile(f))&(f.split('.')[-1] == 'txt'))]
-# files = [f for f in os.listdir('data\\') if ((os.path.isfile(f))&(True))]
-
-# files = [os.path.join(path_base,f) for f in os.listdir(path_base) if os.path.isfile(os.path.join(path_base,f))]
 files = [os.path.join(path_base,f) for f in os.listdir(path_base) if f.split('.')[-1] == 'txt']
 
-time_steps = 50
-num_predict = 1
-LSTM_hidden_units = 64
-batch_size = 128
-num_chars = 256
-num_units = 256
-num_to_generate = 500
+#Control constants
+time_steps = 50 #length of character sequence in one sample
+num_predict = 1 #How many output characters to predict
+# LSTM_hidden_units = 64 #Number of hidden units in the network
+batch_size = 128 #Training batch size
+num_chars = 256 #Number of characters (number of one-hot classes)
+num_units = 256 #Number of hidden units in the network
+num_to_generate = 500 #Number of samples to generate
 
 model = Sequential()
 model.add(SimpleRNN(
@@ -64,14 +62,6 @@ model.compile(
     optimizer='adam', 
     metrics = ['accuracy'])
 
-# for file in files:
-#     print(file)
-#     text = load_text(file)
-#     one_hot = char_to_onehot(text)
-#     (X,y) = make_samples(one_hot,time_steps,num_predict)
-#     useable_samples = int(X.shape[0]/batch_size)*batch_size
-#     X = X[:useable_samples]
-#     y = y[:useable_samples]
 
 try:
     print('loading from pickle')
@@ -91,11 +81,6 @@ useable_samples = int(X.shape[0]/batch_size)*batch_size
 X = X[:useable_samples]
 y = y[:useable_samples]
     
-
-# # define the checkpoint
-# filepath=f"weights-improvement-{epoch:02d}-{loss:.4f}.hdf5"
-# checkpoint = ModelCheckpoint(filepath, monitor='loss', verbose=1, save_best_only=True, mode='min')
-# callbacks_list = [checkpoint]
 
 file = 'RNN_results.txt'
 epochs_list = [1,1,1,1,1,5,10,10,10,10,20,20,20,20,20,50,50,50,50,50,50,50,100,100,100,100,100]
@@ -125,29 +110,3 @@ with open(file,'w') as outfile:
         outfile.write('\"{}\"'.format(''.join(text)))
         outfile.write('\n==========================================\n\n')
 
-
-
-# op = trained_model.predict(seed.reshape((1,time_steps,num_chars)))
-# nc = (op==op.max()).astype(int)
-
-
-# onehot_to_char(nc)
-
-
-# output = pred_model.predict(seed.reshape((1,time_steps,num_chars)))
-
-# new_char = (output == output.max()).astype(int)
-
-
-# seed[:-1] = seed[1:]    
-# seed[-1] = new_char
-
-
-
-    # num_chars = len(text)
-    
-    # spaces = []
-    # for i in range(time_steps):
-    #     spaces.append(' ')
-
-    # text.extend(spaces)

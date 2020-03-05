@@ -11,9 +11,9 @@
 # Request GPUs
 #SBATCH --gres=gpu:1
 # Request memory 
-#SBATCH --mem=32G
+#SBATCH --mem=16G
 # Maximum runtime of 10 minutes
-#SBATCH --time=30:00:00
+#SBATCH --time=15:00:00
 # Name of this job
 #SBATCH --job-name=jm_RNN
 # Output of this job, stderr and stdout are joined by default

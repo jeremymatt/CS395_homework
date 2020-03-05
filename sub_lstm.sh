@@ -22,6 +22,6 @@
 # change to the directory where you submitted this script
 cd ${SLURM_SUBMIT_DIR}
 # your job execution follows:
-time python ~/scratch/DeepLearning/github/CS395_homework/RNN_driver.py
+time python ~/scratch/DeepLearning/github/CS395_homework/LSTM_driver.py
 
 

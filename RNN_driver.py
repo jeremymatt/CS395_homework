@@ -75,7 +75,7 @@ model.compile(
 
 try:
     print('loading from pickle')
-    with open('one_hot.pkl','rb') as f:
+    with open('one_hot.oh','rb') as f:
         one_hot = pickle.load(f)
 except:
     print('Processing file for the first time')
@@ -83,7 +83,7 @@ except:
     print(file)
     text = load_text(file)
     one_hot = char_to_onehot(text)
-    with open('one_hot.pkl','wb') as f:
+    with open('one_hot.oh','wb') as f:
         pickle.dump(one_hot,f)
         
 (X,y) = make_samples(one_hot,time_steps,num_predict)

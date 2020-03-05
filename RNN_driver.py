@@ -87,8 +87,8 @@ y = y[:useable_samples]
 # checkpoint = ModelCheckpoint(filepath, monitor='loss', verbose=1, save_best_only=True, mode='min')
 # callbacks_list = [checkpoint]
 
-epochs = 20
-for i in range(100):
+epochs = 10
+for i in range(15):
     model.fit(X, y, epochs=epochs, batch_size=batch_size)
         
     

@@ -21,10 +21,6 @@ from keras import Model
 
 from text_encoding_functions import *
 
-file = 'RNN_output.txt'
-old_stdout = stdout
-stdout = open(file,'w')
-
 path_base = './data'
 # files = [f for f in os.listdir('./data') if ((os.path.isfile(f))&(f.split('.')[-1] == 'txt'))]
 # files = [f for f in os.listdir('data\\') if ((os.path.isfile(f))&(True))]
@@ -91,29 +87,34 @@ y = y[:useable_samples]
 # checkpoint = ModelCheckpoint(filepath, monitor='loss', verbose=1, save_best_only=True, mode='min')
 # callbacks_list = [checkpoint]
 
-epochs = 10
-for i in range(100):
-    model.fit(X, y, epochs=epochs, batch_size=batch_size)
+file = 'RNN_results.txt'
+epochs_list = [1,1,1,1,1,5,10,10,10,10,20,20,20,20,20,50,50,50,50,50,50,50,100,100,100,100,100]
+# epochs_list = [1,2]
+with open(file,'w') as outfile:
+    for ind,epochs in enumerate(epochs_list):
+        model.fit(X, y, epochs=epochs, batch_size=batch_size)
+            
         
-    
-    weights = model.get_weights()
-    
-    trained_model.set_weights(weights)
-    
-    seed = np.array(X[100])
-    
-    seed_str = ''.join(onehot_to_char(seed))
-    
-    print('Using seed of length {} ({}) generated {} characters after {} epochs:'.format(
-                seed.shape[0],
-                ''.join(onehot_to_char(seed)),
-                num_to_generate,
-                (i+1)*epochs))
-    chars = generate_text(trained_model,num_to_generate,seed)
-    print_text(chars)
+        weights = model.get_weights()
+        
+        trained_model.set_weights(weights)
+        
+        seed = np.array(X[100])
+        
+        seed_str = ''.join(onehot_to_char(seed))
+        
+        outfile.write('Using seed of length {} generated {} characters after {} epochs (ending accuracy:{:0.4f}).\nSeed: \'{}\'\n'.format(
+                    seed.shape[0],
+                    num_to_generate,
+                    sum(epochs_list[:ind+1]),
+                    model.history.history['accuracy'][-1],
+                    ''.join(onehot_to_char(seed))))
+        chars = generate_text(trained_model,num_to_generate,seed)
+        text = onehot_to_char(chars)
+        outfile.write('\"{}\"'.format(''.join(text)))
+        outfile.write('\n==========================================\n\n')
 
 
-stdout = old_stdout
 
 # op = trained_model.predict(seed.reshape((1,time_steps,num_chars)))
 # nc = (op==op.max()).astype(int)

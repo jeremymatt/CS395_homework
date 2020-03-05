@@ -12,7 +12,7 @@ import os
 import copy
 
 from keras import Sequential 
-from keras.layers import Conv2D, MaxPooling2D,LSTM
+from keras.layers import Conv2D, MaxPooling2D,LSTM,SimpleRNN
 from keras.layers import Activation, Dropout, Flatten, Dense
 from keras import layers
 from keras import optimizers
@@ -37,7 +37,7 @@ num_units = 256
 num_to_generate = 500
 
 model = Sequential()
-model.add(LSTM(
+model.add(SimpleRNN(
     units = num_units,
     batch_input_shape = (batch_size,time_steps,num_chars),
     stateful=True,
@@ -48,7 +48,7 @@ model.add(Dense(num_chars*num_predict,activation='softmax'))
 
 
 trained_model = Sequential()
-trained_model.add(LSTM(
+trained_model.add(SimpleRNN(
     units = num_units,
     batch_input_shape = (1,time_steps,num_chars),
     stateful=True,

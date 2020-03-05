@@ -18,6 +18,7 @@ from keras import layers
 from keras import optimizers
 from keras import applications
 from keras import Model
+import pickle
 
 from text_encoding_functions import *
 
@@ -72,10 +73,19 @@ model.compile(
 #     X = X[:useable_samples]
 #     y = y[:useable_samples]
 
-file = files[0]
-print(file)
-text = load_text(file)
-one_hot = char_to_onehot(text)
+try:
+    print('loading from pickle')
+    with open('one_hot.pkl','rb') as f:
+        one_hot = pickle.load(f)
+except:
+    print('Processing file for the first time')
+    file = files[0]
+    print(file)
+    text = load_text(file)
+    one_hot = char_to_onehot(text)
+    with open('one_hot.pkl','wb') as f:
+        pickle.dump(one_hot,f)
+        
 (X,y) = make_samples(one_hot,time_steps,num_predict)
 useable_samples = int(X.shape[0]/batch_size)*batch_size
 X = X[:useable_samples]

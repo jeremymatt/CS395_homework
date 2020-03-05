@@ -88,7 +88,7 @@ y = y[:useable_samples]
 # callbacks_list = [checkpoint]
 
 epochs = 10
-for i in range(50):
+for i in range(100):
     model.fit(X, y, epochs=epochs, batch_size=batch_size)
         
     

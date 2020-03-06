@@ -171,27 +171,68 @@ def make_samples(one_hot,time_steps,num_predict):
     
     
 def print_text(one_hot):
-    
+    """
+    Prints one-hot characters to the screen
+
+    Parameters
+    ----------
+    one_hot : TYPE numpy array
+        Characters encoded in a one-hot array
+
+    Returns
+    -------
+    None.
+
+    """
+    #Convert from one-hot to list of characters
     chars = onehot_to_char(one_hot)
-    
+    #Join and print the characters
     print(''.join(chars))
     
     
 def generate_text(trained_model,num_to_generate,seed):
+    """
+    Uses a trained model to generate character predictions from an input seed
+
+    Parameters
+    ----------
+    trained_model : TYPE keras serial model
+        The model with trained weights and an input shape of one sample
+    num_to_generate : TYPE integer
+        The number of characters to generate
+    seed : TYPE numpy array
+        A one-hot array of characters to use as a seed
+
+    Returns
+    -------
+    chars : TYPE
+        DESCRIPTION.
+
+    """
+    #Determine the time steps (sequence length) of the sample and the number
+    #of classes in the one-hot encoding
     time_steps,num_chars = seed.shape
     
+    #Generate an array of zeros to hold the generated characters
     chars = np.zeros((num_to_generate,num_chars))
+    #Set the first column equal to one (so each row is a valid one-hot vector)
     chars[:,0] = 1
     
-    
+    #for each character to generate
     for i in range(num_to_generate):
+        #Reshape the seed to be three dimensional with dimensions:
+        #(one-sample, sequence-length, number-of-one-hot-classes)
         output = trained_model.predict(seed.reshape((1,time_steps,num_chars)))
-        
+        #Convert the output class probabilities to a one-hot vector (predict
+        #the max value to be the class)
         new_char = (output == output.max()).astype(int)
         
+        #Put the new character vector in the array of generated characters
         chars[i] = new_char
         
+        #Shift the seed one to the "left" (drop the first character)
         seed[:-1] = seed[1:]    
+        #Insert the new character at the end (right side) of the string
         seed[-1] = new_char
         
     return chars

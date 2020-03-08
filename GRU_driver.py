@@ -12,7 +12,7 @@ import os
 import copy
 
 from keras import Sequential 
-from keras.layers import Conv2D, MaxPooling2D,LSTM,SimpleRNN
+from keras.layers import Conv2D, MaxPooling2D,LSTM,SimpleRNN,GRU
 from keras.layers import Activation, Dropout, Flatten, Dense
 from keras import layers
 from keras import optimizers
@@ -53,7 +53,7 @@ except:
         pickle.dump(one_hot,f)
     
 #Define a file name to save the results
-file = 'LSTM_results.txt'
+file = 'GRU_results.txt'
 #List of number of epochs to train the network for.
 epochs_list = [1,1,1,1,1,5,10,10,10,10,20,20,20,20,20,50,50,50,50,50,50,50,100,100,100,100,100]
 epochs_list = [1,1]
@@ -79,7 +79,7 @@ for seq_lenth in time_steps:
         #Define the training model and add layers with an input shape that includes
         #more than one sample
         model = Sequential()
-        model.add(LSTM(
+        model.add(GRU(
             units = units,
             batch_input_shape = (batch_size,seq_lenth,num_chars),
             stateful=True,
@@ -90,7 +90,7 @@ for seq_lenth in time_steps:
         #Define a model to use for character generation that takes only one sample
         #at a time
         trained_model = Sequential()
-        trained_model.add(LSTM(
+        trained_model.add(GRU(
             units = units,
             batch_input_shape = (1,seq_lenth,num_chars),
             stateful=True,
@@ -151,4 +151,4 @@ for seq_lenth in time_steps:
 plt.legend()
 plt.xlabel('Epoch')
 plt.ylabel('Training loss')       
-plt.savefig('LSTM_loss.png')
+plt.savefig('GRU_loss.png')

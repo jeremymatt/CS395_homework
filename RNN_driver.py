@@ -56,7 +56,7 @@ except:
 file = 'RNN_results.txt'
 #List of number of epochs to train the network for.
 epochs_list = [1,1,1,1,1,5,10,10,10,10,20,20,20,20,20,50,50,50,50,50,50,50,100,100,100,100,100]
-epochs_list = [1,1]
+epochs_list = [1,1,1,1,1,5,10,10,10,10,20,20,20,20,20]
 
 #Clear any existing data in the output file
 with open(file,'w') as outfile:

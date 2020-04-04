@@ -1,8 +1,0 @@
-Using seed of length 50 generated 500 characters after 1 epochs.
-Seed: 'mpany is pleased to present you with this report o'
-"n   on  in  are and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and and "
-==========================================
-Using seed of length 50 generated 500 characters after 2 epochs.
-Seed: 'mpany is pleased to present you with this report o'
-"n the s and the Site the formert on the Site the formering the Site the formert on the Site the formering the Site the formert on the Site the formering the Site the formert on the Site the formering the Site the formert on the Site the formering the Site the formert on the Site the formering the Site the formert on the Site the formering the Site the formert on the Site the formering the Site the formert on the Site the formering the Site the formert on the Site the formering the Site the forme"
-==========================================

@@ -159,6 +159,19 @@ class QLearner(object):
         ######
 
         # YOUR CODE HERE
+        # NOTE: Here in the target_q I had as the first param obs_tp1_float and it
+        # was causing the algorhitm not to converge. Just a bug. No depth at all.
+        # Nor eason to work with same observations.
+        num_actions = env.action_space.n    
+        target_q = q_func(obs_tp1_float, num_actions, scope="target_q_func", reuse=False)
+        q = q_func(obs_t_float, num_actions, scope="q_func", reuse=False)
+
+        target_q_func_vars = tf.get_collection(tf.GraphKeys.GLOBAL_VARIABLES, scope='target_q_func')
+        q_func_vars = tf.get_collection(tf.GraphKeys.GLOBAL_VARIABLES, scope='q_func')
+
+        target_val = self.rew_t_ph + (1 - self.done_mask_ph) * gamma * tf.reduce_max(target_q, axis=1)
+        q_val = tf.reduce_sum(tf.one_hot(self.act_t_ph, num_actions) * q, axis=1)
+        self.total_error = tf.reduce_sum(tf.squared_difference(q_val, target_val))
 
         ######
 
@@ -229,55 +242,71 @@ class QLearner(object):
         #####
 
         # YOUR CODE HERE
+        idx = self.replay_buffer.store_frame(self.last_obs)
+        q_input = self.replay_buffer.encode_recent_observation()
+
+        choose_random_action = np.random.rand() < self.exploration.value(self.t)
+
+        if self.model_initialized and not choose_random_action:
+            action_values = session.run(q, feed_dict={obs_t_ph: [q_input]})
+            action = np.argmax(action_values)
+        else:
+            action = np.random.randint(self.num_actions)
+
+        self.last_obs, reward, done, info = self.env.step(action)
+        self.replay_buffer.store_effect(idx, action, reward, done)
+
+        if done: 
+            last_obs = self.env.reset()
 
     def update_model(self):
-    ### 3. Perform experience replay and train the network.
-    # note that this is only done if the replay buffer contains enough samples
-    # for us to learn something useful -- until then, the model will not be
-    # initialized and random actions should be taken
-    if (self.t > self.learning_starts and \
-        self.t % self.learning_freq == 0 and \
-        self.replay_buffer.can_sample(self.batch_size)):
-        # Here, you should perform training. Training consists of four steps:
-        # 3.a: use the replay buffer to sample a batch of transitions (see the
-        # replay buffer code for function definition, each batch that you sample
-        # should consist of current observations, current actions, rewards,
-        # next observations, and done indicator).
-        # 3.b: initialize the model if it has not been initialized yet; to do
-        # that, call
-        #    initialize_interdependent_variables(self.session, tf.global_variables(), {
-        #        self.obs_t_ph: obs_t_batch,
-        #        self.obs_tp1_ph: obs_tp1_batch,
-        #    })
-        # where obs_t_batch and obs_tp1_batch are the batches of observations at
-        # the current and next time step. The boolean variable model_initialized
-        # indicates whether or not the model has been initialized.
-        # Remember that you have to update the target network too (see 3.d)!
-        # 3.c: train the model. To do this, you'll need to use the self.train_fn and
-        # self.total_error ops that were created earlier: self.total_error is what you
-        # created to compute the total Bellman error in a batch, and self.train_fn
-        # will actually perform a gradient step and update the network parameters
-        # to reduce total_error. When calling self.session.run on these you'll need to
-        # populate the following placeholders:
-        # self.obs_t_ph
-        # self.act_t_ph
-        # self.rew_t_ph
-        # self.obs_tp1_ph
-        # self.done_mask_ph
-        # (this is needed for computing self.total_error)
-        # self.learning_rate -- you can get this from self.optimizer_spec.lr_schedule.value(t)
-        # (this is needed by the optimizer to choose the learning rate)
-        # 3.d: periodically update the target network by calling
-        # self.session.run(self.update_target_fn)
-        # you should update every target_update_freq steps, and you may find the
-        # variable self.num_param_updates useful for this (it was initialized to 0)
-        #####
+        ### 3. Perform experience replay and train the network.
+        # note that this is only done if the replay buffer contains enough samples
+        # for us to learn something useful -- until then, the model will not be
+        # initialized and random actions should be taken
+        if (self.t > self.learning_starts and \
+            self.t % self.learning_freq == 0 and \
+            self.replay_buffer.can_sample(self.batch_size)):
+            # Here, you should perform training. Training consists of four steps:
+            # 3.a: use the replay buffer to sample a batch of transitions (see the
+            # replay buffer code for function definition, each batch that you sample
+            # should consist of current observations, current actions, rewards,
+            # next observations, and done indicator).
+            # 3.b: initialize the model if it has not been initialized yet; to do
+            # that, call
+            #    initialize_interdependent_variables(self.session, tf.global_variables(), {
+            #        self.obs_t_ph: obs_t_batch,
+            #        self.obs_tp1_ph: obs_tp1_batch,
+            #    })
+            # where obs_t_batch and obs_tp1_batch are the batches of observations at
+            # the current and next time step. The boolean variable model_initialized
+            # indicates whether or not the model has been initialized.
+            # Remember that you have to update the target network too (see 3.d)!
+            # 3.c: train the model. To do this, you'll need to use the self.train_fn and
+            # self.total_error ops that were created earlier: self.total_error is what you
+            # created to compute the total Bellman error in a batch, and self.train_fn
+            # will actually perform a gradient step and update the network parameters
+            # to reduce total_error. When calling self.session.run on these you'll need to
+            # populate the following placeholders:
+            # self.obs_t_ph
+            # self.act_t_ph
+            # self.rew_t_ph
+            # self.obs_tp1_ph
+            # self.done_mask_ph
+            # (this is needed for computing self.total_error)
+            # self.learning_rate -- you can get this from self.optimizer_spec.lr_schedule.value(t)
+            # (this is needed by the optimizer to choose the learning rate)
+            # 3.d: periodically update the target network by calling
+            # self.session.run(self.update_target_fn)
+            # you should update every target_update_freq steps, and you may find the
+            # variable self.num_param_updates useful for this (it was initialized to 0)
+            #####
 
-        # YOUR CODE HERE
+            # YOUR CODE HERE
 
-        self.num_param_updates += 1
+            self.num_param_updates += 1
 
-    self.t += 1
+        self.t += 1
 
     def log_progress(self):
         episode_rewards = get_wrapper_by_name(self.env, "Monitor").get_episode_rewards()
@@ -307,7 +336,11 @@ class QLearner(object):
 
 def learn(*args, **kwargs):
     alg = QLearner(*args, **kwargs)
+    ctr=0
     while not alg.stopping_criterion_met():
+        if ctr%1000 == 0:
+            print(ctr)
+        ctr+=1
         alg.step_env()
         # at this point, the environment should have been advanced one step (and
         # reset if done was true), and self.last_obs should point to the new latest
